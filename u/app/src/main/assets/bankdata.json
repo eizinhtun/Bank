@@ -1,0 +1,32 @@
+[
+	{
+		"bank_id": "1",
+		"bank_name": "KBZ",
+		"bank_color": "#ff0303"
+	},
+	{
+		"bank_id": "2",
+		"bank_name": "YOMA",
+		"bank_color": "#f30023"
+	},
+	{
+		"bank_id": "3",
+		"bank_name": "AGD",
+		"bank_color": "#0097a9"
+	},
+	{
+		"bank_id": "4",
+		"bank_name": "MEB",
+		"bank_color": "#2a2a2a"
+	},
+	{
+		"bank_id": "5",
+		"bank_name": "CB",
+		"bank_color": "#fbb228"
+	},
+	{
+		"bank_id": "6",
+		"bank_name": "AYA",
+		"bank_color": "#db1330"
+	}
+]

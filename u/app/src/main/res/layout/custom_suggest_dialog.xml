@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:background="@color/colorAccent"
+        android:paddingTop="8dp"
+        android:text=" Suggestion "
+        android:textAlignment="center"
+        android:textColor="@color/button_text"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin"
+        android:text=" Don't know what account to choose??
+        Need a suggestion??"
+        android:textAlignment="center"
+        android:textSize="@dimen/card_text_size" />
+
+
+</LinearLayout>

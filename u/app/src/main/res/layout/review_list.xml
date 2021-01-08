@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imgProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="@dimen/card_text_margin"
+        android:src="@drawable/user" />
+
+    <TextView
+        android:id="@+id/tvUserName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/card_text_margin"
+        android:layout_toRightOf="@id/imgProfile"
+        android:text="Anonymous"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_margin="@dimen/card_text_margin"
+        android:text="12/10/2017"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/tvComment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvUserName"
+        android:layout_marginBottom="@dimen/card_text_margin"
+        android:layout_marginLeft="@dimen/card_text_margin"
+        android:layout_marginRight="@dimen/card_text_margin"
+        android:layout_marginTop="4dp"
+        android:layout_toRightOf="@id/imgProfile"
+        android:text="It is good to have a saving habit" />
+
+
+</RelativeLayout>
+

@@ -1,0 +1,181 @@
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:scrollbars="vertical"
+    tools:context="com.upper.team1726.bankbox.fragment.LoanFragment.AGDLoanFragment">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+
+        <!-- TODO: Update blank fragment layout -->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/card_margin"
+            android:src="@drawable/loanagd" />
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/card_margin"
+            android:layout_marginLeft="@dimen/card_margin"
+            android:layout_marginRight="@dimen/card_margin"
+            android:layout_marginTop="@dimen/text_margin"
+            android:background="@color/button_text">
+
+            <TextView
+                android:id="@+id/tvAGDPersonal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:drawableRight="@drawable/downarrow"
+                android:text="Personal Loans"
+                android:textSize="@dimen/card_text_size"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tvAGDPersonalInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:layout_marginRight="@dimen/text_margin"
+                android:layout_marginTop="@dimen/card_interval_margin"
+                android:visibility="gone" />
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/card_margin"
+            android:background="@color/button_text">
+
+            <TextView
+                android:id="@+id/tvAGDOverdraft"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:drawableRight="@drawable/downarrow"
+                android:text="Overdraft"
+                android:textSize="@dimen/card_text_size"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tvAGDOverdraftInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:layout_marginRight="@dimen/text_margin"
+                android:layout_marginTop="@dimen/card_interval_margin"
+                android:visibility="gone" />
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/card_margin"
+            android:background="@color/button_text">
+
+            <TextView
+                android:id="@+id/tvAGDHirePur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:drawableRight="@drawable/downarrow"
+                android:text="Hire Purchase"
+                android:textSize="@dimen/card_text_size"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tvAGDHirePurInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:layout_marginRight="@dimen/text_margin"
+                android:layout_marginTop="@dimen/card_interval_margin"
+                android:visibility="gone" />
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/card_margin"
+            android:background="@color/button_text">
+
+            <TextView
+                android:id="@+id/tvAGDGold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:drawableRight="@drawable/downarrow"
+                android:text="Gold Financing"
+                android:textSize="@dimen/card_text_size"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tvAGDGoldInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:layout_marginRight="@dimen/text_margin"
+                android:layout_marginTop="@dimen/card_interval_margin"
+                android:visibility="gone" />
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin"
+            android:layout_marginLeft="@dimen/card_margin"
+            android:layout_marginRight="@dimen/card_margin"
+            android:layout_marginTop="@dimen/card_margin"
+            android:background="@color/button_text">
+
+            <TextView
+                android:id="@+id/tvAGDTreasury"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:drawableRight="@drawable/downarrow"
+                android:text="Purchase of Central Bank of Myanmar’s Treasury Bond"
+                android:textSize="@dimen/card_text_size"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tvAGDTreasuryInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:layout_marginRight="@dimen/text_margin"
+                android:layout_marginTop="@dimen/card_interval_margin"
+                android:visibility="gone" />
+
+        </android.support.v7.widget.CardView>
+
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
+

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/viewBg"
+    tools:context="com.upper.team1726.bankbox.activity.AccountSuggestion">
+
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+        </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin"
+        android:layout_marginRight="@dimen/margin"
+        android:layout_marginTop="64dp"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/topMargin"
+            android:text="Purpose" />
+
+        <Button
+            android:id="@+id/btnPurpose"
+            style="@android:style/Widget.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/topMargin"
+            android:layout_marginTop="@dimen/topMargin"
+            android:background="@drawable/textborder"
+            android:drawableEnd="@drawable/ic_arrow_drop_down_black_24px"
+            android:text="For short term saving"
+            android:textAlignment="viewStart" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/topMargin"
+            android:text="Initial Deposit" />
+
+
+        <Button
+            android:id="@+id/btnInitialD"
+            style="@android:style/Widget.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/topMargin"
+            android:layout_marginTop="@dimen/topMargin"
+            android:background="@drawable/textborder"
+            android:drawableEnd="@drawable/ic_arrow_drop_down_black_24px"
+            android:text="1000 to 9,999"
+            android:textAlignment="viewStart" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/topMargin"
+            android:text="Type" />
+
+
+        <Button
+            android:id="@+id/btnType"
+            style="@android:style/Widget.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/topMargin"
+            android:layout_marginTop="@dimen/topMargin"
+            android:background="@drawable/textborder"
+            android:drawableEnd="@drawable/ic_arrow_drop_down_black_24px"
+            android:text="Individual"
+            android:textAlignment="viewStart" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/topMargin"
+            android:text="Deposit Frequency" />
+
+
+        <Button
+            android:id="@+id/btnDepositFrequency"
+            style="@android:style/Widget.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/topMargin"
+            android:layout_marginTop="@dimen/topMargin"
+            android:background="@drawable/textborder"
+            android:drawableEnd="@drawable/ic_arrow_drop_down_black_24px"
+            android:text="Anytime"
+            android:textAlignment="viewStart" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/topMargin"
+            android:text="Withdraw Frequency" />
+
+
+        <Button
+            android:id="@+id/btnWithdrawFrequency"
+            style="@android:style/Widget.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/topMargin"
+            android:layout_marginTop="@dimen/topMargin"
+            android:background="@drawable/textborder"
+            android:drawableEnd="@drawable/ic_arrow_drop_down_black_24px"
+            android:text="Anytime"
+            android:textAlignment="viewStart" />
+
+
+        <!-- <CheckBox
+             android:id="@+id/cbMobileB"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="8dp"
+             android:layout_marginBottom="8dp"
+             android:layout_below="@id/spCash"/>
+
+
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Mobile Banking"
+             android:textStyle="bold"
+             android:layout_toEndOf="@id/cbMobileB"
+             android:layout_alignBaseline="@id/cbMobileB" /> -->
+        <Button
+            android:id="@+id/btnRecommand"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="end"
+            android:layout_margin="@dimen/topMargin"
+            android:background="@drawable/buttonborder"
+            android:text="Go"
+            android:textColor="@color/button_text" />
+
+
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

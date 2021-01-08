@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.upper.team1726.bankbox">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.MY_PERMISSION_REQUEST_ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".activity.LoadData"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".dbhandler.BankDBHandler" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.SearchBank"
+            android:label="Search"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.AllBank"
+            android:label="All banks"
+            android:parentActivityName=".activity.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.SpecificBankActivity"
+            android:parentActivityName=".activity.SpecificBankActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.InterestActivity"
+            android:label="Interest calculator"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.LoanActivity"
+            android:label="Loan"
+            android:parentActivityName=".activity.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.CurrencyActivity"
+            android:label="Exchange rate"
+            android:parentActivityName=".activity.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.ReviewActivity"
+            android:label="Review"
+            android:parentActivityName=".activity.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.ArroundAllActivity"
+            android:label="Nearest"
+            android:parentActivityName=".activity.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.MapActivity"
+            android:label="Map"
+            android:parentActivityName=".activity.ArroundAllActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.CurrencyCalculator"
+            android:label="Calculator"
+            android:parentActivityName=".activity.CurrencyActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.AboutUs"
+            android:label="About"
+            android:parentActivityName=".activity.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.AccountActivity"
+            android:label="Account"
+            android:parentActivityName=".activity.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.TypeMapActivity"
+            android:parentActivityName=".activity.SpecificBankActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.AccountSuggestion"
+            android:label="Suggestion"
+            android:parentActivityName=".activity.AccountActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".activity.BankSplash" />
+        <activity
+            android:name=".activity.LoanCalculatorActivity"
+            android:label="Loan calculator"
+            android:parentActivityName=".activity.LoanActivity"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity android:name=".activity.ShowSuggestion"
+            android:label="Suitable accounts"
+            android:parentActivityName=".activity.AccountSuggestion"
+            android:screenOrientation="portrait" >
+
+        </activity>
+    </application>
+
+</manifest>

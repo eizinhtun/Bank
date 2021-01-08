@@ -1,0 +1,4150 @@
+﻿[
+
+ {
+   "FIELD1": "CB",
+   "FIELD2": "(33) Street Branch",
+   "FIELD3": "No.(275), 33 Street, Between 84 x 85 Street, Chan Aye Thar Zan, Mandalay, Myanmar.",
+   "FIELD4": "21.972671, 96.076487",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "(Homl Street) Kyeemyindaing Branch",
+   "FIELD3": "No.(501/A), Lower Kyeemyindaing, Kayin National Ward, Kyeemyindaing, Yangon, Myanmar.",
+   "FIELD4": "16.796643, 96.126332",
+   "FIELD5": " Kyeemyindaing",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "145 KTV",
+   "FIELD3": "No. 316, Sein Pan Pyar Street, Bawga Waddy Ward (YazaHtarni-Ext), Pyinmana, NayPyiTaw, Myanmar.",
+   "FIELD4": "19.76011,96.2248",
+   "FIELD5": "Pyinmana",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "16 Kwae Branch (South Okkalapa)",
+   "FIELD3": "No.(322/A), Yadanar Street, (11) Block, South Okkalapa, Yangon, Myanmar.",
+   "FIELD4": "16.834803, 96.180127",
+   "FIELD5": "South Okkalapa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "23rd Street Branch",
+   "FIELD3": "No(334/336), Corner of Strand Road and 23rd Street, Latha Township, Yangon. Myanmar.",
+   "FIELD4": "16.772182, 96.152230",
+   "FIELD5": " Latha",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "6 Kwae Branch (North Okkalapa)",
+   "FIELD3": "No.(223/B), Thudhamma Road, Nya Ward, North Okkalapa, Yangon, Myanmar.",
+   "FIELD4": "16.9178434,96.1640881",
+   "FIELD5": "North Okkalapa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "8 Day Hotel",
+   "FIELD3": "No. 299, Waizayandar Road, 16/3 Ward, Thingangyun Township, Yangon, Myanmar.",
+   "FIELD4": "16.830075, 96.179584",
+   "FIELD5": "Thingangyun",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "A Kyi Taw Hotel",
+   "FIELD3": "No. 54, Upper Pazundaung Road, Migalar Taung Nyunt Township, Yangon, Myanmar.",
+   "FIELD4": "16.783567, 96.173892",
+   "FIELD5": " Migalar Taung Nyunt",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "A Little Bit Of MDY Hotel",
+   "FIELD3": "No. A3, 28 Street, Between 52 Street & 53 Street, Mandalay, Myanmar.",
+   "FIELD4": "21.979119, 96.128395",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "ABC Convenience Store (South Dagon)",
+   "FIELD3": "No. 2, Corner of LayDauntKan Raod and BaYintNaung Road, Yamonar Housing, South Dagon, Yangon.",
+   "FIELD4": "16.854783,96.211233",
+   "FIELD5": "South Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ahlone Branch (Sin Min Market)",
+   "FIELD3": "Building (SA-10), Aung Zaya Housing, Kanner Road, Thitaw Ward, Ahlone, Yangon, Myanmar.",
+   "FIELD4": "16.788424, 96.124031",
+   "FIELD5": "Ahlone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ahlone Tower",
+   "FIELD3": "Shwe Taung Development Co,.Ltd, Ahlone Tower, Strand Road, River View Garden Housing, Ahlone Township, Yangon, Myanmar.",
+   "FIELD4": "16.786256, 96.125767",
+   "FIELD5": "Ahlone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "AK Mobile",
+   "FIELD3": "No. 83, Strand Road (Near YaePaw Market), Pathein, Ayeyarwaddy Division.",
+   "FIELD4": "16.785566, 94.729342",
+   "FIELD5": " Pathein",
+   "FIELD6": " Pathein"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "AKK Shopping Mall ",
+   "FIELD3": "Thingangyun Market, Lay Daung Kan Street, Zawana Tower, Thingangyun Township, Yangon, Myanmar.",
+   "FIELD4": "16.829529, 96.191712",
+   "FIELD5": " Thingangyun",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Amazing Chaung Tha Resort",
+   "FIELD3": "Chaung Tha Beach, Chaung Tha, Pathein, Ayeyarwaddy Division, Myanmar.",
+   "FIELD4": "16.957826, 94.438618",
+   "FIELD5": " Pathein",
+   "FIELD6": " Pathein"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Apex Hotel ",
+   "FIELD3": "Yarzathingaha Street, Dekhina Thiri Township, Naypyitaw, Myanmar.",
+   "FIELD4": "19.677876, 96.125917",
+   "FIELD5": "Dekhina Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Areindamar Hotel",
+   "FIELD3": "2nd Street, Between Nweni and Cherry Streets, New Bagan, Mandalay Region, Myanmar.",
+   "FIELD4": "21.133182, 94.857504",
+   "FIELD5": "Nyaung Oo",
+   "FIELD6": "Bagan"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Asia Center",
+   "FIELD3": "No. 931, Aungmingalar Road, Sinku Ward, Insein Township, Yangon, Myanmar.",
+   "FIELD4": "16.910958, 96.097744",
+   "FIELD5": "Insein",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Asia Royal Hospital",
+   "FIELD3": "No.(14), Baho Street, Sanchaung Township.",
+   "FIELD4": "16.798314, 96.130983",
+   "FIELD5": "Sanchaung",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Aung Lan Branch ",
+   "FIELD3": "No. (165), Pyay Road, Hta Yaw Kone Quarter, Aung Lan, Magway Division, Myanmar. ",
+   "FIELD4": "19.368458, 95.214233",
+   "FIELD5": " Aung Lan",
+   "FIELD6": " Aung Lan"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Aung Mingalar Mini Branch ",
+   "FIELD3": "No.(789), Aung Mingalar Highway Complex, Thudamar Street, Mingalardon Township, Yangon, Myanmar. ",
+   "FIELD4": "16.933488, 96.159768",
+   "FIELD5": "Mingalardon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Aung Yadana Hospital",
+   "FIELD3": "No.(5/24), Thirigon Estate, Waizayantar Road, 16/2 ward, Thingankyun Township, Yangon, Myanmar.",
+   "FIELD4": "16.832418, 96.179446",
+   "FIELD5": "Thingankyun",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Aungban (2) Branch",
+   "FIELD3": "No. (4/480), Pyitaungsu Street, (4) Block, Aungban, Myanmar. ",
+   "FIELD4": "20.658037, 96.632159",
+   "FIELD5": "Aungban",
+   "FIELD6": "Aungban"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ayeyarwady Hospital",
+   "FIELD3": "1 Ward, Chaung Twin Gyi Main Road, Phyar Pon, Ayeyawady Division, Myanmar.",
+   "FIELD4": "16.29895,95.68035",
+   "FIELD5": "Phyar Pon",
+   "FIELD6": "Phyar Pon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bagan Hotel River View",
+   "FIELD3": "Near Archaeological Museum, Old Bagan, Mandalay Division.",
+   "FIELD4": "21.169115, 94.855163",
+   "FIELD5": "Nyaung Oo",
+   "FIELD6": "Bagan"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bagan House Lacquerware",
+   "FIELD3": "No.9, Jasmine Road, New Bagan, Myanmar.",
+   "FIELD4": "21.134803, 94.858423",
+   "FIELD5": "Nyaung Oo",
+   "FIELD6": "Bagan"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bagan Ledge Hotel",
+   "FIELD3": "Myat Lay Road, New Bagan, Nyaung Oo Township, Myanmar.",
+   "FIELD4": "21.136059,94.873959",
+   "FIELD5": " Nyaung Oo",
+   "FIELD6": "Bagan"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bago Branch",
+   "FIELD3": "No-9, Min Road, North Zainganaing Qtr, Bago, Myanmar.",
+   "FIELD4": "17.334399, 96.480900",
+   "FIELD5": "Bago",
+   "FIELD6": "Bago"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bago Sport Co.Ltd;",
+   "FIELD3": "No. 32, Foreign Industrial Zone, Bago-TaikKyi Road, Bago, Myanmar.",
+   "FIELD4": "17.249292,96.460153",
+   "FIELD5": "Bago",
+   "FIELD6": "Bago"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bahosi Hospital",
+   "FIELD3": "No. B (1-6), (31-36), (37/38), Bahosi Housing Complex, Lanamdaw Township, Yangon, Myanmar. ",
+   "FIELD4": "16.779704, 96.140022",
+   "FIELD5": " Lanamdaw",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "BAK Shopping Mall",
+   "FIELD3": "Corner of Mahabandoola Road and Bo Aung Kyaw Road, Kyauktada Township. ",
+   "FIELD4": "16.774183, 96.164372",
+   "FIELD5": " Kyauktada",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Baron Fujikura Co.Ltd;",
+   "FIELD3": "C-6/54, 1st lane, Kabaaye Villa Residence, 8th Mile, Mayangone Township, Yangon, Myanmar.",
+   "FIELD4": "16.870305, 96.144481",
+   "FIELD5": " Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Baw Ga Theikdi Hospital",
+   "FIELD3": "No. Za (1-4), Ziwaka Medical Shopping Complex, Near Thapya Gone Market, ZabuThiri Township, NayPyiTaw, Myanmar.",
+   "FIELD4": "19.73728,96.11904",
+   "FIELD5": "ZabuThiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bayint Naung Branch (Thiri Mon Plaza) ATM",
+   "FIELD3": "No. (30), Corner of ThiriMon Road & ThiriMon Plaza 7 St, ThiriMon Housing, Bayintnaung Ward, Mayangone Tsp, Yangon, Myanmar.",
+   "FIELD4": "16.85851,96.10518",
+   "FIELD5": " Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bayintnaung Branch",
+   "FIELD3": "No. Nya(83), Corner of Bayintnaung Road and Kankaw Street, Ward(1), Mayangone Township, Yangon, Myan",
+   "FIELD4": "16.864428, 96.106489",
+   "FIELD5": " Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bayintnaung Branch (Kyansitthar Street)",
+   "FIELD3": "No. 120, Corner of Kyansitthar Street and 13th St, 1 Ward, Mayangone Tsp, Yangon, Myanmar.",
+   "FIELD4": "16.860303, 96.109053",
+   "FIELD5": " Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bayview The Beach Resort ",
+   "FIELD3": "Gyeiktaw Main Street, Thandwe, Rakhine, Myanmar.",
+   "FIELD4": "18.408651, 94.332581",
+   "FIELD5": " Thandwe",
+   "FIELD6": " Thandwe"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bhamo Branch_ATM1",
+   "FIELD3": "No.(ThaSa/34), Bogyoke Street, Tharsi Ward, Bhamo, Kachin.",
+   "FIELD4": "24.257778,97.2275",
+   "FIELD5": " Bhamo",
+   "FIELD6": " Bhamo"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bhamo Branch_ATM2",
+   "FIELD3": "No.(ThaSa/34), Bogyoke Street, Tharsi Ward, Bhamo, Kachin.",
+   "FIELD4": "24.257778,97.2275",
+   "FIELD5": " Bhamo",
+   "FIELD6": " Bhamo"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bilin Branch",
+   "FIELD3": "No.(111), Kyuntaw Street, Mahar Bandula Ward, Bilin, Mon, Myanmar.",
+   "FIELD4": "17.213780, 97.230808",
+   "FIELD5": " Bilin",
+   "FIELD6": " Bilin"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bogale Branch",
+   "FIELD3": "No.(62), Botayza Street, (3) Ward, Bogale, Ayeyarwady Division, Myanmar.",
+   "FIELD4": "16.293034,95.395490",
+   "FIELD5": "Bogalay",
+   "FIELD6": "Bogalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bogyoke Market",
+   "FIELD3": "No (165), Front row of Bogyoke Market, Bogyoke Street, Pabedan Township. ",
+   "FIELD4": "16.779881, 96.155686",
+   "FIELD5": " Pabedan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bokpyin Branch",
+   "FIELD3": "No.(15), Tapinshwehti Street, Myoma Ward, Bokpyin Township, Tanintharyi Division, Myanmar.",
+   "FIELD4": "11.26558,98.76109",
+   "FIELD5": "Bokpyin",
+   "FIELD6": "Bokpyin"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Botahtaung Branch (Bogalay Zay)",
+   "FIELD3": "No.(459), Ground Floor, Merchant Road, Botahtaung, Yangon, Myanmar.",
+   "FIELD4": "16.771508, 96.165384",
+   "FIELD5": "Botahtaung",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Botahtaung Pagoda Street Branch",
+   "FIELD3": "No.(191), Botahtaung Pagoda Street(Middle block), Pazundaung, Yangon, Myanmar.",
+   "FIELD4": "16.774891, 96.172561",
+   "FIELD5": "Pazundaung",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Branded KTV",
+   "FIELD3": "No. 1, U Sein Maung Chan Lane (Street), High Land Avenue, Mayangone Township, Yangon, Myanmar.",
+   "FIELD4": "16.860076, 96.139031",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Burst Transmission Co.,Ltd.",
+   "FIELD3": "Plot 3,4,11 Soft Based Factories Area, Yatanarpon Myo Thit, Pyin Oo Lwin, Mandalay.",
+   "FIELD4": "21.88826,96.35575",
+   "FIELD5": "Pyin Oo Lwin",
+   "FIELD6": " Pyin Oo Lwin"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Capital (Kyee Myin Daing)",
+   "FIELD3": "No. (74/82), HteeTan Housing, Strand Road, Kyee Myin Daing Township, Yangon, Myanmar.",
+   "FIELD4": "16.801769,96.122437",
+   "FIELD5": "Kyee Myin Daing",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Capital Hypermarket ",
+   "FIELD3": "No.2, YarZaThinGaHa Street, DaKhiNaThiri Township, Hotel Zone (1), Nay Pyi taw, Myanmar.",
+   "FIELD4": "19.709193, 96.111951",
+   "FIELD5": "DaKhiNaThiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Capital Hypermarket (Dawpon)",
+   "FIELD3": "No. 14 (E), Min Nandar Street, Dawpon Township, Yangon, Myanmar. ",
+   "FIELD4": "16.802819, 96.196105",
+   "FIELD5": "Dawpon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Capital Supermarket ",
+   "FIELD3": "No. (1+2), Corner of Thinwun Street and Pinlon Street, North Dagon, Yangon, Myanmar.",
+   "FIELD4": "16.866678, 96.184511",
+   "FIELD5": "North Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "CB Bank's Training School (TGG)",
+   "FIELD3": "No. 28, U Bahan Road, Thingangyun Township, Yangon, Myanmar.",
+   "FIELD4": "16.832394,96,198863",
+   "FIELD5": "Thingangyun ",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Central Post Office (Nay Pyi Taw)",
+   "FIELD3": "General Post Office, Pyinmana - Taung Nyo Road, Zabuthiri Township, Naypyitaw, Myanmar.",
+   "FIELD4": "19.7504,96.0929",
+   "FIELD5": " Zabuthiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Central Post Office (Yangon)",
+   "FIELD3": "No. 39, Corner of Bo Aung Kyaw Street & Strand Road, Kyaktada Township, Yangon, Myanmar.",
+   "FIELD4": "16.76931,96.16386",
+   "FIELD5": " Kyaktada",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Chan Thar Hospital",
+   "FIELD3": "B/485, KhayMarThi Road, North Okkalapa Township, Yangon.",
+   "FIELD4": "16.907481, 96.154983",
+   "FIELD5": "North Okkalapa ",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Chatrium Hotel",
+   "FIELD3": "No-40, Natmauk Road, Tamwe Township,Yangon, Myanmar. ",
+   "FIELD4": "16.800213, 96.168754",
+   "FIELD5": " Tamwe",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Chauk Branch",
+   "FIELD3": "No.(93), Corner of Maharbandula Street and Myaysayin Street, (11) Ward, Chauk Township, Magway Division, Myanmar.",
+   "FIELD4": "20.894852,94.818832",
+   "FIELD5": " Chauk",
+   "FIELD6": " Chauk"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Cherry Queen Hotel",
+   "FIELD3": "No. 119, Myint Mo Street, Nyaung Phyu Sakan Quarter, Taunggyi, Southern Shan State, Myanmar.",
+   "FIELD4": "20.800028, 97.032094",
+   "FIELD5": " Taunggyi",
+   "FIELD6": " Taunggyi"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Cindrella Hotel ",
+   "FIELD3": "No.21, Baho Road, Sit Kae Kone Quarter, Mawlamyaing, Myanmar.",
+   "FIELD4": "16.485389, 97.621801",
+   "FIELD5": "Mawlamyaing",
+   "FIELD6": "Mawlamyaing"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "City Golf Resort Hotel",
+   "FIELD3": "Thirimingalar Street, 10th Mile, Insein Township, Yangon, Myanmar.",
+   "FIELD4": "16.908892,96,112305",
+   "FIELD5": "Insein",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "City Joy Hotel",
+   "FIELD3": "Corner of 58th Street & 28th Street, Chan Aye Tharzan Township, Mandalay, Myanmar.",
+   "FIELD4": "21.976809,96.120228",
+   "FIELD5": " Chan Aye Tharzan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "City Mall",
+   "FIELD3": "No. 6A, Corner of Pyay Road & Min Ye Kyaw Swar Road, Sein Gyun, Lanmadaw Township, Yangon, Myanmar.",
+   "FIELD4": "16.78256,96.14448",
+   "FIELD5": " Lanmadaw ",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "City Mart (Myae Ni Gone)",
+   "FIELD3": "No.231, Pyay Road., Shin Saw Pu Ward, Sanchaung Township, Yangon. ",
+   "FIELD4": "16.801658, 96.137686",
+   "FIELD5": "Sanchaung ",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "City Mart (North Dagon)",
+   "FIELD3": "Corner of Pinlone Road and Sittaung Road, 36 ward, North Dagon, Yangon, Myanmar.",
+   "FIELD4": "16.872821, 96.195740",
+   "FIELD5": " North Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "City Mart (Shwe Mya Yar)",
+   "FIELD3": "Mya Yar Gone Street, Mingalar Taung Nyunt Township, Yangon, Myanmar. ",
+   "FIELD4": "16.788345, 96.169995",
+   "FIELD5": "Mingalar Taung Nyunt",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "City Mart 19th Street (MDY)",
+   "FIELD3": "19th street, Between 65 street & 66 street, Aung Myay Thar Zan Township, Mandalay, Myanmar.",
+   "FIELD4": "21.992272,96.108348",
+   "FIELD5": "Aung Myay Thar Zan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Civil Aviation Training Institute",
+   "FIELD3": "Yangon International Airport, Mingaladon Township, Yangon, Myanmar.",
+   "FIELD4": "16.893950,96.129633",
+   "FIELD5": " Mingaladon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "CJ Korea Express",
+   "FIELD3": "No. 57/60, Lower Mingalardone, Danyin Gone Ward, Insein Tsp, Yangon.",
+   "FIELD4": "16.928480, 96.097708",
+   "FIELD5": " Insein",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Classic Café & Restaurant",
+   "FIELD3": "Yangon-Pathein Main Road (40 Mile 3 Phalon), HtakeWaKalay Village, Near BoMyatTun Bridge, NyaungTone, Ayeyarwady Division, Myanmar.",
+   "FIELD4": "17.0079,95.56712",
+   "FIELD5": " Nyaung Tone",
+   "FIELD6": " Nyaung Tone"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Coca Cola (HlaingTharYar)",
+   "FIELD3": "No. (37/38), Bamaw Atwin Wun Street, Zone (3), City of Industry, Hlaing Thar Yar Township, Yangon, Myanmar.",
+   "FIELD4": "16.858461, 96.068085",
+   "FIELD5": "Hlaing Thar Yar",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Coca Cola (Hmawbi)",
+   "FIELD3": "No. 50, Myoe Shaung Road, Hmawbi Township, Yangon.",
+   "FIELD4": "17.053349,96.132092",
+   "FIELD5": " Hmawbi ",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Computer University (Pyay)",
+   "FIELD3": "Pyay-Aung Lan Road, Pyay, Bago Division, Myanmar.",
+   "FIELD4": "18.823271, 95.255062",
+   "FIELD5": " Pyay",
+   "FIELD6": " Pyay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Cooperative College (Phaung Gyi)",
+   "FIELD3": "Cooperative College, Phaunggyi, Hlegu Township, Yangon, Myanmar.",
+   "FIELD4": "17.346284, 96.203401",
+   "FIELD5": " Hlegu",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Co-Operative University (Thanlyin)",
+   "FIELD3": "Thama Kawlate Street, Thanlyin Tsp, Yangon.",
+   "FIELD4": "16.759672, 96.268373",
+   "FIELD5": "Thanlyin",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Crown Prince Hotel",
+   "FIELD3": "Khatter Street, Shwe Laung Block, Kyan Sit Thar Quarter, New Bagan, Nyaung Oo Township, Mandalay, Myanmar.",
+   "FIELD4": "21.13391,94.85659",
+   "FIELD5": " Nyaung Oo ",
+   "FIELD6": " Nyaung Oo "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Dagon (Shwedagon Pagoda Road Branch) ATM1",
+   "FIELD3": "No. (294), Room (1), Shwedagon Pagoda Road, Dagon Township, Yangon.",
+   "FIELD4": "16.78204,96.15352",
+   "FIELD5": "Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Dagon Center Shopping Mall (II)",
+   "FIELD3": "No 262/264, Pyay Road, Sanchaung Tsp, Yangon, Myanmar.",
+   "FIELD4": "16.804370, 96.137397",
+   "FIELD5": "Sanchaung",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Dagon University",
+   "FIELD3": "Dagon University, East Dagon, Yangon, Myanmar.",
+   "FIELD4": "16.91513,96.2079",
+   "FIELD5": " East Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Danubyu Branch",
+   "FIELD3": "No.(58), Maharzawta Street, (7)Ward, Danubyu, Myanmar. ",
+   "FIELD4": "17.258227, 95.592212",
+   "FIELD5": "Danubyu",
+   "FIELD6": "Danubyu"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Dawbon Branch",
+   "FIELD3": "No.(47), Min Nandar Road, Nwe Aye Ward, Dawbon, Yangon, Myanmar.",
+   "FIELD4": "16.792674,96.193227",
+   "FIELD5": "Dawbon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Dawbon Branch (2)",
+   "FIELD3": "No.(242), Yamonnar Road, Zayarthiri Ward, Dawbon, Yangon, Myanmar.",
+   "FIELD4": "16.779624,96.191303",
+   "FIELD5": " Dawbon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Dawei Branch",
+   "FIELD3": "No. (54), Rzarni Road, Kanyone Ward, Dawei, Myanmar. ",
+   "FIELD4": "14.072989, 98.196018",
+   "FIELD5": "Dawei",
+   "FIELD6": "Dawei"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Delicious Food Ltd (OneTea)",
+   "FIELD3": "No.(108), Corner of Di Pe Yinn Wun Htaut U Myel Street & Wet Ma Sut Wun Htauk Street, Hlaing Tharyar Township, Yangon, Myanmar.",
+   "FIELD4": "16.860426, 96.058474",
+   "FIELD5": " Hlaing Tharyar",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Designer Water Co.,Ltd.",
+   "FIELD3": "No. 217/222 &224/227, 11 St, Yangon Industrial Zone (3), Mingalardon, Yangon.",
+   "FIELD4": "16.94739,96.19777",
+   "FIELD5": "Mingalardon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Designtime Myanmar Co.,Ltd.",
+   "FIELD3": "Plot No A -13, Mingalardon Indistrial Park, Corner of No. 3 Highway Road, Yhayebin Road, Mingalardon Township, Yangon, Myanmar.",
+   "FIELD4": "16.94238,96.157",
+   "FIELD5": " Mingalardon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Diamond Lake Hotel",
+   "FIELD3": "No.437, Mingyi Street, Bo Kone Bus Station, East Ywarma, Insein Township, Yangon, Myanmar.",
+   "FIELD4": "16.900680, 96.105156",
+   "FIELD5": " Insein",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Diamond Ngapali Hotel",
+   "FIELD3": "Gyeiktaw Village, Ngapali, Thandwe Township, Rakhine, Myanmar.",
+   "FIELD4": "18.379231, 94.336671",
+   "FIELD5": "Thandwe",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Diamond Plaza (Mandalay)",
+   "FIELD3": "(34 Street), Mandalay. ",
+   "FIELD4": "21.972456, 96.086744",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Diesel King Godzilla",
+   "FIELD3": "No. 102/104/105, Cherry St, Shwe Pyi Thar Industrial Zone, Shwe Pyi Tar Tsp, Yangon.",
+   "FIELD4": "16.95181,96,09426",
+   "FIELD5": "Shwe Pyi Tar",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "E LAN (HTY_YGN)",
+   "FIELD3": "No. 28/31, Bamaw Ah Twin Wun St, Industrial Zone (3), Hlaing Thar Yar Tsp, Yangon.",
+   "FIELD4": "16.85433,96.06545",
+   "FIELD5": " Hlaing Thar Yar",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "E.T Hotel",
+   "FIELD3": "Between 23 & 24, 83 street, Aung Myay Thar Zan Township, Mandalay, Myanmar.",
+   "FIELD4": "21.986937,96.07987",
+   "FIELD5": " Aung Myay Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "EAC (Baho Rd YGN)",
+   "FIELD3": "No. 19, 4 Za (2) Kha, Corner of Baho Road & Nila St, 13 Qtr, Hlaing Tsp, Yangon.",
+   "FIELD4": "16.85331,96.11733",
+   "FIELD5": "Hlaing",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "EAC (Mandalay)",
+   "FIELD3": "Corner of 62 Street & Ka Naung Min Thar Gyi Street, Industry 1, Mandalay, Myanmar.",
+   "FIELD4": "21.881649,96.1091333",
+   "FIELD5": "Pyi Gyi Ta Gon",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "EAC SPT Asia Juice",
+   "FIELD3": "No. 66/67, Corner of Ka Naung Min Thar Gyi Road & Strand Road, Industrial Zone (4), Shwe Pyi Thar Township, Yangon, Myanmar.",
+   "FIELD4": "16.91884,96.08254",
+   "FIELD5": " Shwe Pyi Thar",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Einme Branch ATM",
+   "FIELD3": "No.(173/174-A), Anawyahtar Street, Einme, Ayeyarwaddy, Myanmar.",
+   "FIELD4": "16.898602, 95.178830",
+   "FIELD5": "Einme",
+   "FIELD6": "Einme"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Electronic City (Waizayantar)",
+   "FIELD3": "No 60, Waizayandar Road, South Okkalapa Township, Yangon, Myanmar.",
+   "FIELD4": "16.836193,96.176610",
+   "FIELD5": "South Okkalapa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "EMC Garment",
+   "FIELD3": "Plot No. 8 of Mingalardon Industrial Park, Corner of No. 3 Highway Road & Khayebin Road, Mingalardon Township, Yangon, Myanmar.",
+   "FIELD4": "16.944932,96.156896",
+   "FIELD5": " Mingalardon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Excel Capital Hotel (NPT)",
+   "FIELD3": "No. 23-24, YarZaThinGaHa Street, DaKhiNaThiri Township, Naypyitaw, Myanmar.",
+   "FIELD4": "19.683506, 96.126525",
+   "FIELD5": "DaKhiNaThiri",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Fame Hotel",
+   "FIELD3": "No.(28/A), Po Sein Road, Tamwe Township, Yangon, Myanmar.",
+   "FIELD4": "16.802136, 96.170334",
+   "FIELD5": "Tamwe",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "FUJI 62St ShoppingCenter MDY",
+   "FIELD3": "Corner of 62 St & MaNawHary St, Chanmyatharzi Tsp, Mandaly.",
+   "FIELD4": "21.93065,96.11013",
+   "FIELD5": "Chan Mya Thar Si",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "FUJI Sagaing Street Branch (MDY)",
+   "FIELD3": "Block (854), Sagaing Road, East of U Pwar Bridge, Chan Mya Thar Si Tsp, Mandalay, Myanmar.",
+   "FIELD4": "21.946153,96.084317",
+   "FIELD5": "Chan Mya Thar Si",
+   "FIELD6": "Myanmaay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Fuji Shopping Center",
+   "FIELD3": "No.(189/195), Middle Pansodan Street, Kyauktada Township, Yangon, Myanmar. ",
+   "FIELD4": "16.776079, 96.161711",
+   "FIELD5": "Kyauktada",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "FUJI Shopping Center 1 (MDY)",
+   "FIELD3": "No(492/494), Corner of 30-80 Street, Chan Aye Thar Zan Township, Mandalay.",
+   "FIELD4": "21.977148, 96.083891",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Galaxy KTV",
+   "FIELD3": "Theik Pan street, Between 61 street & 62 street, Chanmya tharsi Towhsip, Mandalay, Myanmar.",
+   "FIELD4": "21.950975, 96.113256",
+   "FIELD5": "Chan Mya Thar Si",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Gamone Pwint (Sin Yay Twin)",
+   "FIELD3": "Near San Yeik Nyein Bus Stop, Insein Road, Kamayut Township, Yangon, Myanmar.",
+   "FIELD4": "16.832817,96.129501",
+   "FIELD5": " Kamayut ",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Gandamar Wholesale",
+   "FIELD3": "Corner of Gandamar Road & Waizayantar Road, Mayangone Township, Yangon, Myanmar. ",
+   "FIELD4": "16.862455, 96.160035",
+   "FIELD5": " Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Gangaw Branch",
+   "FIELD3": "No.(181), Toechae (1), East Gangaw, Municiple Ward, Gangaw, Magway Division, Myanmar.",
+   "FIELD4": "22.16972,94.12807",
+   "FIELD5": " Gangaw",
+   "FIELD6": " Gangaw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "G-AppaRao Restaurant",
+   "FIELD3": "G-AppaRao Restaurant, Myeik, Tanintharyi, Myanmar.",
+   "FIELD4": "12.442181,98.585110",
+   "FIELD5": " Myeik",
+   "FIELD6": " Myeik"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Garden Hotel",
+   "FIELD3": "Shwe Min Wunn Baho Road, Padauk Shwe Wah Ward, Kawthoung, Tanintharyi, Myanmar.",
+   "FIELD4": "9.985051,98.551357",
+   "FIELD5": " Kawthoung",
+   "FIELD6": " Kawthoung"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "General Post Office (Mandalay)",
+   "FIELD3": "22 Street, Between 80 Street & 81 Street, Mandalay, Myanmar.",
+   "FIELD4": "21.98849,96.08364",
+   "FIELD5": "Aung Myay Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Gida Showroom",
+   "FIELD3": "Sawbwargyigon, Pyay Road, Insein Township, Yangon, Myanmar.",
+   "FIELD4": "16.88797,96.12657",
+   "FIELD5": " Insein",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Golden Guest Inn",
+   "FIELD3": "No. 182, Insein Road, 9 Quarter, Hlaing Township, Yangon, Myanmar.",
+   "FIELD4": "16.846617,96.125133",
+   "FIELD5": "Hlaing",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Golden Hill Tower Executive Apartments",
+   "FIELD3": "No. 24-26, Kaba Aye Pagoda Road, Bahan Township, Yangon, Myanmar.",
+   "FIELD4": "16.809592, 96.158259",
+   "FIELD5": " Bahan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Golden Myanmar Hotel",
+   "FIELD3": "No. 9, Yarza Thingaha Road, Dekhina Thiri Township, Hotel Zone, NayPyiTaw, Myanmar.",
+   "FIELD4": "19.704950,96.120800",
+   "FIELD5": "Dekhina Thiri ",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Golden Park (Spa Land)",
+   "FIELD3": "National Sports Complex, Pin Lone Road, North Dagon Township, Yangon, Myanmar.",
+   "FIELD4": "16.877027, 96.206725",
+   "FIELD5": "North Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Golden Thitsar Co., Ltd.",
+   "FIELD3": "Seik Kan Thar St (Between AungZaya Bridge & Bayint Naung Bridge), HlaingTharyar Tsp, Yangon.",
+   "FIELD4": "16.87608,96.08628",
+   "FIELD5": "HlaingTharyar",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Good Choice Mart",
+   "FIELD3": "Coner of 22 st & 89 st, Aung Myay Thar Zan Tsp, Mandalay, Myanmar.",
+   "FIELD4": "21.989192,96.071803",
+   "FIELD5": "Aung Myay Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Governor’s Residence Hotel",
+   "FIELD3": "No-35, Taw Win Road, Dagon Township, Yangon, Myanmar. ",
+   "FIELD4": "16.788366, 96.139163",
+   "FIELD5": " Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Gracious Bagan Hotel",
+   "FIELD3": "Hotel Zone (4), New Bagan, Nyaung Oo Township, Mandalay Division, Myanmar.",
+   "FIELD4": "21.090202, 94.862337",
+   "FIELD5": " Nyaung Oo",
+   "FIELD6": " Nyaung Oo"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Grade One Hotel",
+   "FIELD3": "No. 53A, 4 Quarter, Beside Asia Main Road, Myawaddy, Kayin State.",
+   "FIELD4": "16.685670, 98.480823",
+   "FIELD5": " Myawaddy",
+   "FIELD6": " Myawaddy"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Grand ACE Villa (Nay Pyi Taw)",
+   "FIELD3": "Pyinmana Taung Nyo Street, Shwe Kyar Pin Ward, Zabu Thiri Township, Nay Pyi Taw, Myanmar.",
+   "FIELD4": "19.730193, 96.156022",
+   "FIELD5": " Zabu Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Grand Jade Shopping",
+   "FIELD3": "No. 28, Baho St, Myint Nge Ward, Myeik.",
+   "FIELD4": "12.4419,98.59937",
+   "FIELD5": "Myeik",
+   "FIELD6": "Myeik"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Grand Palace Hotel ",
+   "FIELD3": "No. M-22, Shwe Htee Housing, Thamine Station Street, Near the Bayint Naung Point, Mayangone Township",
+   "FIELD4": "16.858717, 96.111685",
+   "FIELD5": " Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Great Wall Hotel",
+   "FIELD3": "Yaeza Thingaha Road, Ottara Thiri, Hotel Zone(2), NayPyiTaw, Myanmar.",
+   "FIELD4": "19.86854,96.15406",
+   "FIELD5": "Ottara Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Green Hill Hotel ",
+   "FIELD3": "Green Hill Hotel, Phoe Sein Road, Bahan Township, Yangon, Myanmar. ",
+   "FIELD4": "16.801495, 96.169479",
+   "FIELD5": "Bahan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Gyobingauk Branch",
+   "FIELD3": "No.(301/A), Yangon-Pyay road, Satinegyone Ward, Gyobingauk, Bago, Myanmar.",
+   "FIELD4": "18.231609, 95.647406",
+   "FIELD5": "Gyobingauk",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hakha Branch ATM",
+   "FIELD3": "No.(22), Bogyoke Street, Pyaytawthar Ward, Hakha, Chin, Myanmar.",
+   "FIELD4": "22.6437,93.611323",
+   "FIELD5": " Hakha",
+   "FIELD6": " Hakha"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Heho Airport",
+   "FIELD3": "Heho Airport, Heho Town, Kalaw Township, Taunggyi District, Shan State, Myanmar.",
+   "FIELD4": "20.743765, 96.793306",
+   "FIELD5": " Kalaw",
+   "FIELD6": "Heho"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hill Top Villa Hotel",
+   "FIELD3": "Ward 3, Bogon, Kalaw, Shan State, Myanmar.",
+   "FIELD4": "20.627291, 96.572767",
+   "FIELD5": "Kalaw",
+   "FIELD6": "Kalaw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hinthada Branch",
+   "FIELD3": "No. 1, Lamadaw Road, North Garden Ward, Hinthada, Myanmar. ",
+   "FIELD4": "17.648457, 95.458038",
+   "FIELD5": " Hinthada",
+   "FIELD6": " Hinthada"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hinthada University",
+   "FIELD3": "Hinthada University, Myo Pat Street, Hinthida, Ayeyawady Division, Myanmar.",
+   "FIELD4": "17.640751, 95.436482",
+   "FIELD5": " Hinthada",
+   "FIELD6": " Hinthada"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hlaingtharyar Branch (Nawaday Housing)",
+   "FIELD3": "No.(8/B), Right Side, (97) Street, (6) Ward, Hlaingtharyar Township, Yangon, Myanmar.",
+   "FIELD4": "16.86297,96.06515",
+   "FIELD5": " Hlaingtharyar",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hledan Centre (Entrance)",
+   "FIELD3": "No. 522-523, Corner of Pyay & Hledan Road, Kamayut Township, Yangon, Myanmar.",
+   "FIELD4": "16.826146,96.130270",
+   "FIELD5": " Kamayut",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hlegu Branch",
+   "FIELD3": "No.(I/C), Corner of Myoma Baho Street and West Minn Street, Zaygyi Ward, Hlegu, Yangon, Myanmar.",
+   "FIELD4": "17.09414,96.21769",
+   "FIELD5": "Hlegu",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hmawbi Branch",
+   "FIELD3": "No.(870), Pyay Street, (2) Ward, Hmawbi, Yangon, Myanmar.",
+   "FIELD4": "17.098,96.03809",
+   "FIELD5": "Hmawbi",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel 3D",
+   "FIELD3": "No.(1448), Shwe The Tan Street, San Taw Ward, Pyay, Bago Division, Myanmar.",
+   "FIELD4": "18.81953,95.21642",
+   "FIELD5": "Bago",
+   "FIELD6": "Bago"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel 7 Mile",
+   "FIELD3": "No. 32, KoneMyintYeikTha Street, Mayangone Township, 7 Mile, Yangon, Myanmar.",
+   "FIELD4": "16.857954,96.140453",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel 9 Mile",
+   "FIELD3": "No.(3-A), Tawwin Road, Mayangone Township, Yangon, Myanmar.",
+   "FIELD4": "16.880175, 96.133359",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Aroma",
+   "FIELD3": "Thee Thant (5), Yangon-Mandalay Road, Next to New Highway Bus Terminal, Bago City, Bago Division, Myanmar.",
+   "FIELD4": "17.32774,96.47162",
+   "FIELD5": "Bago",
+   "FIELD6": "Bago"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Aye Chan Thar",
+   "FIELD3": "No. 4, Oattara Thiri Hotel Zone 2, Pobba Thiri Myot Pat Street, Naypyitaw, Myanmar.",
+   "FIELD4": "19.877901,96.155244",
+   "FIELD5": "Oattara Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Golden Land",
+   "FIELD3": "Yaza Thingaha Street, Hotel Zone, Naypyitaw.",
+   "FIELD4": "19.691839,96.129173",
+   "FIELD5": "Oattara Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel H Valley (YGN)",
+   "FIELD3": "No. 24, West Shwe Gon Taing 3rd Street, Bahan Township, Yangon, Myanmar.",
+   "FIELD4": "16.804120, 96.145184",
+   "FIELD5": "Bahan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Juno",
+   "FIELD3": "No.(200), Myoma Road, 15 Quarter, Pakokku, Myanmar.",
+   "FIELD4": "21.3306,95.07024",
+   "FIELD5": "Pakokku",
+   "FIELD6": "Pakokku"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Mariner",
+   "FIELD3": "No. 330, Shwe Maw Daw Pagoda Road, Shin Saw Pu Quarter, Bago, Myanmar.",
+   "FIELD4": "17.336550,96.489733",
+   "FIELD5": "Bago",
+   "FIELD6": "Bago"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Novel",
+   "FIELD3": "No. 852/C, Shu Khinn Thar Road, 4 South Ward, Thaketa Township, Yangon, Myanmar.",
+   "FIELD4": "16.775993, 96.201671",
+   "FIELD5": " Thaketa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Nwe Thar Ki (NPT)",
+   "FIELD3": "No, 20/B, Jade Villa, Shwepyitawwin Road, Dakhinathiri Township, Naypyitaw, Myanmar.",
+   "FIELD4": "16.677636,96.113366",
+   "FIELD5": " Dakhinathiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Nyaung Shwe",
+   "FIELD3": "No. 20, Win Ward, Nyaung Shwe City, Shan State.",
+   "FIELD4": "20.66031,96.92775",
+   "FIELD5": " Nyaung Shwe",
+   "FIELD6": " Nyaung Shwe"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Oattarathiri",
+   "FIELD3": "Plot No.18, Pobba Thiri Circular Road, Oattara Thiri Hotel Zone, NayPyiTaw, ",
+   "FIELD4": "19.858762, 96.158330",
+   "FIELD5": "Oattara Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Pho Sein",
+   "FIELD3": "No. 67(B), Pho Sein Road, BoCho Ward No. (2), Bahan Township, Yangon.",
+   "FIELD4": "16.806072, 96.171982",
+   "FIELD5": " Bahan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Pyi Thar Yar",
+   "FIELD3": "No.(2), Pyi Thar Yar Street, 16 Quarter, Bout Htaw, Yankin Township, Yangon, Myanmar.",
+   "FIELD4": "16.826521, 96.171416",
+   "FIELD5": "Yankin",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Queen",
+   "FIELD3": "No.456, 81st Street, Between 32nd and 33rd Street, Mandalay, Myanmar.",
+   "FIELD4": "21.973017, 96.082066",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel San Chain",
+   "FIELD3": "Plot No.2, Oattara Thiri Hotel Zone, Mingalar Dipa Quarter, Pobba Thiri Township, NayPyiTaw, Myanmar.",
+   "FIELD4": "19.849658, 96.176890",
+   "FIELD5": " Pobba Thiri ",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Shwe Gone Daing ",
+   "FIELD3": "No. 273 (A), Shwe Gone Daing Road, Bahan Township, Yangon, Myanmar.",
+   "FIELD4": "16.810401, 96.160681",
+   "FIELD5": "Bahan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Sydney",
+   "FIELD3": "No.8-L, Mindama Road, Mayangone Township, Yangon, Myanmar.",
+   "FIELD4": "16.861833,96.128900",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Windsor",
+   "FIELD3": "No. 31, ShinSawPu Street, Sanchaung Township, Yangon, Myanmar.",
+   "FIELD4": "16.798216, 96.133138",
+   "FIELD5": "Sanchaung",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Yadanarpon (Bagan)",
+   "FIELD3": "Myat Lay Road, Bagan, Myanmar.",
+   "FIELD4": "21.134194, 94.870590",
+   "FIELD5": "Nyaung Oo",
+   "FIELD6": "Bangan"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Yankin",
+   "FIELD3": "No.186, Lu Nge Thitsar Street, On Thitsar Road, Yankin Township, Yangon, Myanmar.",
+   "FIELD4": "16.839256, 96.168691",
+   "FIELD5": " Yankin",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hotel Yatanarbon ",
+   "FIELD3": "No.125, 31 Street, Between 76 & 77 St, Chan Aye Thar Zan Townshi, Mandalay, Myanmar.",
+   "FIELD4": "21.975200, 96.089474",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hsipaw Branch",
+   "FIELD3": "No.(13), Upaing No.(215/Ka), Lashio Road, Pantane North Ward, Hsipaw, Shan, Myanmar.",
+   "FIELD4": "22.615515,97.303922",
+   "FIELD5": " Hsipaw",
+   "FIELD6": " Hsipaw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Htein Htein Thar Hotel",
+   "FIELD3": "Mae Htee Street, Magway, Magway Division, Myanmar.",
+   "FIELD4": "20.155129, 94.927143",
+   "FIELD5": " Magway",
+   "FIELD6": " Magway"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "IBIS Style_YGN Stadium",
+   "FIELD3": "No. 369, LayDaungKan Road, Thingangyun Tsp, Yangon.",
+   "FIELD4": "16.82177,96.18179",
+   "FIELD5": " Thingangyun",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Icon Shopping Mall",
+   "FIELD3": "No.(9B), Yangon-Mandalay Road, Yone Gi Quarter, Near Clock Tower, Bago City, Bago Division, Myanmar.",
+   "FIELD4": "17.33565,96.48401",
+   "FIELD5": " Bago",
+   "FIELD6": " Bago"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Imperial Jade Hotel (NPT)",
+   "FIELD3": "Yarza Thingaha Road, Hotel Zone, NayPyiTaw, Myanmar.",
+   "FIELD4": "19.680917,96.125467",
+   "FIELD5": "Oattara Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Inle Resort",
+   "FIELD3": "Inlay Lake, Nyaung Shwe Township, Southern Shan State, Myanmar.",
+   "FIELD4": "20.597885, 96.934183",
+   "FIELD5": "Nyaung Shwe",
+   "FIELD6": "Nyaung Shwe"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Inya Bar",
+   "FIELD3": "No. 37, Inya Lake Hotel Park, Kaba Aye Pagoda Road, Yangon, Myanmar.",
+   "FIELD4": "16.844928,96.152040",
+   "FIELD5": "Yangon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Inya Lake Hotel",
+   "FIELD3": "No. 37, Kaba Aye Pagoda Road, Yangon, Myanmar. ",
+   "FIELD4": "16.844840, 96.149979",
+   "FIELD5": "Yangon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Jade Hotel North Okkalapa",
+   "FIELD3": "No. 29, Thiri Kantha Street, North Okkalapa Tsp,Yangon.",
+   "FIELD4": "16.89394,96.15497",
+   "FIELD5": "North Okkalapa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Junction 8 Shopping Centre",
+   "FIELD3": "Ward (4), Kyaik Wine Pagoda Road, Mayangone Yangon Myanmar ",
+   "FIELD4": "1.350552, 103.848835",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Junction Centre (Nay Pyi Taw)",
+   "FIELD3": "Yaza Thingaha Road, Nay Pyi Taw, Myanmar. ",
+   "FIELD4": "19.714043, 96.110957",
+   "FIELD5": "Nay Pyi Taw",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Junction Centre Branch (Nay Pyi Taw)",
+   "FIELD3": "Room No.(108), Level(1), Junction Centre (Nay Pyi Taw), Yarzathingaha Road, Yanaungpyay Ward, Dakhinathiri Township, Nay Pyi Taw, Myanmar.",
+   "FIELD4": "19.71366221,96.11088493",
+   "FIELD5": " Dakhinathiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Junction Hotel (NPT)",
+   "FIELD3": "Yarza Thingaha Road, Hotel Zone, Dakhina Thiri, NayPyiTaw, Myanmar.",
+   "FIELD4": "19.7115,96.110917",
+   "FIELD5": " Dakhina",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Junction Mawtin Shopping Centre",
+   "FIELD3": "Lanmadaw Township, Yangon.",
+   "FIELD4": "16.777735,96.141924",
+   "FIELD5": "Lanmadaw ",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Junction Square Shopping Mall",
+   "FIELD3": "FL-122 B,Between Pyay Road and Kyuntaw Street, Infront of T.T.C School, Kamaryut Township. ",
+   "FIELD4": "16.817082,96.130972",
+   "FIELD5": " Kamaryut",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Junction Square Shopping Mall (2)",
+   "FIELD3": "FL-122 B,Between Pyay Road and Kyuntaw Street, Infront of T.T.C School, Kamaryut Township. ",
+   "FIELD4": "16.817082,96.130972",
+   "FIELD5": " Kamaryut",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "K Mobile (Myawaddy)",
+   "FIELD3": "No. 55, (4) Ward, Bayintnaung Road, Myawaddy, Kayin State, Myanmar.",
+   "FIELD4": "16.688,98.50986",
+   "FIELD5": "Myawaddy",
+   "FIELD6": "Myawaddy"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kalaw Branch",
+   "FIELD3": "No.(4/7), (4)Ward, Pyay Htaung Su Road, Kalaw, Shan State (South), Myanmar.",
+   "FIELD4": "20.636115, 96.567766",
+   "FIELD5": "Kalaw",
+   "FIELD6": "Kalaw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kalay Branch ATM",
+   "FIELD3": "No. 30, District (5), Bogyoke street, Pinlon Ward, Kalay, Myanmar. ",
+   "FIELD4": "23.191493, 94.047619",
+   "FIELD5": " Kalay",
+   "FIELD6": " Kalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kamaryut (Shwe Pone Nyat) Branch",
+   "FIELD3": "No.(21), Shwe Pone Nyat Housing, Bayintnaung Road, Kamaryut Township, Yangon, Myanamr.",
+   "FIELD4": "16.829589, 96.122176",
+   "FIELD5": "Kamaryut",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kamaryut Branch",
+   "FIELD3": "No. (158), Insein Road, (2) Block, Kamaryut Township, Yangon, Myanmar.",
+   "FIELD4": "16.834876, 96.128507",
+   "FIELD5": "Kamaryut",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Katha Branch ATM1",
+   "FIELD3": "No.(13), Aung Thapyay Street, (3) Ward, Katha, Sagaing, Myanmar.",
+   "FIELD4": "24.172029, 96.343155",
+   "FIELD5": "Katha",
+   "FIELD6": "Katha"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kaung Mon Hospital (Magway)",
+   "FIELD3": "West of Highway complex, between of PyiTawTar St and MaeHtee St, Awayyar Road, Yanway Qtr, Magway, Myanmar.",
+   "FIELD4": "20.1534,94.940833",
+   "FIELD5": " Magway",
+   "FIELD6": " Magway"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kaung Myat Hotel (MLM)",
+   "FIELD3": "No. 92, Corner of Phat Khinn Street and Myaing Tharyar Street, Zay Cho Ward, Mawlamyaing, Myanmar.",
+   "FIELD4": "16.460217,97.648800",
+   "FIELD5": "Mawlamyaing",
+   "FIELD6": "Mawlamyaing"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kawhmu Branch ATM",
+   "FIELD3": "No.(23), Bogyoke Road, Myoma Ward, Kawhmu Tsp, Myanmar.",
+   "FIELD4": "16.54620,96.062217",
+   "FIELD5": "Kawhmu",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kawthoung Branch",
+   "FIELD3": "No.(20), Bogyoke Street, Padauk Shwewah Ward, Kawthoung, Tanintharyi, Myanmar.",
+   "FIELD4": "9.980306, 98.548224",
+   "FIELD5": " Kawthoung",
+   "FIELD6": " Kawthoung"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kay Khaing Oo Restaurant",
+   "FIELD3": "36 Miles, Yangon-Pathein Main Road, BoMyatTun Housing,Tarkwayt Village, Nyaung Tone Township, Ayeyarwady Division, Myanmar.",
+   "FIELD4": "16.99068,95.61602",
+   "FIELD5": "Nyaung Tone",
+   "FIELD6": "Nyaung Tone"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kaytumadi Dynasty Hotel ",
+   "FIELD3": "Myat Lay Road, Bagan, Myanmar.",
+   "FIELD4": "21.128860, 94.870954",
+   "FIELD5": "Nyaung Oo",
+   "FIELD6": "Nyaung Oo"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Khaung Daing Hot Spring",
+   "FIELD3": "NyaungWunn Village, Group of TaungPoGyi Tsp, KhaungDaingShwe City, Shan State, Myanmar.",
+   "FIELD4": "20.62844,96.88049",
+   "FIELD5": "Taung Po Gyi",
+   "FIELD6": "Khaung Daing Shwe"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Khaymar Thi Branch",
+   "FIELD3": "No.(283/A+B), Khaymar Thi Road, Gakyi Ward, North Okkalapa, Yangon, Myanmar.",
+   "FIELD4": "16.898747, 96.154896",
+   "FIELD5": "North  Okkalapa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Khin Mg Nyut Manufacturing Co;Ltd.",
+   "FIELD3": "No. 506-508, Mogoke Street, 23 Ward (Ext), Industrial Zone (1), South Dagon Township, Yangon, Myanmar.",
+   "FIELD4": "16.82855,96.22401",
+   "FIELD5": "South Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "King & Queen Hotel",
+   "FIELD3": "Near Kyautkar Traffic Light, Kyautkar Road, Yankin Community, Monywa, Myanmar.",
+   "FIELD4": "22.11346,95.13897",
+   "FIELD5": " Yankin",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kone Myint Thar Restaurant",
+   "FIELD3": "No.69 (A), 7 Mile, Pyay Road, Mayangone Township, Yangon, Myanmar.",
+   "FIELD4": "16.862186, 96.142100",
+   "FIELD5": "Mayangone ",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Koung Mon Super Center (Magway)",
+   "FIELD3": "No. 78/B, Pyi Daw Thar Road, Magway, Myanmar.",
+   "FIELD4": "20.148750,94.930983",
+   "FIELD5": "Magway",
+   "FIELD6": "Magway"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kubota Showroom (Myawaddy)",
+   "FIELD3": "No. 45, Ywa Thit Village, Myawaddy-Thingan Nyi Naung Road (Asia Main Road), Myawaddy, Kayin State, Myanmar.",
+   "FIELD4": "16.697,98.40876",
+   "FIELD5": " Myawaddy",
+   "FIELD6": " Myawaddy"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kungyangon Branch ATM",
+   "FIELD3": "No.(412), Bogyoke Street, Kangyimakyee Ward, Kungyangon Tsp, Yangon, Myanmar.",
+   "FIELD4": "16.442297, 96.014010",
+   "FIELD5": "Kungyangon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaik Htee Yoe Pagoda",
+   "FIELD3": "Kyaik Htee Yoe Pagoda, Kyaikhto Township, Mon State, Myanmar.",
+   "FIELD4": "17.48004,97.09996",
+   "FIELD5": " Kyaikhto ",
+   "FIELD6": " Kyaikhto "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaiklat Branch",
+   "FIELD3": "No.(10), Between 2/3, U Sandar Street, No(2) Ward, Kyaiklat, Ayeyarwady, Myanmar.",
+   "FIELD4": "16.445717, 95.728118",
+   "FIELD5": " Kyaiklat",
+   "FIELD6": " Kyaiklat"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaikto Branch",
+   "FIELD3": "No.(18), Bogyoke Road, South Ward, Kyaikto, Mon, Myanmar.",
+   "FIELD4": "17.308482, 97.008309",
+   "FIELD5": "Kyaikto",
+   "FIELD6": "Kyaikto"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "KyaingTong Branch ATM",
+   "FIELD3": "No. 165/A, Kyaing Ngan (1) Street, (2) Ward, Kyaing Tong, Shan State.",
+   "FIELD4": "21.291707, 99.608298",
+   "FIELD5": "Kyaing Tong",
+   "FIELD6": "Kyaing Tong"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyangin Mini Branch",
+   "FIELD3": "No.(94), Corner of Sitye Street and Bogyoke Street, Ywarthit Ward, Kyangin, Ayeyarwady, Myanmar.",
+   "FIELD4": "18.338292, 95.246654",
+   "FIELD5": "Kyangin",
+   "FIELD6": "Kyangin"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyauk Myaung Mart",
+   "FIELD3": "No.(117/119), Kyauk Myaung Street, Tamwe Township, Yangon, Myanmar. ",
+   "FIELD4": "16.804077, 96.176136",
+   "FIELD5": "Tamwe",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyauk Pyu Branch ATM1",
+   "FIELD3": "No. 17, Yonetat Street, Middle Ward, Kyaukpyu, Rakhine, Myanmar.",
+   "FIELD4": "19.428618, 93.550536",
+   "FIELD5": "Kyaukpyu",
+   "FIELD6": "Kyaukpyu"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaukpadaung Branch",
+   "FIELD3": "No.(2069/B), Yanpyayman Street, Sanpya Ward, Kyaukpadaung. ",
+   "FIELD4": "20.836148, 95.125395",
+   "FIELD5": " Kyaukpadaung",
+   "FIELD6": " Kyaukpadaung"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaukse Branch",
+   "FIELD3": "No.(9), Yangon-Mandalay highway road, Pyaylonenaing Ward, Kyaukse, Myanmar. ",
+   "FIELD4": "21.610491, 96.134699",
+   "FIELD5": "Kyaukse",
+   "FIELD6": "Kyaukse"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyauktada Branch",
+   "FIELD3": "No.(173), Maha Bandula Park Street, Kyauktada, Yangon, Myanmar.",
+   "FIELD4": "16.775750, 96.160287",
+   "FIELD5": "Kyauktada",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyauktada Branch (Bo Aung Kyaw Street)",
+   "FIELD3": "Building (263/267), Ground Floor, Bo Aung Kyaw Street (Middle), (9) Block, Kyauktada, Yangon, Myanmar.",
+   "FIELD4": "16.775217,96.164252",
+   "FIELD5": "Kyauktada",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyee Myin Daing Branch (Zay Gyee Street)",
+   "FIELD3": "No.(45), Building No (A-01/02, B-01/02), Kyee Myin Daing Zay Gyee Street (Night Market), Magyitan West Ward, Kyee Myin Daing Township, Yangon, Myanmar.",
+   "FIELD4": "16.80928,96.12445",
+   "FIELD5": " Kyee Myin Daing",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyonpyaw Branch",
+   "FIELD3": "No.(4), Innye Street, Aung San Ward, Kyonpyaw, Ayeyarwady Division, Myanmar.",
+   "FIELD4": "17.299146, 95.197602",
+   "FIELD5": "Kyonpyaw",
+   "FIELD6": "Kyonpyaw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kywe Se Kan Branch",
+   "FIELD3": "No-(Ga/9), Yangon-Mandalay Road, Chanmya Tharyar Ward, Pyigyitagon, Mandalay, Myanmar.",
+   "FIELD4": "21.928366, 96.086954",
+   "FIELD5": "Pyi Gyi Ta Gon",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "La Pyae Wunn Plaza",
+   "FIELD3": "No-37, Room-810, Alanpya Pagoda Road, Dagon Township, Yangon, Myanmar.",
+   "FIELD4": "16.783609, 96.157992",
+   "FIELD5": "Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Labutta Branch",
+   "FIELD3": "No. (193), Merchant Street, (6) Block, Labutta, Ayeyarwady Division, Myanmar. ",
+   "FIELD4": "16.146247,94.760880",
+   "FIELD5": "Labutta",
+   "FIELD6": "Labutta"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lan Lan Motor Cycle",
+   "FIELD3": "NatSinSu Village, Beside of Yangon - Twante Road, Near Kanbae Junction, Twante Town, Yangon, Myanmar.",
+   "FIELD4": "16.7082,96.01132",
+   "FIELD5": "Twante",
+   "FIELD6": "Twante"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lanmadaw (6) Street Branch",
+   "FIELD3": "No.(602), 6th Street, Strand Road, Lanmadaw, Yangon.",
+   "FIELD4": "16.775132, 96.140368",
+   "FIELD5": "Lanmadaw",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lanmadaw Branch ",
+   "FIELD3": "No-797, Mahabandoola Road, Lanmadaw Township, Yangon., Myanmar.",
+   "FIELD4": "16.774851, 96.144505",
+   "FIELD5": " Lanmadaw ",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lanmadaw Thanzay Branch",
+   "FIELD3": "No.(135), Lanmadaw Street, Lanmadaw, Yangon, Myanmar.",
+   "FIELD4": "16.775912, 96.147601",
+   "FIELD5": " Lanmadaw ",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Laser Mobile Shop",
+   "FIELD3": "Bo Tauk Htain Street, North Side of Shan Kan, Pyinmana, NayPyiTaw, Myanmar.",
+   "FIELD4": "19.739159, 96.202619",
+   "FIELD5": "Pyinmana",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lashio Branch",
+   "FIELD3": "No(34), Theinni street, Sankaung Yark, (2) Ward, District (10), Lashio, Myanmar. ",
+   "FIELD4": "22.938184, 97.750330",
+   "FIELD5": " Lashio",
+   "FIELD6": " Lashio"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Latha Branch (Anawrahta Road)",
+   "FIELD3": "No.(99-B/C), Ground Floor, (Kyone Gyi), Between (19) Street and (20) Street, (7) Ward, Latha Township, Yangon, Myanmar.",
+   "FIELD4": "16.777056, 96.149668",
+   "FIELD5": " Latha",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Latha Street Branch",
+   "FIELD3": "No.(13/15), Latha Street, Latha Township, Yangon, Myanmar.",
+   "FIELD4": "16.77277,96.15022",
+   "FIELD5": " Latha",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Latt Pan Hla Branch ATM",
+   "FIELD3": "No. 83, Mandalay-Mogok Main Road, Yone Pin Kone Ward, Latt Pan Hla Village, Sintku Township, Pyin Oo Lwin District, Mandalay Division, Myanmar.",
+   "FIELD4": "22.5584,96.06604",
+   "FIELD5": "Sintku",
+   "FIELD6": "Sintku"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lewe Branch",
+   "FIELD3": "No.(5/451), Myothit (3) Street, 5 Ward, Naypyidaw (Lewe), Myanmar.",
+   "FIELD4": "19.642863, 96.113931",
+   "FIELD5": "Lewe",
+   "FIELD6": "Lewe"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Linn Computer & Mobile",
+   "FIELD3": "No. 14/585, 4 Street, Paung Laung Quarter, NayPyiTaw, Myanmar.",
+   "FIELD4": "19.754571,96.203391",
+   "FIELD5": "Nay Pyi Taw",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Linn Computer & Mobile (Tha Pyay Gone)",
+   "FIELD3": "No. 117, Taung Nyo Road, Thapyagone Quarter, Nay Pyi Taw, Myanmar.",
+   "FIELD4": "19.74612,96.11954",
+   "FIELD5": "Nay Pyi Taw",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Linn Hotel (Popa)",
+   "FIELD3": "Near By Pan Say Kan, Byatta Pan Sat Road, Popa, 11221 Popaywa, Kyaukpadaung, Myanmar.",
+   "FIELD4": "20.9435,95.19529",
+   "FIELD5": " Kyaukpadaung",
+   "FIELD6": " Kyaukpadaung"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Loikaw Branch",
+   "FIELD3": "Kandayawadi Market, Block(B), Thida Road, Zaypine Qr, Loikaw. ",
+   "FIELD4": "19.674297, 97.210901",
+   "FIELD5": "Loikaw",
+   "FIELD6": "Loikaw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lucky 7 Petrol Station",
+   "FIELD3": "Kalaw - Taungyi Main Road, Taung Lay Lone Village, Shwe Nyaung City, Myanmar.",
+   "FIELD4": "20.746855,96.906582",
+   "FIELD5": "Shwe Nyaung",
+   "FIELD6": "Shwe Nyaung"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lucky Dragon Hotel (Pyay)",
+   "FIELD3": "No.772, Strand Road, Sandaw Quarter, Pyay, Myanmar.",
+   "FIELD4": "18.819530, 95.213912",
+   "FIELD5": "Pyay",
+   "FIELD6": "Pyay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "M Buwon Co;Ltd.",
+   "FIELD3": "Plot No. 149/1, 149/2, Kanaung Minthar Gyi Street, East Dagon Industrial Zone (1), East Dagon Township, Yangon, Myanmar.",
+   "FIELD4": "16.892918,96.236401",
+   "FIELD5": "East Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Magway Branch",
+   "FIELD3": "No.(3), Corner of Pyaytawtar Street and Khattar Street, Yankyaw Ward, Magway, Myanamr.",
+   "FIELD4": "20.151972, 94.943364",
+   "FIELD5": " Magway",
+   "FIELD6": " Magway"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Magway Education College",
+   "FIELD3": "Magway Education College, Beside of Magway - Taung Twin Gyi Road, Magway, Magway Division, Myanmar.",
+   "FIELD4": "20.14084,94.95462",
+   "FIELD5": " Magway",
+   "FIELD6": " Magway"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Magway Shopping Mall",
+   "FIELD3": "No. 8, Bogyoke Road, Pawe Kyo Quarter, Magway, Mynamar.",
+   "FIELD4": "20.152010, 94.922580",
+   "FIELD5": " Magway",
+   "FIELD6": " Magway"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Magway Technological University",
+   "FIELD3": "Magway Technological University, Magway Division, Myanmar.",
+   "FIELD4": "20.199062, 95.007888",
+   "FIELD5": " Magway",
+   "FIELD6": " Magway"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Magway University",
+   "FIELD3": "Magway University, Beside of Magway - Taung Dwin Gyi Road, Magway, Magway Division, Myanmar.",
+   "FIELD4": "20.138898, 94.935561",
+   "FIELD5": " Magway",
+   "FIELD6": " Magway"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "MaingThouk Image Restaurant",
+   "FIELD3": "SaingThoukMyouk Market, Nyaung Shwe, Shan State.",
+   "FIELD4": "20.58045,96.94321",
+   "FIELD5": " Nyaung Shwe",
+   "FIELD6": " Nyaung Shwe"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Man Myanmar Hotel (NPT)",
+   "FIELD3": "No. H (19), Yazathingaha Road, Hotel Zone 1, Dekkhina Thiri Tsp, NayPyiTaw, ",
+   "FIELD4": "19.699268, 96.120561",
+   "FIELD5": " Dekkhina Thiri ",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Manaw Hari Branch",
+   "FIELD3": "No (Za/5/25), (62) Street, Myothit (4) Ward, Mandalay.",
+   "FIELD4": "21.927344, 96.110532",
+   "FIELD5": "Chan Mya Thar Si",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (19) Street Branch",
+   "FIELD3": "No.(146), Corner of (81)Street and (19)Street, Maygagiyi Ward, Aung Myay Tharzan Township, Mandalay.",
+   "FIELD4": "21.993386, 96.083708",
+   "FIELD5": " Aung Myay Tharzan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (26) Street Branch",
+   "FIELD3": "No.(228), (26)Street, Between (91x92) street, Thirihaymar west ward, Chanayetharzan, Mandalay, Myanmar.",
+   "FIELD4": "21.983926,96.065743",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (35 St) Branch ATM",
+   "FIELD3": "No. 97, 35th Street, Between 74 & 75 Street, Mahar Aung Myay Township, Mandalay Division.",
+   "FIELD4": "21.96862,96.09241",
+   "FIELD5": " Mahar Aung Myay",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (78th Street Branch)",
+   "FIELD3": "No.E-1,2,3 78th Street, between (27,28) Street, Haymar Zala Ward, Chanayethazan Township, Manadalay,",
+   "FIELD4": "21.980902, 96.087192",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (86) Street Branch",
+   "FIELD3": "No.(258), (86)Street, Between (31x32)Street, PyayGyi Pyaw Bwal East Ward, Chan Aye Tharzan Township, Mandalay, Myanmar.",
+   "FIELD4": "21.97529,96.0728",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (Pyi Gyi Mingalar) Branch",
+   "FIELD3": "No.(19), Pyi Gyi Mingalar Cargo Express Complex, Amayapura Township, Mandalay, Myanmar.",
+   "FIELD4": "21.86992,96.10748",
+   "FIELD5": " Amayapura",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (Yatanar Mall) Branch",
+   "FIELD3": "Room No.(A05©+A06+A07+A08+A09), (3rd) Floor (Diamond Plaza), (78th) Street, Between 33 x 34 Street, Chanayethazan Township, Mandalay, Myanmar.",
+   "FIELD4": "21.97093,96.08729",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (Zay Cho) Branch",
+   "FIELD3": "No-26/B, between (84-85) Street, Near Myodawkhanma (2) Clock Tower, Aungmyetharzan Township, Mandala",
+   "FIELD4": "21.983735, 96.077150",
+   "FIELD5": "Aung Myay Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay Branch (Theik Pan Street)",
+   "FIELD3": "No.(Ma-22-18), Corner of Theik Pan Street and (66) Street, Chan Mya Thar Si Township, Mandalay, Myanmar.",
+   "FIELD4": "21.951864, 96.104669",
+   "FIELD5": "Chan Mya Thar Si",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay Central Railway Station",
+   "FIELD3": "78th St and 30th St Junction, Chanayethazan Township, Mandalay, Mandalay Division, Myanmar.",
+   "FIELD4": "21.976813, 96.086412",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay City Hotel",
+   "FIELD3": "26 Street, between 82 & 83 Street, Mandalay, Myanmar.",
+   "FIELD4": "21.982786, 96.080592",
+   "FIELD5": "Aung Myay Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay International Airport ",
+   "FIELD3": "Tada-U, Mandalay, MYANMAR ",
+   "FIELD4": "21.705646, 95.970830",
+   "FIELD5": "Tada U",
+   "FIELD6": "Tada U"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay University",
+   "FIELD3": "Mandalay University, Mahar Aung Myay Township, Mandalay, Myanmar.",
+   "FIELD4": "21.955528,96.089089",
+   "FIELD5": "Mahar Aung Myay",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mansu Hotel",
+   "FIELD3": "Theinni Road, 8 Ward, Lashio, Shan State.",
+   "FIELD4": "22.951287, 97.757063",
+   "FIELD5": " Lashio",
+   "FIELD6": " Lashio"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Maubin Branch",
+   "FIELD3": "No. (78), Pagoda Road, Zaypine Ward, Maubin, Myanmar.",
+   "FIELD4": "16.733092, 95.653705",
+   "FIELD5": "Maubin",
+   "FIELD6": "Maubin"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mawlamyine Kyun Branch",
+   "FIELD3": "No.(17), Maha Bandula Street (Minn Lane), Myoma (6) Ward, Mawlamyine Kyun Township, Labutta, Ayeyarwaddy Division, Myanmar.",
+   "FIELD4": "16.3755,95.26672",
+   "FIELD5": " Labutta",
+   "FIELD6": " Labutta"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mawlamying Branch",
+   "FIELD3": "No.151, Kannar Road, Phattan Ward, Mawlamying, Myanmar.",
+   "FIELD4": "16.496621, 97.618030",
+   "FIELD5": "Mawlamying",
+   "FIELD6": "Mawlamying"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mayangone Branch (Kyaik Waing Pagoda Road)",
+   "FIELD3": "No.(26), Ground Floor, Corner of Kyaik Waing Pagoda Road and Min Kyaung Street, Mayangone, Yangon, Myanmar.",
+   "FIELD4": "16.866349, 96.126143",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "MDY 32St change from MDY_32rdSt_ Branch",
+   "FIELD3": "No. 226, 32nd Street between (83-84) Street, Chanayethazan Township, Mandalay, Myanmar.",
+   "FIELD4": "21.97446,96.0778",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "MEGA Lifesciences Ltd (MDY)",
+   "FIELD3": "No. 15/5, 55th Street, Between Theik Pan Road & 43rd Street, Ye Mon Taung, Mahar Aung Myae Township, Mandalay.",
+   "FIELD4": "21.951666, 96.122915",
+   "FIELD5": "Mahar Aung Myay",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "MEGA Lifesciences Ltd (YGN)",
+   "FIELD3": "Universal Building, 1A/7, Shwe Pin Lon Housing Estate, BayintNaung Road, Ward 27, North Dagon Tsp, Yangon, Myanmar.",
+   "FIELD4": "16.859167,96.198861",
+   "FIELD5": " North Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Meikhtila Branch",
+   "FIELD3": "No-48, Yangon-Mandalay Street, Thiri Mingalar (A) Quarter, Near Clock Tower, Meikhtila, Myanmar.",
+   "FIELD4": "20.883820, 95.860766",
+   "FIELD5": "Meikhtila",
+   "FIELD6": "Meikhtila"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Melia Hotel (Yangon)",
+   "FIELD3": "No.(192), Kaba Aye Pagoda Road, Bahan Township, Yangon, Myanmar.",
+   "FIELD4": "16.826578, 96.154905",
+   "FIELD5": "Bahan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Memory Hotel ",
+   "FIELD3": "No. 117/B, 77 Street, Between 28 Street & 29 Street, Chan Aye Tharzan Township, Mandalay, Myanmar.",
+   "FIELD4": "21.978700, 96.088795",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Merciel Retreat & Resort",
+   "FIELD3": "Zee Phyu Gone Village, Ngapali Beach, Thandwe Township, Rakhine State, Myanmar.",
+   "FIELD4": "18.45322,94.3053",
+   "FIELD5": "Thandwe",
+   "FIELD6": "Thandwe"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mi Tha Su Mart (Ahlone)",
+   "FIELD3": "No. 47, Baho Road, Ahlone Township, Yangon, Myanmar.",
+   "FIELD4": "16.789664,96.133273",
+   "FIELD5": " Ahlone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mi Tha Su Mart (Bayint Naung)",
+   "FIELD3": "No. 31, Corner of Yinmar Street & Yuzana Street, Bayintnaung Pwe Yon, Mayangone Township, Yangon, Yangon.",
+   "FIELD4": "16.862034,96.107037",
+   "FIELD5": " Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Micasa Hotel",
+   "FIELD3": "No. 17, Kabar Aye Pagoda Road, Yankin Township, Yangon.",
+   "FIELD4": "16.840237,96.157054",
+   "FIELD5": "Yankin",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Min San Eain Store",
+   "FIELD3": "(3) Ward, Pagoda Road, Myan Aung, Myanmar.",
+   "FIELD4": "18.29031,95.32169",
+   "FIELD5": "Myan Aung",
+   "FIELD6": "Myan Aung"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mingaladon Branch (Khayae Pin Road)",
+   "FIELD3": "No.(41), Khayae Pin Road, (2/A) Sanpya Ward, Mingaladon Township, Yangon, Myanmar.",
+   "FIELD4": "16.9308077,96.1384918",
+   "FIELD5": " Mingaladon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mingalartaungnyunt (Daw Thein Tin Street) Branch",
+   "FIELD3": "No.(28), Daw Thein Tin Street, Kantawkalay North Ward, Mingalartaungnyunt, Yangon, Myanmar.",
+   "FIELD4": "16.789165, 96.166116",
+   "FIELD5": "Mingalartaungnyunt",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mingalarzay Branch",
+   "FIELD3": "No.(133), Corner of Mill Road and Bominyaung Road, Yedwingon Ward, Mingalartaungnyunt Township, Yang",
+   "FIELD4": "16.790728, 96.174906",
+   "FIELD5": "Mingalartaungnyunt",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "MIP ICD2 (Botahtaung)",
+   "FIELD3": "Myanmar Industrial Port, ICD2 (Botahtaung).",
+   "FIELD4": "16.768217,96.176133",
+   "FIELD5": "Botahtaung",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "MITT (Thilawa) Limited",
+   "FIELD3": "Berth 5-9, Thilawa, Kyauktan Township, Yangon, Myanmar.",
+   "FIELD4": "16.671633,96.253683",
+   "FIELD5": "Kyauktan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "MMB Bank (Parami Branch)",
+   "FIELD3": "No.(289-B + 290), (4)th Quarter, Parami Road, South Okkalarpa Township, Yangon, Myanmar.",
+   "FIELD4": "16.855667,96.171250",
+   "FIELD5": " South Okkalarpa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "MMB Bank (Phone Gyi Road Branch)",
+   "FIELD3": "No.(36), Ground Floor & First Floor, Phone Gyi Lane ( Lower Blog), Latha Township, Yangon, Myanmar.",
+   "FIELD4": "16.774433,96.144700",
+   "FIELD5": " Latha",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "MMB Bank (Thit Sar Road Branch)",
+   "FIELD3": "No.(11/13), (10)th Quarter, Thit Sar Road, South Okkalarpa Township, Yangon, Myanmar.",
+   "FIELD4": "16.848183,96.182300",
+   "FIELD5": "South Okkalarpa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mogoke Branch ",
+   "FIELD3": "No. (125), Bogyoke Road, Myoma Block, Mogoke, Myanmar.",
+   "FIELD4": "22.920229, 96.501322",
+   "FIELD5": "Mogoke",
+   "FIELD6": "Mogoke"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Monywa Branch",
+   "FIELD3": "No-50, Butaryone Street, Sulegone Ward, Near Bogyoke Kyae Yoke, Monywa, Myanmar.",
+   "FIELD4": "22.116542, 95.133078",
+   "FIELD5": "Monywa",
+   "FIELD6": "Monywa"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "MOS Lumber Products",
+   "FIELD3": "Holding No.11/2, Plot 814, Phar Ouk Taw Kwin, Yoego Village Tract, Mawlamyaing-Kyaik Kha Mi Road, Mawlamyine, Myanmar.",
+   "FIELD4": "16.35943,97.66883",
+   "FIELD5": " Mawlamyine",
+   "FIELD6": " Mawlamyine"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mother House Hotel",
+   "FIELD3": "No. (501/502), Yangon- Mandalay Road, MinGyiNyo Qr, Taungoo Tsp, Bago Division.",
+   "FIELD4": "18.919920, 96.445827",
+   "FIELD5": "Taungoo",
+   "FIELD6": "Taungoo"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mudon Branch",
+   "FIELD3": "No.(118), Mawlamyine - Thanbyuzayat Road, Myoma (1) Ward, Mudon, Mawlamyine, Mon, Myanmar.",
+   "FIELD4": "16.259588, 97.729459",
+   "FIELD5": "Mudon",
+   "FIELD6": "Mudon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Muse Branch ATM1",
+   "FIELD3": "No. (Ta/202), Pyayhtaungsu Road, South Ward, Muse, Shan State. ",
+   "FIELD4": "23.979212, 97.904701",
+   "FIELD5": " Muse",
+   "FIELD6": " Muse"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myanaung Branch",
+   "FIELD3": "No.(3)Ward, Kyattane Middle Road, Myanaung, Ayeyarwady, Myanmar.",
+   "FIELD4": "18.288618, 95.318877",
+   "FIELD5": "Myan Aung",
+   "FIELD6": "Myan Aung"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myanmar Gems Trade Center",
+   "FIELD3": "Kabar Aye Pagoda Road, Mayangone Township, Yangon, Myanmar.",
+   "FIELD4": "16.854720,96.156512",
+   "FIELD5": " Mayangone ",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myanmar ICT Park ",
+   "FIELD3": "Myanmar ICT Park, Universities Hlaing Campus, Hlaing Tsp, Yangon, Myanmar. ",
+   "FIELD4": "16.849638, 96.129217",
+   "FIELD5": "Hlaing",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myanmar Institute Of Thenology",
+   "FIELD3": "Seminary Hill, Insein Road, Insein Tsp, Yangon.",
+   "FIELD4": "16.882963, 96.111472",
+   "FIELD5": "Insein",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myanmar Maritime University",
+   "FIELD3": "Thilawa, Thanlyin, Yangon, Myanmar.",
+   "FIELD4": "16.704659, 96.264584",
+   "FIELD5": "Thanlyin",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myanmar Noble College",
+   "FIELD3": "No.6A, Kyoe Industrial St, B Ward, Thuwana, Thingangyun Tsp, Yangon.",
+   "FIELD4": "16.826136, 96.201697",
+   "FIELD5": " Thingangyun",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myanmar Plaza Branch",
+   "FIELD3": "No.(192)/ Room No.(624), Corner of Kabar Aye Pagoda Road and No.1 Industrial Road, Yangon, Myanmar.",
+   "FIELD4": "16.827484, 96.155768",
+   "FIELD5": "Yangon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myanmar Postarion Co.Ltd;",
+   "FIELD3": "No. 8(D), Mingalardon Zone, No (3) Road, Mingalardon Township, Yangon, Myanmar.",
+   "FIELD4": "16.941009, 96.155642",
+   "FIELD5": "Mingalardon Township",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myanmar Silver Spring Enterprises",
+   "FIELD3": "No. 141, 114 & 115, Pantewun U Shwe Bin Street, East Dagon Industrial Zone, East Dagon Township, Yangon, Myanmar.",
+   "FIELD4": "16.902400, 96.242606",
+   "FIELD5": " East Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myat Mingalar Hotel",
+   "FIELD3": "Hotel Zone, Shwe Kyar Pin Street, Dekkhina Thiri Township, Naypyitaw, Myanmar.",
+   "FIELD4": "19.721134, 96.120231",
+   "FIELD5": "Dekkhina Thiri ",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myat Nan Yone Hotel",
+   "FIELD3": "Block No. 4, Hotel Zone, Datkhina Thiri Tsp, NayPyiTaw, Myanmar.",
+   "FIELD4": "19.704633, 96.115263",
+   "FIELD5": " Datkhina Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myaungmya Branch",
+   "FIELD3": "No.(116), U Ba Cho Street, Shangone, (5)Ward, Myaungmya, Ayeyarwady Division, Myanmar.",
+   "FIELD4": "16.600783, 94.929217",
+   "FIELD5": " Myaungmya",
+   "FIELD6": " Myaungmya"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myawaddy Branch ",
+   "FIELD3": "No. (8/51), Bayintnaung Street, 2 Ward, Myawaddy, Myanmar. ",
+   "FIELD4": "16.688956, 98.512031",
+   "FIELD5": "Myawaddy",
+   "FIELD6": "Myawaddy"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myawaddy Hotel",
+   "FIELD3": "Asia Main Road (BayintNaung Road), No. 4 Ward, Myawaddy, Kayin State.",
+   "FIELD4": "16.687492, 98.508644",
+   "FIELD5": "Myawaddy",
+   "FIELD6": "Myawaddy"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myeik (Kan Khaung) Branch",
+   "FIELD3": "No.(5), Sagawar Street, Kan Khaung Ward, Myeik, Tanintharyi Division, Myanmar.",
+   "FIELD4": "12.44083,98.60027",
+   "FIELD5": "Myeik",
+   "FIELD6": "Myeik"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myin Thar (South Okkalapa) Branch",
+   "FIELD3": "No.(69/2), (14/2) Ward, Thanthumar Road, Myin Thar, South Okkalapa Township, Yangon, Myanmar.",
+   "FIELD4": "16.849722,96.190556",
+   "FIELD5": "Okkalapa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myingyan Branch",
+   "FIELD3": "No.(5/412), Corner of Bogyoke Street and (6th) Street, (5)Ward, Myingyan, Mandalay, Myanmar.",
+   "FIELD4": "21.464167,95.388611",
+   "FIELD5": " Myingyan",
+   "FIELD6": " Myingyan"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myinmu Branch ATM",
+   "FIELD3": "No. (2/1), Monywa-Mandalay Road, Marga Ward, Myinmu, Sagaing Division, Myanmar. ",
+   "FIELD4": "21.923527, 95.577517",
+   "FIELD5": "Myinmu",
+   "FIELD6": "Myinmu"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myitthar Branch",
+   "FIELD3": "No. 18, Bogyoke Aung San Road, Shan Pwal Ward, Kyaukse District, Myit Thar Township, Mandalay Division, Myanmar.",
+   "FIELD4": "21.42541,96.13",
+   "FIELD5": " Myit Thar ",
+   "FIELD6": " Myit Thar "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nadi Myanmar Hotel (MDY)",
+   "FIELD3": "62nd, Between 37th & 38th Streed, Mandalay, Myanmar.",
+   "FIELD4": "21.963706,96.112539",
+   "FIELD5": "Chan Mya Thar Si",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nan Htike Thu Hotel (Magway)",
+   "FIELD3": "No. (8/1, 9/1), Strand Road, Magway. Myanmar.",
+   "FIELD4": "20.133676, 94.925499",
+   "FIELD5": "Magway",
+   "FIELD6": "Magway"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nanda Restaurant Bagan",
+   "FIELD3": "Bagan-NyaungU Main Rd, WatInnGyi Ward, Nyaung U, Mandalay Division.",
+   "FIELD4": "21.18821,94.89015",
+   "FIELD5": " Nyaung U",
+   "FIELD6": " Nyaung U"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nation Mart (Sawbwar Gyi Kone)",
+   "FIELD3": "No. 12, Room (9/10), Sawbwar Gyi Kone Compound, Insein Township, Yangon, Myanmar.",
+   "FIELD4": "16.89358,96.12102",
+   "FIELD5": "Insein",
+   "FIELD6": "Insein"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Naung Cho Branch",
+   "FIELD3": "No.(30), Mandalay-Lashio Road, Zay Ward, Naung Cho Township, Shan State, Myanmar.",
+   "FIELD4": "22.330708, 96.802873",
+   "FIELD5": " Naung Cho",
+   "FIELD6": " Naung Cho"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nawaday Sugar Mill (Pyay)",
+   "FIELD3": "Mya Village, Pyay, Bago Division, Myanmar.",
+   "FIELD4": "18.867833, 95.211896",
+   "FIELD5": " Pyay",
+   "FIELD6": " Pyay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nawarat Guest House",
+   "FIELD3": "E/6, Near Railway Station, Myaenigone Ward, Mawlamyaing, Mon State, Myanmar.",
+   "FIELD4": "16.470283,97.632917",
+   "FIELD5": " Mawlamyaing",
+   "FIELD6": " Mawlamyaing"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nawarat Mobile Store",
+   "FIELD3": "No. (28), Ba Htoo Kyaung Street, Yegyi, Myanmar.",
+   "FIELD4": "17.34628,95.11826",
+   "FIELD5": "Yegyi",
+   "FIELD6": "Yegyi"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nay Pyi Taw Central Railway Station",
+   "FIELD3": "Nay Pyi Taw Central Railway Station.",
+   "FIELD4": "19.848723,96.196740",
+   "FIELD5": "Nay Pyi Taw",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nay Pyi Taw International Airport",
+   "FIELD3": "Nay Pyi Taw, Myanmar.",
+   "FIELD4": "19.61501, 96.213013",
+   "FIELD5": "Nay Pyi Taw",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Naypyitaw (Oattara Thiri) Branch (ATM 1)",
+   "FIELD3": "No.(8), Corner of Mandalay Road and Hnin Si Road, Zawana Theikdi Ward, Naypyitaw.",
+   "FIELD4": "19.822587, 96.154887",
+   "FIELD5": "Oattara Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Naypyitaw (Oattara Thiri) Branch (ATM 2)",
+   "FIELD3": "No.(8), Corner of Mandalay Road and Hnin Si Road, Zawana Theikdi Ward, Naypyitaw.",
+   "FIELD4": "19.822587, 96.154887",
+   "FIELD5": "Oattara Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nelson English Language Centre",
+   "FIELD3": "No. 27, Dhamayone Street, Kanbe, 13 Ward, Near Moekaung Road, Yankin Township, Yangon, Myanmar.",
+   "FIELD4": "16.83473,96.16999",
+   "FIELD5": "Yankin",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "New Aye Yar Hotel",
+   "FIELD3": "Naypyitaw Myo Part Street, Dekhina Thiri Township, Naypyitaw, Myanmar.",
+   "FIELD4": "19.717740, 96.113655",
+   "FIELD5": "Dekhina Thiri",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "New Shwe Moe Café",
+   "FIELD3": "Thyat Taw Ward, Pyay Road, AungLan Tsp, Magway Division.",
+   "FIELD4": "19.37871,95.21333",
+   "FIELD5": "Aung Lan",
+   "FIELD6": "Aung Lan"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "New Star (Gems & Jewellery)",
+   "FIELD3": "Between 32nd &33rd Street, corner of 78th street, Mandalay. ",
+   "FIELD4": "21.973165, 96.086775",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "New Star Gem & Jewelly YGN",
+   "FIELD3": "No. 30, Corner of Shwedagon Pagoda Road & Pantra Street, Dagon Tsp, Yangon.",
+   "FIELD4": "21.973162, 96.086773",
+   "FIELD5": " Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "New Tiger Hotel",
+   "FIELD3": "80th Street, Between 37 Street & 38 Street, Mandalay, Myanmar.",
+   "FIELD4": "21.96525,96.08295",
+   "FIELD5": "Mahar Aung Myay",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ngapali Banyan Boutique Hotel",
+   "FIELD3": "No.(456), Ziwaka Street, Ziphyugone Township, Ngapali, Rakine State, Myanmar.",
+   "FIELD4": "18.44731,94.31419",
+   "FIELD5": "Ngapali",
+   "FIELD6": "Thandwe"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ngwe Moe Hotel",
+   "FIELD3": "Corner of Kyaik Thoke Pagoda Road and Strand Road, Mawlamyaing, Mon State, Myanmar.",
+   "FIELD4": "16.478217,97.619633",
+   "FIELD5": "Mawlamying",
+   "FIELD6": "Mawlamying"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nibban Co.,Ltd. (East Dagon)",
+   "FIELD3": "No. 126, Matkhayar Min Thar Gyi Road, City of Industry, East Dagon Township, Yangon, Myanmar.",
+   "FIELD4": "16.89529,96.23722",
+   "FIELD5": " East Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "NIRVANA Hotel",
+   "FIELD3": "No. MH-(3,4), YarZaThin Gaha Road, Dakkhina Thiri Township, Hotel Zone (1), NayPyiTaw, Myanmar.",
+   "FIELD4": "19.685817,96.123850",
+   "FIELD5": "Dakkhina Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "North Okkalapa (Thudhamma Road) Branch",
+   "FIELD3": "No.(673), Thudhamma Road, (F) Ward, North Okkalapa Township, Yangon, Myanmar.",
+   "FIELD4": "16.89825,96.1612",
+   "FIELD5": "North Okkalapa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "North Point (Ocean) Super Centre",
+   "FIELD3": "Pyay Road,10 Mile, Mayangone Township.",
+   "FIELD4": "16.881076, 96.135467",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nyaung Lay Pin2 Branch ATM1",
+   "FIELD3": "No.(120/164), Phayargyi Road, Myoma (1) Ward, Naunglaybin Township, Bago, Myanmar.",
+   "FIELD4": "17.956018,96.723586",
+   "FIELD5": "Bago",
+   "FIELD6": "Bago"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nyaung U Airport",
+   "FIELD3": "Nyaung U Airport, Nyaung U, Mandalay Division.",
+   "FIELD4": "21.17592,94.929",
+   "FIELD5": "Nyaung Oo",
+   "FIELD6": "Nyaung Oo"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nyaungdon Branch",
+   "FIELD3": "No. (74), Lanmadaw Street, (4) Ward, Nyaungdon, Myanmar.",
+   "FIELD4": "17.048185, 95.632017",
+   "FIELD5": "Nyaungdon",
+   "FIELD6": "Nyaungdon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nyaungshwe Branch (ATM 1)",
+   "FIELD3": "No.(84), Corner of Phaung Daw Pyan Road and Strand Road, Plot (3) Win Yat, Nyaung Shwe, Myanmar.",
+   "FIELD4": "20.657656, 96.924887",
+   "FIELD5": " Nyaung Shwe",
+   "FIELD6": " Nyaung Shwe"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nyaungshwe Branch (ATM 2)",
+   "FIELD3": "No.(84), Corner of Phaung Daw Pyan Road and Strand Road, Plot (3) Win Yat, Nyaung Shwe, Myanmar.",
+   "FIELD4": "20.657656, 96.924887",
+   "FIELD5": " Nyaung Shwe",
+   "FIELD6": " Nyaung Shwe"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nyaung-U Branch",
+   "FIELD3": "No.(80), Lanmadaw Street, Sonekone Ward, Nyaung-U, Mandalay.",
+   "FIELD4": "21.200770, 94.906889",
+   "FIELD5": " Nyaung U",
+   "FIELD6": " Nyaung U"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ocean Super Center (73rd St, MDY)",
+   "FIELD3": "73rd Street, Between Thazin St & NguShweWar St, Mandalay, Myanmar.",
+   "FIELD4": "21.941608,96.093236",
+   "FIELD5": "Chan Mya Thar Si",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ocean Super Center (ShweGoneDaing)",
+   "FIELD3": "Coner of BaNyarDala Road & ShweGoneDaing Road, Bahan Township, Yangon, Myanmar.",
+   "FIELD4": "16.811383,96.170667",
+   "FIELD5": " Bahan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ocean Super Centre (MLM)",
+   "FIELD3": "Betweem Thein Ghone Road & Taninthayi Road, Bogone Ward, Than Lwin Garden, Mawlamyine Upper Road, Mawlamyine.",
+   "FIELD4": "16.46858,97.62672",
+   "FIELD5": "Mawlamyine",
+   "FIELD6": "Mawlamyine"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "OK Hotel (MLM)",
+   "FIELD3": "No. 11/15, Coner of Toe Chae Strand Road and Tha Thone Bridge Road, Zay Gyi, Phat Tan Ward, Mawlamyaing, Myanmar.",
+   "FIELD4": "16.495017,97.6178",
+   "FIELD5": "Mawlamyine",
+   "FIELD6": "Mawlamyine"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Olympic Hotel",
+   "FIELD3": "National Swimming Pool Compound, U Wisara Road, Dagon Township, Yangon, Myanmar.",
+   "FIELD4": "16.783201, 96.151419",
+   "FIELD5": "Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ooredoo Myanmar",
+   "FIELD3": "Hotel Zone (1), Dekkhina Thiri Township, Naypyitaw, Myanmar.",
+   "FIELD4": "16.850833,96.129800",
+   "FIELD5": "Hlaing",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Orange (North Okkalapa)",
+   "FIELD3": "No. (103), Bawga Bala Street, North Okkalapa Township, Yangon, Myanmar.",
+   "FIELD4": "16.893111,96.155444",
+   "FIELD5": " North Okkalapa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Orange (Thaketa)",
+   "FIELD3": "No. 1200 B, MinNandar Road, 2/Myaut Ward, Thaketa Tsp, Yangon, Myanmar.",
+   "FIELD4": "16.794567,96.194517",
+   "FIELD5": "Thaketa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Orange (Thanlyin)",
+   "FIELD3": "No. 151, Ground floor, BoGyoke Street, West Myothit Qtr, Near Myoma Zay, Thanlyin, Yangon, Myanmar.",
+   "FIELD4": "16.763633,96.246417",
+   "FIELD5": "Thanlyin",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Orange Daily Mart (MyinThar)",
+   "FIELD3": "No. 84, 14/1 Qtr, Coner of Myin Thar (7) street and Than Thu Mar Street, South Okkalapa Tsp, Yangon, Myanmar.",
+   "FIELD4": "16.848849,96.195149",
+   "FIELD5": "South Okkalapa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Orange Daily Mart (Parami)",
+   "FIELD3": "No. 153, Parami Road, 4 Quarter, South Okkalapa Township, Yangon, Myanmar.",
+   "FIELD4": "16.854750,96.169767",
+   "FIELD5": "South Okkalapa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Orchid Hotel",
+   "FIELD3": "No.91, Anawrahta Street, Pazundaung Township, Yangon, Myanmar. ",
+   "FIELD4": "16.776239,96.172520",
+   "FIELD5": "Pazundaung",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "OSC Hospital",
+   "FIELD3": "No.137, Thudhamma Rd, North Okkalapa Township, Yangon, Myanmar.",
+   "FIELD4": "16.884798, 96.155208",
+   "FIELD5": " North Okkalapa ",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pabedan Branch (Junction City)",
+   "FIELD3": "Room No. (348/349), Corner of Bogyoke Road and Shwe Dagon Pagoda Road, Pabedan Township, Yangon, Myanmar.",
+   "FIELD4": "16.77936,96.154",
+   "FIELD5": "Pabedan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pabedan Branch (Kone Zay Tan Street)",
+   "FIELD3": "Building No. (252/260), Ground Floor (C/D), Kone Zay Tan Street, Pabedan, Yangon, Myanmar.",
+   "FIELD4": "16.776206,96.154469",
+   "FIELD5": "Pabedan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pakokku Branch ",
+   "FIELD3": "No. (4/A), Myoma Street, 8 Ward, Pakokku, Myanmar. ",
+   "FIELD4": "21.333673, 95.085125",
+   "FIELD5": "Pakokku",
+   "FIELD6": "Pakokku"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pakokku Technological University",
+   "FIELD3": "Pakokku Technological University, Near Kyauk Hle Khar Village, Pakokku - Yesagyo Road, Yesagyo Township, Pakokku, Myanmar.",
+   "FIELD4": "21.432694,95.135752",
+   "FIELD5": " Yesagyo",
+   "FIELD6": "Pakokku"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Palace Hotel",
+   "FIELD3": "No. (94), Zay Ti Ya Village, TaungYin Block, YGN-Kyaukpyu Road, Kyaukpyu Township, Rakhine, Myanmar.",
+   "FIELD4": "19.43261,93.53135",
+   "FIELD5": " Kyaukpyu",
+   "FIELD6": " Kyaukpyu"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Palace View Hotel ",
+   "FIELD3": "No. 102, 26th Street, Between 75th Street & 76th Street, Chan Aye Thar Zan Township, Mandalay, Myanmar.",
+   "FIELD4": "21.982540, 96.091497",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Palauk Branch",
+   "FIELD3": "No.(703), Baho Street, (1) Ward, Palauk, Tanintharyi Division, Myanmar.",
+   "FIELD4": "13.270143, 98.624530",
+   "FIELD5": " Palauk",
+   "FIELD6": " Palauk"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Palaw Branch",
+   "FIELD3": "No.(12/B), Bogyoke Road, (4) Ward, Palaw, Tanintharyi Division, Myanmar.",
+   "FIELD4": "12.974483, 98.646887",
+   "FIELD5": "Palaw",
+   "FIELD6": "Palaw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pan Pacific YGN",
+   "FIELD3": "No. 29/1, Kamarkyi road, Thuwunna, Thingangyun Township, Yangon.",
+   "FIELD4": "16.81791,96.21456",
+   "FIELD5": "Thingangyun",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Panda Hotel",
+   "FIELD3": "No.205, Corner of Min Ye Kyaw Swar Road and Wadan Road, Lanmadaw Tsp, Yangon.",
+   "FIELD4": "16.782194,96.139109",
+   "FIELD5": " Lanmadaw",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Paradise KTV",
+   "FIELD3": "No-1/B, Between 53rd & 54th, Chan Aye Tharzan Township, Mandalay, Myanmar.",
+   "FIELD4": "21.967925,96.126442",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Paragon Hotel (MDY)",
+   "FIELD3": "Between 65th & 66 th Street, Ngu Shwe Wah & Khaing Shwe Wah, Near Mandalar Thiri Football Stadium, Mandalay, Myanmar.",
+   "FIELD4": "21.936617,96.105050",
+   "FIELD5": "Chan Mya Thar Si",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Park Royal Hotel (Nay Pyi Taw)",
+   "FIELD3": "Hotel Zone (1), Dekkhina Thiri Township, Naypyitaw, Myanmar.",
+   "FIELD4": "19.683965,96.110958",
+   "FIELD5": " Dekkhina Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pathein Branch",
+   "FIELD3": "Corner of Merchant Road and Shwe Pagoda Road, No, (4) Ward, Pathein.",
+   "FIELD4": "16.780694, 94.732825",
+   "FIELD5": " Pathein",
+   "FIELD6": " Pathein"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pazundaung Branch",
+   "FIELD3": "Tower (A) Ground Floor, Room no-002, First floor (102), Leik Kan Housing, Lower Pazundaung Street, Pazundaung Township",
+   "FIELD4": "16.780208, 96.174394",
+   "FIELD5": " Pazundaung",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pazundaung Branch (Yae Kyaw)",
+   "FIELD3": "No.(63), Ground Floor, Yae Kyaw Street, (7)Ward, Pazundaung, Yangon, Myanmar.",
+   "FIELD4": "16.781366, 96.172665",
+   "FIELD5": " Pazundaung",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pearl Laguna Resort",
+   "FIELD3": "Yebone Road, Myeik.",
+   "FIELD4": "12.46682,98.59885",
+   "FIELD5": "Myeik",
+   "FIELD6": "Myeik"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pearl Resort Hotel ",
+   "FIELD3": "No.5, Oattara Thiri Hotel Zone(2), Yarza Thingaha Road, NayPyiTaw, Myanmar.",
+   "FIELD4": "19.873746,96.153381",
+   "FIELD5": "Oattara Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Phyar Pon Branch",
+   "FIELD3": "No (23), Corner of Pahtama Street and Natshinnaung Street, (4)Block, Phyar Pon.",
+   "FIELD4": "16.292972,95.680836",
+   "FIELD5": " Phyar Pon",
+   "FIELD6": " Phyar Pon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Phyu Branch",
+   "FIELD3": "No.(72/73), Bago Street North Lane, Myoma Ward, Phyu, Bago, Myanmar.",
+   "FIELD4": "18.488850, 96.436428",
+   "FIELD5": " Phyu",
+   "FIELD6": " Phyu"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyawbwe Branch",
+   "FIELD3": "No. (194), Minyekyawswar Street, Myinbat Ward, Pyawbwe, Myanmar. ",
+   "FIELD4": "20.590170, 96.053746",
+   "FIELD5": "Pyawbwe",
+   "FIELD6": "Pyawbwe"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyay Branch",
+   "FIELD3": "No.(1441/ 1442), Corner of Yangon-Pyay Road and Shwe Thidan Street, Sandaw Ward, Pyay, Myanmar.",
+   "FIELD4": "18.819266, 95.215668",
+   "FIELD5": "Pyay",
+   "FIELD6": "Pyay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyin Oo Lwin Branch",
+   "FIELD3": "No (135), Mandalay - Lashio Road, (3)Block, Pyin Oo Lwin, Mayanmar.",
+   "FIELD4": "22.029209, 96.465218",
+   "FIELD5": "Pyin Oo Lwin",
+   "FIELD6": "Pyin Oo Lwin"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyinmana Branch",
+   "FIELD3": "No-117, 6th Street, Mingala Ward, Pyinmana, Myanmar.",
+   "FIELD4": "19.739704, 96.207669",
+   "FIELD5": "Pyinmana ",
+   "FIELD6": "Pyinmana "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Sagaing Branch",
+   "FIELD3": "No.(60/A), Corner of Minnlan and Htuparyone pagoda Street, Minlan Block, Sagaing, Myanmar.",
+   "FIELD4": "21.880251, 95.984280",
+   "FIELD5": "Sagaing",
+   "FIELD6": "Sagaing"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Sakura Branch",
+   "FIELD3": "Room (0101), Ground Floor, Sakura Tower, Bogyoke Aung San Street, Kyauktada Township, Yangon.",
+   "FIELD4": "16.779177, 96.159509",
+   "FIELD5": "Kyauktada",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Sanchaung Branch (Bagaya Street)",
+   "FIELD3": "No.(132/B), Ground Floor, Bagaya Street, Sanchaung, Yangon, Myanmar.",
+   "FIELD4": "16.803693, 96.130915",
+   "FIELD5": "Sanchaung",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Shwe Bo (2) Branch",
+   "FIELD3": "No. 17, Thakwuttaw Qtr, (6)ward, Aung Zaya Street, Shwe Bo Township, Sagaing Division.",
+   "FIELD4": "22.56189,95.69733",
+   "FIELD5": "Shwe Bo",
+   "FIELD6": "Shwe Bo"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Singu Branch",
+   "FIELD3": "No.(69), Ayeyar Aung Myay Street, (1) Ward, Singu, Pyin Oo Lwin, Mandalay, Myanmar.",
+   "FIELD4": "22.546635, 95.990219",
+   "FIELD5": "Singu",
+   "FIELD6": "Singu"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Tacheliek Branch",
+   "FIELD3": "No-84/A, Bogyoke Road, Wan Kaung Ward, Tacheliek.",
+   "FIELD4": "20.448937, 99.882489",
+   "FIELD5": "Tacheliek",
+   "FIELD6": "Tacheliek"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Tada-U Branch",
+   "FIELD3": "No.(75), Mandalay Myothar Street, (2) Ward, Tada-U, Mandalay, Myanmar.",
+   "FIELD4": "21.821681, 95.973760",
+   "FIELD5": " Tada U",
+   "FIELD6": " Tada U"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Taikkyi Branch",
+   "FIELD3": "No.(191), Yangon-Pyay Road, Butar Ward, Taikkyi, Yangon, Myanmar.",
+   "FIELD4": "17.311774, 95.965958",
+   "FIELD5": "Taikkyi",
+   "FIELD6": "Taikkyi"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Tamwe (Aw Bar Street) Branch",
+   "FIELD3": "No.(339), Banyardala Street, Pyaryaykone Ward, Tamwe Township, Yangon, Myanmar.",
+   "FIELD4": "16.800162, 96.175420",
+   "FIELD5": "Tamwe",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Tamwe Branch (East Horse Race Course Road)",
+   "FIELD3": "No. 276, Room (C-1,D1), East Horse Race Course Road, Tamwe Township, Yangon. ",
+   "FIELD4": "16.82598,96.17154",
+   "FIELD5": "Tamwe",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Tatkon Branch",
+   "FIELD3": "No.(136), Lanmadaw Street, Myawaddy Ward, Naypyitaw (Tatkon), Myanmar.",
+   "FIELD4": "20.127497, 96.209847",
+   "FIELD5": "Tatkon",
+   "FIELD6": "Tatkon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Taungdwingyi Branch",
+   "FIELD3": "No. (139/A), Pyay Road, Shwekyarinn (2) Ward, Taungdwingyi, Magway Division, Myanmar.",
+   "FIELD4": "20.004598, 95.545327",
+   "FIELD5": "Taungdwingyi",
+   "FIELD6": "Taungdwingyi"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Taunggyi Branch",
+   "FIELD3": "No.(129) Bogyoke Street, Myoma Ward, Taunggyi.",
+   "FIELD4": "20.779301, 97.036766",
+   "FIELD5": " Taunggyi",
+   "FIELD6": " Taunggyi"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Taungngu Branch",
+   "FIELD3": "No-7, Konthegyi Road, (16) Block, Taungngu, Myanmar.",
+   "FIELD4": "18.939246, 96.439770",
+   "FIELD5": "Taungoo",
+   "FIELD6": "Taungoo"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thain Phyu Branch",
+   "FIELD3": "No.(470), Thain Phyu Street, Phomyay Ward, Mingalartaungnyunt, Yangon, Myanmar.",
+   "FIELD4": "16.786655, 96.167777",
+   "FIELD5": "Mingalartaungnyunt",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thandwe Branch",
+   "FIELD3": "No.(11), Bayintnaung Road, (3) Ward, Thandwe, Rakhine, Myanmar.",
+   "FIELD4": "18.465946, 94.367055",
+   "FIELD5": "Thandwe",
+   "FIELD6": "Thandwe"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thanlyin Branch",
+   "FIELD3": "No.(22), Kyaik Khauk Pagoda Road, Aung Mingalar Ward, Thanlyin, Yangon, Myanmar.",
+   "FIELD4": "16.769578, 96.251064",
+   "FIELD5": "Thanlyin",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thaton Branch ",
+   "FIELD3": "No. (69), Min Road, Nankhae Ward, Thaton, Mon Division, Myanmar. ",
+   "FIELD4": "16.920269, 97.365220",
+   "FIELD5": "Thaton",
+   "FIELD6": "Thaton"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thayarwady Branch",
+   "FIELD3": "No.(8), Yangon-Pyay Road, Kwat Thit Ward, Thayarwady, Bago, Myanmar.",
+   "FIELD4": "17.651592, 95.783338",
+   "FIELD5": "",
+   "FIELD6": ""
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thazi Branch",
+   "FIELD3": "No.(56), No(1) Thiri Mingalar Ward, Taunggyi-Meikhtila Road, Thazi, Mandalay, Myanmar.",
+   "FIELD4": "20.851183, 96.049447",
+   "FIELD5": "Thazi",
+   "FIELD6": "Thazi"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thingangyun Branch",
+   "FIELD3": "M-4, Maykha Housing, No(124), Laydaungkan Road, 29/33 (A+B), Sa/Ka Quartar, Thingangyun Township, Yangon.",
+   "FIELD4": "16.836425, 96.198480",
+   "FIELD5": "Thingangyun",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Wakema Branch",
+   "FIELD3": "No.(61/Ka), Myue Yone Street, Saryaekone Ward, Wakema, Ayeyarwady, Myanmar",
+   "FIELD4": "16.605172, 95.172343",
+   "FIELD5": "Wakema",
+   "FIELD6": "Wakema"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Win Star Hotel",
+   "FIELD3": "No.77, 41 Street, Between 83rd & 84th Street, Maharaungmyae Township, Mandalay, Myanmar.",
+   "FIELD4": "21.96003,96.07795",
+   "FIELD5": "Mahar Aung Myay",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Wish River View Restaurant",
+   "FIELD3": "Strand Road, Beside of Ayeyaroo Hall, Pyay, Bago Division, Myanmar.",
+   "FIELD4": "18.818871, 95.213462",
+   "FIELD5": "Bago",
+   "FIELD6": "Bago"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Wizaya Branch",
+   "FIELD3": "No-226, Ground Floor, Corner of Damazadi rodad and U Wizaya roda, Bahan Township, Yangon, Myanmar.",
+   "FIELD4": "16.804544, 96.142847",
+   "FIELD5": "Bahan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Woodland Myanmar",
+   "FIELD3": "No. 46, Thiri Mon Street, BayintNaung, Mayangone Tsp, Yangon.",
+   "FIELD4": "16.857724, 96.102712",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "World Food Program",
+   "FIELD3": "No.5, Kanbawza Road, ShweTaungKyar (2) Ward (Golden Valley), Bahan Township, Yangon, Myanmar.",
+   "FIELD4": "16.8175517,96.1559812",
+   "FIELD5": "Bahan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Wyne Hotel",
+   "FIELD3": "No. 34, Kyaik Waing Pagoda Road, Mayangone Township, Yangon, Myanmar.",
+   "FIELD4": "16.867378, 96.137839",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ya Mae Thin Branch",
+   "FIELD3": "No. (La / 16), Lanmadaw Street, Aung Mingalar Ward, Ya Mae Thin, Myanmar. ",
+   "FIELD4": "20.429820, 96.138755",
+   "FIELD5": "Ya Mae Thin",
+   "FIELD6": "Ya Mae Thin"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yadanar Mart",
+   "FIELD3": "Main Road, Near the Market, New Bagan, Myanmar.",
+   "FIELD4": "21.133279, 94.865353",
+   "FIELD5": "Nyaung Oo",
+   "FIELD6": "Nyaung Oo"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yadanar Theingha Hotel",
+   "FIELD3": "Yaza Thingaha Road, DhakhinaThiri Township, Hotel Zone (1), Nay Pyi Taw, Myanmar.",
+   "FIELD4": "19.708181, 96.119901",
+   "FIELD5": " DhakhinaThiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yadanarpon Dynasty Hotel (MDY)",
+   "FIELD3": "No. (B/413), 65 Street, Between 27 St & 28 St, ChanAyeTharZan Township, Mandalay, Myanmar.",
+   "FIELD4": "21.979633, 96.108000",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yangon Aerodrome Co.,Ltd.",
+   "FIELD3": "Yangon Aerodome Co.,Ltd Office Building, Mingaladon Township, Yangon, Myanmar.",
+   "FIELD4": "16.89934,96.13514",
+   "FIELD5": "Mingaladon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yangon Golf Club",
+   "FIELD3": "Yangon Golf Club, Near Danyin Gone Junction, Khayaepin Road, Yangon, Myanmar.",
+   "FIELD4": "16.932193, 96.104793",
+   "FIELD5": "Danyin Gone ",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yangon International Airport New Building Arrival",
+   "FIELD3": "Yangon International Airport New Building, Yangon.",
+   "FIELD4": "16.90232,96.13494",
+   "FIELD5": "Mingaladon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yangon International Airport New Building Departure",
+   "FIELD3": "Yangon International Airport New Building, Yangon.",
+   "FIELD4": "16.90335,96.13611",
+   "FIELD5": "Mingaladon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yangon International Hotel",
+   "FIELD3": "No. 330, Ahlone Road, Dagon Tsp, Yangon.",
+   "FIELD4": "16.792754, 96.141410",
+   "FIELD5": "Mingaladon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yankin Centre Shopping Mall",
+   "FIELD3": "Ground Floor, Corner of Saya San Road and Set Hmu 1st Street, Yankin Township. ",
+   "FIELD4": "16.823369, 96.162845",
+   "FIELD5": "Yankin",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ye Branch",
+   "FIELD3": "No.(101), Bogyoke Street, Yangyi Aung Ward, Ye, Mon State, Myanmar.",
+   "FIELD4": "15.246141, 97.854926",
+   "FIELD5": " Ye",
+   "FIELD6": " Ye"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yenangyaung Branch",
+   "FIELD3": "No.(733), Lanmadaw Street, Ywarthit Ward, Yenangyaung, Magway, Myanmar.",
+   "FIELD4": "20.458800, 94.874674",
+   "FIELD5": "Magway",
+   "FIELD6": "Magway"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yesagyo Branch",
+   "FIELD3": "No.(15), Bogyoke Street, (2) Ward, Yesagyo Township, Pakokku, Magway Division, Myanmar.",
+   "FIELD4": "21.63018,95.24414",
+   "FIELD5": " Pakokku",
+   "FIELD6": " Pakokku"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yezin Agricultural University",
+   "FIELD3": "YGN-MDY Highway Road, Ye Zin University, Zayar Thiri Township, NayPyiTaw, Myanmar.",
+   "FIELD4": "19.833641, 96.273740",
+   "FIELD5": " Zayar Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "YGN Technological University",
+   "FIELD3": "Yangon Technological University, Insein Road, Insein Tsp, Yangon.",
+   "FIELD4": "16.876008, 96.117264",
+   "FIELD5": "Insein",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "YMCA Hotel",
+   "FIELD3": "No.263, Mahabandoola Street, Botahtaung Township, Yangon.",
+   "FIELD4": "16.773375, 96.167703",
+   "FIELD5": "Botahtaung",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yuzana Garden Hotel",
+   "FIELD3": "No.44, Ah Lan Pya Pagoda Road, Mingalar Taung Nyunt Township, Yangon, Myanmar.",
+   "FIELD4": "16.784771, 96.157833",
+   "FIELD5": "Mingalar Taung Nyunt",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yuzana Hotel",
+   "FIELD3": "No.130, Shwe Gon Taing road, Bahan Township, Yangon, Myanmar. ",
+   "FIELD4": "16.804194, 96.151515",
+   "FIELD5": "Bahan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yuzana Plaza",
+   "FIELD3": "Banyar Dala Road, Mingalar Taung Nyunt Tsp, Yangon, Myanmar. ",
+   "FIELD4": "16.794021, 96.175876",
+   "FIELD5": "Mingalar Taung Nyunt",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Za Bu Kyaw Hotel",
+   "FIELD3": "No. 541/B, Extended Strand Street, Thein Kone Qtr, Mawlamyaing.",
+   "FIELD4": "16.469065, 97.621589",
+   "FIELD5": "Mawlamyaing",
+   "FIELD6": "Mawlamyaing"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Za BuThiri Hospital",
+   "FIELD3": "Pyinmana - Taung Nyo Road, Zabu Thiri Township, Nay Pyi Taw, Myanmar.",
+   "FIELD4": "19.731629, 96.159989",
+   "FIELD5": " Zabu Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Zabu Thiri Hotel (NPT)",
+   "FIELD3": "No. 8, Hotel Zone, Yarza Thingaha Road, NayPyiTaw, Myanmar.",
+   "FIELD4": "19.697740, 96.121884",
+   "FIELD5": "Zabu Thiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Zalun Pyi Daw Pyan Pagoda",
+   "FIELD3": "Zalun Pyi Daw Pyan Pagoda, Hinthada District, Ayeyawady Division, Myanmar.",
+   "FIELD4": "17.471350,95.553214",
+   "FIELD5": "Hinthada",
+   "FIELD6": "Hinthada"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "ZFREETI Hotel",
+   "FIELD3": "No. 407, Thiri Pyitsayar 5th Street, Near Shwe Zi Gone Pagoda, Nyaung U, Mandalay Region, Myanmar.",
+   "FIELD4": "21.190485, 94.899449",
+   "FIELD5": " Nyaung U",
+   "FIELD6": " Nyaung U"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Zigon (Pyay Street) Mini Branch",
+   "FIELD3": "No.(Ma/80), (3)Ward, Yangon-Pyay Road, Zigon, Bago, Myanmar.",
+   "FIELD4": "18.329678, 95.625378",
+   "FIELD5": "Bago",
+   "FIELD6": "Bago"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "ZTH Petro & Mini Mart",
+   "FIELD3": "Near Nay Pyi Taw Toll Gate, ZTH Petro & Mini Mart, Nay Pyi Taw, Myanmar.",
+   "FIELD4": "19.65897,96.057",
+   "FIELD5": "Nay Pyi Taw",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Hlaing Branch",
+   "FIELD3": "No 1 Ywama Curve, BaYintNaung Road, Hlaing Township, Yangon",
+   "FIELD4": "16.832407, 96.121282",
+   "FIELD5": "Hlaing",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Junction Mawtin (YGN)",
+   "FIELD3": "Corner of Anawyahtar and LanThit Road, LanMaDaw Township, Yangon",
+   "FIELD4": "16.777737, 96.141921",
+   "FIELD5": "Lan Ma Daw",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "City Mart (Myaynigone) (YGN)",
+   "FIELD3": "No 231-232 , Pyay Road, ShinSawPu Ward, San Chaung Township, Yangon",
+   "FIELD4": "16.801672, 96.137725",
+   "FIELD5": "San Chaung",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "City Mart (Thamine) (YGN)",
+   "FIELD3": "Corner of InnSein and KyikeWinePagoda Road, MayanGone Township, Yangon",
+   "FIELD4": "16.862141, 96.121700",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Taw Win Centre (YGN)",
+   "FIELD3": "No (45), Pyay Road, Dagon Township, Yangon",
+   "FIELD4": "16.785180, 96.142666",
+   "FIELD5": "Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Max (Office) (YGN)",
+   "FIELD3": "AlanPya Pagoda Road, Dagon Township, Yangon",
+   "FIELD4": "16.785655, 96.155930",
+   "FIELD5": "Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "City Mart-Head office (YGN)",
+   "FIELD3": "No (1-11), BarGaYar Road, San Chaung Township, Yangon",
+   "FIELD4": "16.803041, 96.135629",
+   "FIELD5": "San Chaung",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Sein Gay Har(Pyay Road-YGN)",
+   "FIELD3": "No (44), Pyay Road, Dagon Township, Yangon",
+   "FIELD4": "16.785154, 96.143176",
+   "FIELD5": "Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Yangon International Hotel",
+   "FIELD3": "No.(330), Ah Lone Street, Dagon Tsp, Yangon Division.",
+   "FIELD4": "16.792757, 96.141415",
+   "FIELD5": "Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Sein Gay Har (Hledan-YGN)",
+   "FIELD3": "No 39-41, Hledan Road, KaMarYut Township, Yangon",
+   "FIELD4": "16.826484, 96.128796",
+   "FIELD5": "Kamaryut",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Yan Kin Centre (YGN)",
+   "FIELD3": "Sayar San Road, Yankin Township, Yangon",
+   "FIELD4": "16.823419, 96.162870",
+   "FIELD5": "Yankin",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Mandalay Branch(1)",
+   "FIELD3": "No 602 ,26th Street, Between (83x84)St, ChanAyeTharZan Township, Mandalay",
+   "FIELD4": "21.983386, 96.078791",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Bo Aung Kyaw Branch",
+   "FIELD3": "No 149, BoAungKyaw Street, Between Merchant Road and Mahar Bandoola Road, KyoutTaTar Township, Yangon.",
+   "FIELD4": "16.772161, 96.161839",
+   "FIELD5": "Kyout Ta Dar",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Mandalay Branch(2) T-1",
+   "FIELD3": "No (2),Room (C/D 1-4 ) ,30th Street, Between (77x78) Street, ChanAyeTharZan Township, Mandalay.",
+   "FIELD4": "21.976928, 96.087756",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Win Ma Lar Fashion(Meik Hti Lar)",
+   "FIELD3": "West of Meikhtilar Market, Mandalay Division.",
+   "FIELD4": "20.881247, 95.858112",
+   "FIELD5": "Meikhtilar",
+   "FIELD6": "Meikhtilar"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Monywa Branch",
+   "FIELD3": "No 232/A, Bogyoke Road, Aung Mingalar Qtr, Monywa , Sagaing.",
+   "FIELD4": "22.103882, 95.138637",
+   "FIELD5": "Monwya",
+   "FIELD6": "Monwya"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Taunggyi Branch",
+   "FIELD3": "No 28, U Paing 143/B, MyoMa (2), Zay Paing Qtr, Taunggyi ,S/Shan State.",
+   "FIELD4": "20.108168, 96.784230",
+   "FIELD5": "Taunggyi",
+   "FIELD6": "Taunggyi"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Mawlamyine Branch 1",
+   "FIELD3": "No 4, KanNar Road, ShweTaung Ward, Mawlamyine, Mon state.",
+   "FIELD4": "16.487651, 97.618344",
+   "FIELD5": "Mawlamyine",
+   "FIELD6": "Mawlamyine"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA North Dagon Pinlone Branch T-1",
+   "FIELD3": "No (27-6), MayTime Ward, Dagon Myo Oo Yeik mon, ShwePinLon Housing, North Dagon Township ,Yangon.",
+   "FIELD4": "16.866440, 96.183429",
+   "FIELD5": "North Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Hinthada Branch",
+   "FIELD3": "No (7), ManBaKhing Road, North Garden Ward, Hinthada, ayawaryady Division.",
+   "FIELD4": "17.647952, 95.460247",
+   "FIELD5": "Hinthada",
+   "FIELD6": "Hinthada"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Taungoo Branch",
+   "FIELD3": "No (8-4), Steel Road, (8) Ward, Taungoo, Bago East Division.",
+   "FIELD4": "18.948580, 96.435618",
+   "FIELD5": "Taungoo",
+   "FIELD6": "Taungoo"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA lanmadaw Branch",
+   "FIELD3": "No (778), Corner of MaharBanDuLa Road and 14 Road, LanMaDaw Township, Yangon.",
+   "FIELD4": "16.774924, 96.145631",
+   "FIELD5": "Lan Ma Daw",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Mingalar Taung Nyut Branch T-1",
+   "FIELD3": "No (53), YayTwinKone , 118 St, MingalarTaungNyunt Township, Yangon.",
+   "FIELD4": "16.792014, 96.174162",
+   "FIELD5": "Mingalartaungnyunt",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Myingyan Branch",
+   "FIELD3": "No (108), Corner of Bogyoke Road and 9th Road , 5th Ward, Myingyan, Mandalay.",
+   "FIELD4": "21.462112, 95.388112",
+   "FIELD5": "Myingyan",
+   "FIELD6": "Myingyan"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Lashio Branch",
+   "FIELD3": "No (36), SarYayKone Ward, No(2) Quarter, Lashio, N/Shan State.",
+   "FIELD4": "22.937995, 97.746444",
+   "FIELD5": "Lashio",
+   "FIELD6": "Lashio"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Aung Pann Branch",
+   "FIELD3": "No (73/135) , PinTaYa Road ,No(3) Ward, Aung Pann, S/Shan State.",
+   "FIELD4": "20.659227, 96.633067",
+   "FIELD5": "Aung Pan",
+   "FIELD6": "Aung Pan"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Bago Branch(1)",
+   "FIELD3": "No (529), MinLan Road, LatePyarKan Ward, Bago.",
+   "FIELD4": "17.334930, 96.483598",
+   "FIELD5": "Bago",
+   "FIELD6": "Bagp"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Bago Shopping Mall",
+   "FIELD3": "No (330),Shwemawdaw Pagoda Road,Bago.",
+   "FIELD4": "17.335653, 96.484016",
+   "FIELD5": "Bago",
+   "FIELD6": "Bago"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Dawei Branch",
+   "FIELD3": "No (45), 103/104, No (439), ArZarNi Road, MyoMa (1), Dawei ,Tanintharyi Division.",
+   "FIELD4": "14.072589, 98.187810",
+   "FIELD5": "Dawei",
+   "FIELD6": "Dawei"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Witoriya Hospital (YGN)",
+   "FIELD3": "No (68), Tawwin Road ,9 Miles, MaYanGone Township, Yangon",
+   "FIELD4": "16.877700, 96.129914",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Ye Ta Gon Tower (YGN)",
+   "FIELD3": "Corner of Lower KyiMyintTaing and Hone Road, Yangon",
+   "FIELD4": "16.797565, 96.125780",
+   "FIELD5": "Yangon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "City Mart Phauk Kan(Insein)",
+   "FIELD3": "No(62), Lower Mingalardon Road, Phauk Kan Insein Tsp, Yangon Division.",
+   "FIELD4": "16.907737, 96.096989",
+   "FIELD5": "Insein",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Pyay Branch",
+   "FIELD3": "No (153), LanMaTaw Road, KyoungKyi O Tan Ward, Pyay, Bago West Division",
+   "FIELD4": "18.827798, 95.217787",
+   "FIELD5": "Bago",
+   "FIELD6": "Bago"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Pakokku Branch",
+   "FIELD3": "No (78), Corner of MyoMa and ZayYarThiri Road, (8) Ward, Pakokku, Magway Division",
+   "FIELD4": "21.333285, 95.083135",
+   "FIELD5": "Pakokku",
+   "FIELD6": "Pakokku"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Hotel Max T-2 (NPT)",
+   "FIELD3": "No (10),Hotel Zone,Naypyitaw.",
+   "FIELD4": "19.701690,96.125528",
+   "FIELD5": "Oattarthiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Junction Square Naypyitaw",
+   "FIELD3": "YarZarHtarNi Main Road, Hotel Zone,Naypyitaw.",
+   "FIELD4": "19.714040, 96.110955",
+   "FIELD5": "Oattarthiri",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Family Store",
+   "FIELD3": "Thamine Junction, Insein Road, (12) Ward, Hlaing tsp, Yangon.",
+   "FIELD4": "16.862206,96.121600",
+   "FIELD5": "Hlaing",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Gamonepwint (Gabaraye - YGN)",
+   "FIELD3": "No (4), Gabaraye Pagoda Road, Mayangone Township ,Yangon",
+   "FIELD4": "16.856345, 96.157574",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Warr Tann Branch T-1",
+   "FIELD3": "No (51), Corner of Wardan and Bogyoke Road, 8th Ward, Lanmadaw Tsp, Yangon",
+   "FIELD4": "16.775033, 96.155716",
+   "FIELD5": "Lamadaw",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Magway Branch",
+   "FIELD3": "No (161-162), PyiTawThar Road, Yan Way Qtr, Magway Division",
+   "FIELD4": "20.152743, 94.944382",
+   "FIELD5": "Magway",
+   "FIELD6": "Magway"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Pyin Oo Lwin Branch",
+   "FIELD3": "No(158), B-5, Mandalay-Lashio Main Road, 4th Ward, Pyin Oo Lwin, Mandalay",
+   "FIELD4": "22.025655, 96.462398",
+   "FIELD5": "Pyin Oo Lwin",
+   "FIELD6": "Pyin Oo Lwin"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Thahton Branch",
+   "FIELD3": "No (170), Min Road, NanKhae Ward, Thaton, Mon State",
+   "FIELD4": "16.919848 ,97.365507",
+   "FIELD5": "Thaton",
+   "FIELD6": "Thaton"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Paryami Branch",
+   "FIELD3": "No (105-D), Paramin Lan Thit Lan Ma, (10) Ward,(7) mile, Mayangone Township, Yangon",
+   "FIELD4": "16.850394, 96.154668",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Mandalay Branch(4)",
+   "FIELD3": "UPaing 20-Sa-Ta, No (147), 19th Street, Between (80x81)St,PaLaeNgweYoung Ward, AungMayTharZan Township, Mandalay",
+   "FIELD4": "21.993123, 96.084678",
+   "FIELD5": "Aung Maye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Pathein Branch",
+   "FIELD3": "No (4), Corner of MyayNu and HnatPyawPin Road ,4th Ward, Pathein, Ayawaryady Division",
+   "FIELD4": "16.784838, 94.737912",
+   "FIELD5": "Pathein",
+   "FIELD6": "Pathein"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Ma U Pin Branch",
+   "FIELD3": "No(92), U Paing No(2) - (5/E), 4th Ward, Kyaung St, Maubin",
+   "FIELD4": "16.731824, 95.653078",
+   "FIELD5": "Maubin",
+   "FIELD6": "Maubin"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA PyinMaNa Branch",
+   "FIELD3": "No (19), TatKone Ward, YanAung (2) Qtr, PyinMaNa, Mandalay",
+   "FIELD4": "19.758518, 96.231278",
+   "FIELD5": "Pyin Oo Lwin",
+   "FIELD6": "Pyin Oo Lwin"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA MyaungMya Branch",
+   "FIELD3": "No (11), 5th Road, 2 Ward, MyaungMya , Ayawaryady Division",
+   "FIELD4": "16.605239, 94.928915",
+   "FIELD5": "Myaung Mya",
+   "FIELD6": "Myaung Mya"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Sein Gay Har (Parami) (YGN)",
+   "FIELD3": "No (16), Parami Road ,Hlaing Township, Yangon",
+   "FIELD4": "16.857209, 96.121742",
+   "FIELD5": "Hlaing",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA N/Oakkalarpa Branch",
+   "FIELD3": "No (320), ThuDaMar Road, D Ward, NorthOkkaLaPa Township, Yangon",
+   "FIELD4": "16.896090, 96.158571",
+   "FIELD5": "North Okkalapa",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Mandalay Branch(5)",
+   "FIELD3": "No (801), 26th Street, Between (64x65) St, PyiKyiMyatShin Ward, Mandalay",
+   "FIELD4": "21.981672, 96.109578",
+   "FIELD5": "Pyi Kyi Myat Shin",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Gandamar Whole Sale (YGN)",
+   "FIELD3": "Corner of WaiZaYanNar and Gandamar Road, Mayangone Township, Yangon",
+   "FIELD4": "16.862455, 96.160033",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Thuwana Branch",
+   "FIELD3": "No (12), ThanThuMar Road,ThanThuMar Housing, Thuwana, ThinGangkunn Township, Yangon",
+   "FIELD4": "16.817617, 96.197363",
+   "FIELD5": "Thingangkunn",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Aung Lan Branch",
+   "FIELD3": "No (4),(B/364), Pyay Road, Tayawkon Qtr, Aung Lan, Magway Division",
+   "FIELD4": "19.367248, 95.214454",
+   "FIELD5": "Magway",
+   "FIELD6": "Magway"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Diamond Plaza Branch",
+   "FIELD3": "No(635), Tower (A), Ground Floor, 78 St, Between (33x34) St, Diamond Plaza, Chan Aye Thar Zan Tsp, Mandalay",
+   "FIELD4": "21.971387, 96.087345",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Mahlizet Resturant",
+   "FIELD3": "No(84), Pan Hlaing Street, Sanchaung Tsp, Yangon Division.",
+   "FIELD4": "16.797632, 96.130066",
+   "FIELD5": "San Chaung",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Shewgonedine Branch",
+   "FIELD3": "No (159-A),Shwegondine Road, Bahan Township , Yangon",
+   "FIELD4": "16.804821, 96.153177",
+   "FIELD5": "Bahan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Dagon Centre (2)",
+   "FIELD3": "Dagon Center 2 ,Pyay Road, Yangon",
+   "FIELD4": "16.804454, 96.137666",
+   "FIELD5": "Dagon",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "MICT Park (YGN)",
+   "FIELD3": "Building (18), Ground Floor, Room No (205,206,207,208), MICT Park,Hlaing Tsp,Yangon.",
+   "FIELD4": "16.849641, 96.129217",
+   "FIELD5": "Hlaing",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Mandalay Branch(6)",
+   "FIELD3": "No (211), Block 746, 80th Street, Between (30x31) St, ChanAyeTharZan Township, Mandalay",
+   "FIELD4": "21.975954, 96.084240",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "AYA Mandalay Branch(7)",
+   "FIELD3": "No (37), 30th Street, Between (71x72)St, YanMyoLon Ward, ChanAyeTharZan Township, Mandalay",
+   "FIELD4": "21.976115, 96.097292",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Tongapuri Hotel (NPT)",
+   "FIELD3": "No (9/10),Yarzatheingee Road,Dakkhinathiyi Hotel Zone,Zaputhiyi Tsp,Naypyitaw.",
+   "FIELD4": "19.696555, 96.123408",
+   "FIELD5": "Zaputhiyi",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Corporation Guest-House (NPT)",
+   "FIELD3": "Dakkhinathiyi Street,Dakkhinathiyi Tsp,Naypyitaw.",
+   "FIELD4": "19.680702, 96.113410",
+   "FIELD5": "Dakkhinathiyi",
+   "FIELD6": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "MANDALAY 1 BRANCH",
+   "FIELD3": "230, 80TH ST, BETWEEN 26 & 27 ST., NEAR ZAY CHO, CHAN AYE THAR ZAN TSP,",
+   "FIELD4": "21.941631, 96.092415",
+   "FIELD5": "CHAN AYE THAR ZAN",
+   "FIELD6": "MANDALAY"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "MANDALAY 2 BRANCH ZAYCHO",
+   "FIELD3": "84TH ST., BETWEEN 26 & 27 ST., CHAN AYE THAR ZAN TSP,",
+   "FIELD4": "21.943401, 96.092178",
+   "FIELD5": "CHAN AYE THAR ZAN ",
+   "FIELD6": "MANDALAY"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "MANDALAY 3 BRANCH",
+   "FIELD3": "131/A, CORNER OF 78 & 34 ST., SHWE CHI (EAST) WARD, CHAN AYE THAR ZAN TSP,",
+   "FIELD4": "21.981335, 96.106654",
+   "FIELD5": "CHAN AYE THAR ZAN ",
+   "FIELD6": "MANDALAY"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "MANDALAY 4 BRANCH KHINSAWMU",
+   "FIELD3": "23 YANGON- MANDALAY ST., KHIN SAW MU CORNER, CHAN MYAE THAR SI, MAHARAUNGMYAY WARD,",
+   "FIELD4": "21.988961, 96.071976",
+   "FIELD5": "MAHARAUNGMYAY ",
+   "FIELD6": "MANDALAY"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "MANDALAY 5 BRANCH MINGALARZAY",
+   "FIELD3": "746, 30TH ST., BETWEEN 71 & 72 ST., CHAN AYE THAR ZAN TSP,",
+   "FIELD4": "21.985142, 96.077994",
+   "FIELD5": " CHAN AYE THAR ZAN ",
+   "FIELD6": "MANDALAY"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "MANDALAY 6 BRANCH PYIGYTAGON",
+   "FIELD3": "SA-80, CORNER OF 10TH & YGN_MDY RD., KYWESAEKAN, PYIGYITAGONE TSP,",
+   "FIELD4": "21.890188, 96.109669",
+   "FIELD5": "PYIGYITAGONE",
+   "FIELD6": "MANDALAY"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "MANDALAY 9 BRANCH",
+   "FIELD3": "NO. 799, 26TH ST, BETWEEN (62*63), PYAY GYI MYAT SHIN WARD, CHAN AYE THAR ZAN TSP, MANDALAY.",
+   "FIELD4": "21.951968, 96.104240",
+   "FIELD5": "CHAN AYE THAR ZAN ",
+   "FIELD6": "MANDALAY"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "MANDALAY 12 BRANCH MANAWHARI",
+   "FIELD3": "NO. GAGYI-2/71, 62 ST, BETWEEN MANAWHARI ST AND SEIN PAN ST, CHAN MYA THAR ZI TSP, MANDALAY.",
+   "FIELD4": "21.931616, 96.112892",
+   "FIELD5": " CHAN MYA THAR ZI ",
+   "FIELD6": "MANDALAY"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "DIAMOND PLAZA",
+   "FIELD3": "78TH ST., BETWEEN 33 & 34 ST., NEAR MANDALAY BRANCH 3, DIAMOND PLAZA, CHAN AYE THAR ZAN TSP,",
+   "FIELD4": "21.941635, 96.092413",
+   "FIELD5": " CHAN AYE THAR ZAN ",
+   "FIELD6": "MANDALAY"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "MAUBIN BRANCH",
+   "FIELD3": "MAUPIN BRANCH, NO. (3C), CONRNER OF MIN LAN & (5) ST, (5-G) MIDDLE, (5) QTR, MAUPIN TSP, AYARWADDY DIVISION.",
+   "FIELD4": "16.733047, 95.652530",
+   "FIELD5": "MAUBIN",
+   "FIELD6": "MAUPIN"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "MYINCHAN BRANCH",
+   "FIELD3": "MYIN CHAN BRANCH, NO. (23), 12 STREET, (8)QTR, MYINGYAN. MANDALAY DIVISION.",
+   "FIELD4": "16.820394, 96.159450",
+   "FIELD5": "MYINGAN",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "MDY BRANCH 38",
+   "FIELD3": "MANDALAY BRANCH-38 , CORNER 81 & 33 ST , CHANAYETHARZAN TSP, MANDALAY",
+   "FIELD4": "21.941053, 96.092555",
+   "FIELD5": "CHANAYETHARZAN",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "MDY BRANCH 36 IBD (2U)",
+   "FIELD3": "MDY BRANCH 36 IBD , 73ST ,CORNER OF THAZIN ST AND NGUWAH ST , MYOTTHIT(1)QT , CHANMYATHARZI TSP , MDY",
+   "FIELD4": "21.941053, 96.092555",
+   "FIELD5": "CHANMYATHARZI",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "MDY BRANCH 41 MANNMYOZAY",
+   "FIELD3": "MANDALAY BRANCH -41 (MAN MYOT ZAY), 84ST , CORNER 38 , MAN MYOT ZAY NEAR , MAHARAUNG MYAY TSP",
+   "FIELD4": "21.981821, 96.105492",
+   "FIELD5": "CHANMYATHARZI",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "HOTEL EMPEROR",
+   "FIELD3": "HOTEL EMPEROR, BETWEEN 26 / 27 STREET, (74) STREET, CHAN AYE THAR ZAN TOWNSHIP, MANDALAY.",
+   "FIELD4": "21.982181, 96.093894",
+   "FIELD5": " CHAN AYE THAR ZAN",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "THE REGENCY HOTEL",
+   "FIELD3": "THE REGENCY HOTEL, BESIDE OF NYAUNG OO-KYAUK PADAUNG ROAD,NEAR BAGAN SHWE PYI HIGHWAY BUS, NYAUNG OO TSP, MANDALAY DIVISION.",
+   "FIELD4": "21.157679, 94.930555",
+   "FIELD5": "NYAUNGDO",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "SHARKY'S FOOD & PASSION",
+   "FIELD3": "SHARKY'S FOOD & PASSION, NO(5) AWARD,SIBINTHARYAR QUARTER,NEAR SHWEZIGONE BAGODA,NYAUNG OO TSP, MANDALAY DIVISION.",
+   "FIELD4": "16.772316, 96.161256",
+   "FIELD5": "NYAUNGDO",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "BBQ GARDEN RESTAURENT",
+   "FIELD3": "BBQ GARDEN RESTAURENT, NO(1) THIRIMINGALAR QUARTER, NYAUNG OOTSP, MANDALAY DIVISION.",
+   "FIELD4": "16.793672,96.170369",
+   "FIELD5": "NYAUNGDO",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "GOLDEN CUCKOO LACQUERWARE SHOP",
+   "FIELD3": "GOLDEN CUCKOO LACQUERWARE SHOP, MYINGABAR SEINGONE QUARTER,OLD BAGAN-NEW BAGAN ROAD,NYAUNG OO TSP, MANDALAY DIVISION.",
+   "FIELD4": "21.154030,94.859849",
+   "FIELD5": "NYAUNGDO",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "BANNER HYPERMARKET",
+   "FIELD3": "BANNER HYPERMARKET, SAGAING- MONYWAR- SHWE BO- MANDALAY HEIGHT WAY ROAD, SEGAING QTR, SAGAING TSP, MANDALAY.",
+   "FIELD4": "21.882856,95.981678",
+   "FIELD5": "SAGAING",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "THE HOTEL UMBRA BAGAN",
+   "FIELD3": "THE HOTEL UMBRA BAGAN,NO(7), WUKKYEEINN QUARTER, NYAUNG OO, BAGAN TSP, MANDALAY DIVISION.",
+   "FIELD4": "21.882872, 95.981634",
+   "FIELD5": "NYAUNGU",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "MDY-18",
+   "FIELD3": "MANDALAY BRANCH (18), NO. (7), 62TH STREET, BETWEEN (37THX38TH) STREET, MAHARMYINE(2) QUARTER, MAHARAUNGMYAY TOWNSHIP, MANDALAY",
+   "FIELD4": "21.966885,96.086654",
+   "FIELD5": "MAHARAUNGMYAY",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "COMPUTER UNIVERSITY (DAT HAT TAW)",
+   "FIELD3": "COMPUTER UNIVERSITY (DATHATTAW), DAT HET TAW VILLAGE , PATHEIN GYI TSP, MANDALAY.",
+   "FIELD4": "22.121927, 96.185037",
+   "FIELD5": "DAT HET TAW",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "GREAT WALL MALL",
+   "FIELD3": "GREAT WALL SHOPPING MALL, 32ND STREET & 33RD STREET, BETWEEN 77TH & 78TH STREET, CHAN AYE THAR ZAN TOWNSHIP, MANDALAY, MYANMAR.",
+   "FIELD4": "47.438693,122.220667",
+   "FIELD5": " CHAN AYE THAR ZAN",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Sule Branch ATM",
+   "FIELD3": "No. (73/75), Sule Pagoda Road, Pabaedan Township, Yangon",
+   "FIELD4": "16.773469, 96.158391",
+   "FIELD5": "Pabaedan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Mandalay",
+   "FIELD3": "No. (73/75), Sule Pagoda Road, Pabaedan Township, Yangon",
+   "FIELD4": "16.805212, 96.137004",
+   "FIELD5": " Pabaedan",
+   "FIELD6": "Yangon"
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Mandalay Branch (2) ATM",
+   "FIELD3": "No.(323), Corner of 35th St & 83rd Street, Maharaungmyay Township, Mandalay.",
+   "FIELD4": "21.979944, 96.084442",
+   "FIELD5": "Maharaungmyay",
+   "FIELD6": " Mandalay"
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Mandalay Branch (3) ATM",
+   "FIELD3": "No.(Nga-6/31),62 Street, Between of Manawhari & Khine Shwe War Street,ChanMyaTharSi Township, Mandalay,",
+   "FIELD4": "21.979943, 96.084436",
+   "FIELD5": "ChanMyaTharSi ",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Golden City Crown Hotel ATM",
+   "FIELD3": "No (1-F), 30th Street, Bet. 70th & 71st Street, ChanAyeTharZan Township, Mandalay",
+   "FIELD4": "21.976073, 96.099587",
+   "FIELD5": "ChanAyeTharZan",
+   "FIELD6": " Mandalay"
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Mandalay Airport ATM",
+   "FIELD3": "Arriaval Area, Mandalay International Airport, Tada-U Township, Mandalay.",
+   "FIELD4": "21.705592, 95.970854",
+   "FIELD5": " Tada-U",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Sein Sein Hotel ATM",
+   "FIELD3": "No. (444), 82 Street, Bet. 32nd & 33rd Street, ChanAyeTharZan Township, Mandalay.",
+   "FIELD4": "21.973609, 96.082043",
+   "FIELD5": "ChanAyeTharZan ",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "City Hospital ATM",
+   "FIELD3": "Theik Pan Street, Bet. 65th & 66th Street, MaharAungMyay Township, Mandalay",
+   "FIELD4": "21.951907, 96.106113",
+   "FIELD5": "MaharAungMyay",
+   "FIELD6": " Mandalay"
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "OCEAN (Mingalar Mandalay) ATM",
+   "FIELD3": "Corner of 73th Street & Mingalar Street, Chan Aye Thar Zan Township, Mandalay.",
+   "FIELD4": "21.945795, 96.093026",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "City Mart (Mandalay) ATM",
+   "FIELD3": "(19) Street, between 65th & 66th, Aung Myae Thar Zan Township, Mandalay.",
+   "FIELD4": "21.941588, 96.093230",
+   "FIELD5": "Aung Myae Thar Zan ",
+   "FIELD6": "Mandalay"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "COMPUTER UNIVERSITY (DAT HAT TAW)",
+   "FIELD3": "COMPUTER UNIVERSITY (DATHATTAW), DAT HET TAW VILLAGE , PATHEIN GYI TSP, MANDALAY.",
+   "FIELD4": "22.121547, 96.185367",
+   "FIELD5": "DAT HET TAW",
+   "FIELD6": "Mandalay"
+ }
+,
+  {
+    "FIELD1": "AYA",
+    "FIELD2": "Yangon computer university",
+    "FIELD3": "Yangon Computer University,Hlaw Gar Main Road,Nearly Myanmar Paung Chane Factory,Shwe Pyi Thar Township,Yangon.",
+    "FIELD4": "17.001701, 96.092402",
+    "FIELD5": "Shwe Pyi Thar",
+    "FIELD6": "Yangon"
+  }
+
+,
+  {
+    "FIELD1": "KBZ",
+    "FIELD2": "Yangon computer university",
+    "FIELD3": "Yangon Computer University,Hlaw Gar Main Road,Nearly Myanmar Paung Chane Factory,Shwe Pyi Thar Township,Yangon.",
+    "FIELD4": "17.001662, 96.092559",
+    "FIELD5": "Shwe Pyi Thar",
+    "FIELD6": "Yangon"
+  }
+]

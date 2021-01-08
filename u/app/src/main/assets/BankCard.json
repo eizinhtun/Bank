@@ -1,0 +1,83 @@
+[
+	{
+		"Bank": "KBZ",
+		"Card": "Explore Debit Card",
+		"Description": "<ul><li>Anyone over the age of 18 can apply for the Explore Debit card.<li>Annual interest rate of 8.25%.<li>Protected from card fraud and data leaks by using EMV Smart Chip technology<li>Registration Fee: &nbsp <b>3,000 MMK</b><li>Annual Fee: &nbsp <b>3,000 MMK</b></ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Card": "Pre-paid Card",
+		"Description": "<ul><li>KBZ EXPLORE Prepaid Card is available in both VISA & MasterCard.<li>This prepaid card is accepted worldwide, including online merchants and ATMs.<li>Initial Deposit: &nbsp <b>50 USD</b></ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Card": "Teens Card",
+		"Description": "<ul><li>Teens Card is perfect for teens under 18 years of age, and particularly students.<li>Interest: &nbsp <b> 8.25% per year</b><li>Registration Fee: &nbsp <b>3,000 MMK</b></ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Card": "International Card Acceptance",
+		"Description": "<ul><li>VISA <li>Mastercard <li>China Union Pay (UPI) <li>JCB <li>Transaction Charge: &nbsp <b> 5,000 MMK</b></ul>"
+	},
+	{
+		"Bank": "AYA",
+		"Card": "Debit Card",
+		"Description": "<ul><li>24/7 access to cash<li>Time saving<li>Reduce cash handling<li>Easy payment method<li>Convenient<li>Secured</ul>"
+	},
+	{
+		"Bank": "AYA",
+		"Card": "Credit Card",
+		"Description": "<b>No initial deposit required to get the cards</b><ul><li><b>Platinum</b><ul><li>Minimum monthly income of Ks. 2,000,000<li>Credit Limit up to 3.5 times of your monthly income<li>Premium deals and offers<li>Annual Card Fees: &nbsp Ks. 30,000</ul><li><b>Gold</b><ul><li>Minimum monthly income of Ks. 500,000<li>Credit Limit up to 3.5 times of your monthly income<li>Annual Card Fees: &nbsp Ks. 60,000</ul><li><b>Silver</b><ul><li>Minimum monthly income of Ks. 150,000<li>Credit Limit up to 3.5 times of your monthly income<li>Annual Card Fees: &nbsp Ks. 100,000</ul>"
+	},
+  {
+    "Bank": "AYA",
+    "Card": "AYA MasterCard (Prepaid Card)",
+    "Description": "<ul><li><b>AYA MASTERCARD (PREPAID CARD) can be loaded with money by you or someone else</b><ul><li><b>Platinum</b><li>You can use your prepaid card wherever MasterCard or Maestro cards are accepted. <li> Card Fees (one time): &nbsp  10,000 MMK</ul>"
+  },
+  {
+    "Bank": "AYA",
+    "Card": "AYA World Travel Card (VISA Prepaid)",
+    "Description": "<b>One Card. Three Currencies</b><ul><li>AYA Bank Visa Prepaid Card is a world travel card that allows cardholders to pay for purchases online and in stores overseas where Visa prepaid card is accepted</ul>"
+  },
+  {
+    "Bank": "AGD",
+    "Card": "Standard MPU Debit card",
+    "Description": "<ul><li>Interest earned: &nbsp <b>8.60%</b><li>Application fees: &nbsp <b>Free</b><li>Minimum Balance: &nbsp <b>1,000 kyats</b><li>Maximum Balance: &nbsp <b>Unlimited</b></ul>"
+  },
+  {
+    "Bank": "AGD",
+    "Card": "Designer MPU Debit card / Benefits card",
+    "Description": "<b>Eligible to have benefits and discounts at participating outlets</b><ul><li>Interest earned: &nbsp <b>8.60%</b><li>Application fees: &nbsp <b>3,000 kyats</b><li>Minimum Balance: &nbsp <b>1,000 kyats</b><li>Maximum Balance: &nbsp <b>Unlimited</b><li>Must choose a card design.</ul>"
+  },
+  {
+    "Bank": "AGD",
+    "Card": "MPU-UnionPay Co-brand Debit Card",
+    "Description": "<b>The card is 2-in-1 solution as it can be used as MPU debit card inside the country and as UnionPay International debit card in overseas.</b><p>As it is a debit card, the deposit amount is not restricted like the prepaid cards currently used in the market.</p><ul><li>Usage: &nbsp <b>domestic (MPU) and international (UnionPay)</b><li>Interest earned: &nbsp <b> 8.60%</b><li>Application Fees: &nbsp <b> Free</b><li>Minimum Balance: &nbsp <b>1,000 kyats</b><li>Maximum Balance: &nbsp <b>Unlimited</b><li>International discounts; benefits: &nbsp <b> Foreign hotels, Restaurants, Bars and Other Shopping Places</b></ul>"
+  },
+	{
+		"Bank": "CB",
+		"Card": "EASI SMART MPU Card",
+		"Description": "<b> The CB Bank EASI SMART MPU Card can be used on the balance in that card account</b><ul><li>The initial deposit: &nbsp <b>1,000 MMK (MPU)</b><li>The annual fee : &nbsp <b> 3,000 MMK</b></ul>"
+	},
+	{
+		"Bank": "CB",
+		"Card": "Easi Travel MasterCard",
+		"Description": "<ul><li>Easy to get.<li>No need to open bank account<li>Best security.<li>International Payment can be made<li>Withdraw cash more than 42 million ATMs in (210) countries.<li>Can fill up in time when you need</ul>"
+	},
+	{
+		"Bank": "CB",
+		"Card": "CB Co-Branded Debit Card (MPU-JCB)",
+		"Description": "<b>CB CO-BRANDED DEBIT CARD (MPU-JCB)works just like the JCB Card, which means you can spend up the value anywhere JCB card are accepted.</b><p>CB CO-BRANDED DEBIT CARD (MPU-JCB) be linked to Saving Account / E-saving Account which interest rate is 8.25% respectively.</p><ul><li>The initial deposit: &nbsp <b>MMK 1,000.</b></ul>"
+	},
+	{
+		"Bank": "CB",
+		"Card": "CB Co-Branded Credit Card (MPU-UPI)",
+		"Description": "<b>Be at least 21 years of age .</b><ul><li><b>Classic Card</b><ul><li>Card Issuing Fee: &nbsp  MMK 10,000 <li>Card Annual Fee:: &nbsp  MMK 30,000</ul><li><b>Gold Card</b><ul><li>Card Issuing Fee: &nbsp Ks. 15,000 <li>Card Annual Fee: &nbsp Ks. 60,000</ul><li><b>Platinum Card  </b><ul><ul><li>Card Issuing Fee: &nbsp Ks. 50,000 <li>Card Annual Fee: &nbsp Ks. 120,000</ul></ul>"
+	},
+	{
+		"Bank": "YOMA",
+		"Card": "Smart",
+		"Description": "<b>SMART comes with a FREE MPU Debit Card and a pre-configured Wave Money Account giving you automatic access to all the features of Wave Money including over 10,000 Wave Shops throughout the country.</b><ul><li>Free SMART To SMART transaction Fees <li>Free MPU Debit Card <li>Access to Over 12,000 Wave Shops <li>Access to Any ATMs with 0 MMK Transaction Fees <li>Mobile Top-up with 4% Discount* <li>No Account Maintainance Fee </ul>"
+	}
+
+]

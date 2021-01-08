@@ -1,0 +1,814 @@
+﻿[
+ {
+   "FIELD1": "1",
+   "FIELD2": "Yangon"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "Mandalay"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": " Aung Lan"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "Aungban"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "Bago"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "Bhamo"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "Bilin"
+ },
+ {
+   "FIELD1": "8",
+   "FIELD2": "Bogale"
+ },
+ {
+   "FIELD1": "9",
+   "FIELD2": " Bokpyin"
+ },
+ {
+   "FIELD1": "10",
+   "FIELD2": "Chauk"
+ },
+ {
+   "FIELD1": "11",
+   "FIELD2": "Danubyu"
+ },
+ {
+   "FIELD1": "12",
+   "FIELD2": "Dawei"
+ },
+ {
+   "FIELD1": "13",
+   "FIELD2": " Einme"
+ },
+ {
+   "FIELD1": "14",
+   "FIELD2": "Gangaw"
+ },
+ {
+   "FIELD1": "15",
+   "FIELD2": " Gyobingauk"
+ },
+ {
+   "FIELD1": "16",
+   "FIELD2": " Hakha"
+ },
+ {
+   "FIELD1": "17",
+   "FIELD2": "Hinthada"
+ },
+ {
+   "FIELD1": "18",
+   "FIELD2": "Hseni"
+ },
+ {
+   "FIELD1": "19",
+   "FIELD2": "Hsipaw"
+ },
+ {
+   "FIELD1": "20",
+   "FIELD2": "Nay Pyi Taw"
+ },
+ {
+   "FIELD1": "21",
+   "FIELD2": "Kalaw"
+ },
+ {
+   "FIELD1": "22",
+   "FIELD2": " Kalay"
+ },
+ {
+   "FIELD1": "23",
+   "FIELD2": "Katha"
+ },
+ {
+   "FIELD1": "24",
+   "FIELD2": "Kawthoung"
+ },
+ {
+   "FIELD1": "25",
+   "FIELD2": " Kyaiklat"
+ },
+ {
+   "FIELD1": "26",
+   "FIELD2": "Kyaikto"
+ },
+ {
+   "FIELD1": "27",
+   "FIELD2": "Kyaing Tong"
+ },
+ {
+   "FIELD1": "28",
+   "FIELD2": "Kyangin"
+ },
+ {
+   "FIELD1": "29",
+   "FIELD2": "Kyaukpadaung"
+ },
+ {
+   "FIELD1": "30",
+   "FIELD2": "Kyaukpyu"
+ },
+ {
+   "FIELD1": "31",
+   "FIELD2": "Kyaukse"
+ },
+ {
+   "FIELD1": "32",
+   "FIELD2": "Kyonpyaw"
+ },
+ {
+   "FIELD1": "33",
+   "FIELD2": " Labutta"
+ },
+ {
+   "FIELD1": "34",
+   "FIELD2": "Lashio"
+ },
+ {
+   "FIELD1": "35",
+   "FIELD2": "Sintku "
+ },
+ {
+   "FIELD1": "36",
+   "FIELD2": " Loikaw"
+ },
+ {
+   "FIELD1": "37",
+   "FIELD2": "Magway"
+ },
+ {
+   "FIELD1": "38",
+   "FIELD2": "Maubin"
+ },
+ {
+   "FIELD1": "39",
+   "FIELD2": "Mawlamying"
+ },
+ {
+   "FIELD1": "40",
+   "FIELD2": "Meikhtila"
+ },
+ {
+   "FIELD1": "41",
+   "FIELD2": "Minbu"
+ },
+ {
+   "FIELD1": "42",
+   "FIELD2": "Mo Gaung"
+ },
+ {
+   "FIELD1": "43",
+   "FIELD2": "Mogoke"
+ },
+ {
+   "FIELD1": "44",
+   "FIELD2": "Monywa"
+ },
+ {
+   "FIELD1": "45",
+   "FIELD2": "Mudon"
+ },
+ {
+   "FIELD1": "46",
+   "FIELD2": " Muse"
+ },
+ {
+   "FIELD1": "47",
+   "FIELD2": "Myaing"
+ },
+ {
+   "FIELD1": "48",
+   "FIELD2": "Myanaung"
+ },
+ {
+   "FIELD1": "49",
+   "FIELD2": "Myaungmya"
+ },
+ {
+   "FIELD1": "50",
+   "FIELD2": "Myawaddy"
+ },
+ {
+   "FIELD1": "51",
+   "FIELD2": "Myeik"
+ },
+ {
+   "FIELD1": "52",
+   "FIELD2": "Myingyan"
+ },
+ {
+   "FIELD1": "53",
+   "FIELD2": "Myinmu"
+ },
+ {
+   "FIELD1": "54",
+   "FIELD2": "Myit Thar"
+ },
+ {
+   "FIELD1": "55",
+   "FIELD2": "Naung Cho"
+ },
+ {
+   "FIELD1": "56",
+   "FIELD2": "Thandwe"
+ },
+ {
+   "FIELD1": "57",
+   "FIELD2": "Nyaunglaybin"
+ },
+ {
+   "FIELD1": "58",
+   "FIELD2": " Nyaungdon"
+ },
+ {
+   "FIELD1": "59",
+   "FIELD2": "Nyaung Shwe"
+ },
+ {
+   "FIELD1": "60",
+   "FIELD2": "Nyaung U"
+ },
+ {
+   "FIELD1": "61",
+   "FIELD2": "Pakokku"
+ },
+ {
+   "FIELD1": "62",
+   "FIELD2": "Palauk"
+ },
+ {
+   "FIELD1": "63",
+   "FIELD2": "Palaw"
+ },
+ {
+   "FIELD1": "64",
+   "FIELD2": " Pathein"
+ },
+ {
+   "FIELD1": "65",
+   "FIELD2": " Paung"
+ },
+ {
+   "FIELD1": "66",
+   "FIELD2": "Hpan An"
+ },
+ {
+   "FIELD1": "67",
+   "FIELD2": "Phyar Pon"
+ },
+ {
+   "FIELD1": "68",
+   "FIELD2": "Phyu"
+ },
+ {
+   "FIELD1": "69",
+   "FIELD2": "Pyawbwe"
+ },
+ {
+   "FIELD1": "70",
+   "FIELD2": "Pyay"
+ },
+ {
+   "FIELD1": "71",
+   "FIELD2": "Pyin Oo Lwin"
+ },
+ {
+   "FIELD1": "72",
+   "FIELD2": "Pyinmana "
+ },
+ {
+   "FIELD1": "73",
+   "FIELD2": "Sagaing"
+ },
+ {
+   "FIELD1": "74",
+   "FIELD2": "Shwe Bo"
+ },
+ {
+   "FIELD1": "75",
+   "FIELD2": "Singu"
+ },
+ {
+   "FIELD1": "76",
+   "FIELD2": "Sintkaing"
+ },
+ {
+   "FIELD1": "77",
+   "FIELD2": "Sittwe"
+ },
+ {
+   "FIELD1": "78",
+   "FIELD2": "Tacheliek"
+ },
+ {
+   "FIELD1": "79",
+   "FIELD2": " Tada U"
+ },
+ {
+   "FIELD1": "80",
+   "FIELD2": "Taikkyi"
+ },
+ {
+   "FIELD1": "81",
+   "FIELD2": "Tatkon"
+ },
+ {
+   "FIELD1": "82",
+   "FIELD2": "Taungdwingyi"
+ },
+ {
+   "FIELD1": "83",
+   "FIELD2": " Taunggyi"
+ },
+ {
+   "FIELD1": "84",
+   "FIELD2": "Taungoo"
+ },
+ {
+   "FIELD1": "85",
+   "FIELD2": "Thayarwady"
+ },
+ {
+   "FIELD1": "86",
+   "FIELD2": "Thayetchaung"
+ },
+ {
+   "FIELD1": "87",
+   "FIELD2": "Thazi"
+ },
+ {
+   "FIELD1": "88",
+   "FIELD2": "Wakema"
+ },
+ {
+   "FIELD1": "89",
+   "FIELD2": "Ya Mae Thin"
+ },
+ {
+   "FIELD1": "90",
+   "FIELD2": "Ye"
+ },
+ {
+   "FIELD1": "91",
+   "FIELD2": "Yenangyaung"
+ },
+ {
+   "FIELD1": "92",
+   "FIELD2": "Yesagyo"
+ },
+ {
+   "FIELD1": "93",
+   "FIELD2": "Zigon"
+ },
+ {
+   "FIELD1": "94",
+   "FIELD2": "Bagan"
+ },
+ {
+   "FIELD1": "95",
+   "FIELD2": " Thandwe"
+ },
+ {
+   "FIELD1": "96",
+   "FIELD2": " Bhamo"
+ },
+ {
+   "FIELD1": "97",
+   "FIELD2": " Bilin"
+ },
+ {
+   "FIELD1": "98",
+   "FIELD2": "Bogalay"
+ },
+ {
+   "FIELD1": "99",
+   "FIELD2": "Bokpyin"
+ },
+ {
+   "FIELD1": "100",
+   "FIELD2": " Pyin Oo Lwin"
+ },
+ {
+   "FIELD1": "101",
+   "FIELD2": " Chauk"
+ },
+ {
+   "FIELD1": "102",
+   "FIELD2": "Mawlamyaing"
+ },
+ {
+   "FIELD1": "103",
+   "FIELD2": " Nyaung Tone"
+ },
+ {
+   "FIELD1": "104",
+   "FIELD2": " Pyay"
+ },
+ {
+   "FIELD1": "105",
+   "FIELD2": " Nyaung Oo "
+ },
+ {
+   "FIELD1": "106",
+   "FIELD2": "Einme"
+ },
+ {
+   "FIELD1": "107",
+   "FIELD2": "Myanmaay"
+ },
+ {
+   "FIELD1": "108",
+   "FIELD2": " Gangaw"
+ },
+ {
+   "FIELD1": "109",
+   "FIELD2": " Myeik"
+ },
+ {
+   "FIELD1": "110",
+   "FIELD2": " Kawthoung"
+ },
+ {
+   "FIELD1": "111",
+   "FIELD2": " Nyaung Oo"
+ },
+ {
+   "FIELD1": "112",
+   "FIELD2": " Myawaddy"
+ },
+ {
+   "FIELD1": "113",
+   "FIELD2": "Heho"
+ },
+ {
+   "FIELD1": "114",
+   "FIELD2": " Hinthada"
+ },
+ {
+   "FIELD1": "115",
+   "FIELD2": " Nyaung Shwe"
+ },
+ {
+   "FIELD1": "116",
+   "FIELD2": "Bangan"
+ },
+ {
+   "FIELD1": "117",
+   "FIELD2": " Hsipaw"
+ },
+ {
+   "FIELD1": "118",
+   "FIELD2": " Magway"
+ },
+ {
+   "FIELD1": "119",
+   "FIELD2": " Bago"
+ },
+ {
+   "FIELD1": "120",
+   "FIELD2": "Nyaung Tone"
+ },
+ {
+   "FIELD1": "121",
+   "FIELD2": "Nyaung Oo"
+ },
+ {
+   "FIELD1": "122",
+   "FIELD2": "Khaung Daing Shwe"
+ },
+ {
+   "FIELD1": "123",
+   "FIELD2": " Kyaikhto "
+ },
+ {
+   "FIELD1": "124",
+   "FIELD2": " Kyaukpadaung"
+ },
+ {
+   "FIELD1": "125",
+   "FIELD2": "Labutta"
+ },
+ {
+   "FIELD1": "126",
+   "FIELD2": "Twante"
+ },
+ {
+   "FIELD1": "127",
+   "FIELD2": " Lashio"
+ },
+ {
+   "FIELD1": "128",
+   "FIELD2": "Sintku"
+ },
+ {
+   "FIELD1": "129",
+   "FIELD2": "Lewe"
+ },
+ {
+   "FIELD1": "130",
+   "FIELD2": "Loikaw"
+ },
+ {
+   "FIELD1": "131",
+   "FIELD2": "Shwe Nyaung"
+ },
+ {
+   "FIELD1": "132",
+   "FIELD2": "Tada U"
+ },
+ {
+   "FIELD1": "133",
+   "FIELD2": "Myan Aung"
+ },
+ {
+   "FIELD1": "134",
+   "FIELD2": " Mawlamyine"
+ },
+ {
+   "FIELD1": "135",
+   "FIELD2": " Myaungmya"
+ },
+ {
+   "FIELD1": "136",
+   "FIELD2": " Myingyan"
+ },
+ {
+   "FIELD1": "137",
+   "FIELD2": " Myit Thar "
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": " Nyaung U"
+ },
+ {
+   "FIELD1": "139",
+   "FIELD2": "Insein"
+ },
+ {
+   "FIELD1": "140",
+   "FIELD2": " Naung Cho"
+ },
+ {
+   "FIELD1": "141",
+   "FIELD2": " Mawlamyaing"
+ },
+ {
+   "FIELD1": "142",
+   "FIELD2": "Yegyi"
+ },
+ {
+   "FIELD1": "143",
+   "FIELD2": "Aung Lan"
+ },
+ {
+   "FIELD1": "144",
+   "FIELD2": "Nyaungdon"
+ },
+ {
+   "FIELD1": "145",
+   "FIELD2": "Mawlamyine"
+ },
+ {
+   "FIELD1": "146",
+   "FIELD2": " Kyaukpyu"
+ },
+ {
+   "FIELD1": "147",
+   "FIELD2": " Palauk"
+ },
+ {
+   "FIELD1": "148",
+   "FIELD2": " Phyar Pon"
+ },
+ {
+   "FIELD1": "149",
+   "FIELD2": " Phyu"
+ },
+ {
+   "FIELD1": "150",
+   "FIELD2": "Thaton"
+ },
+ {
+   "FIELD1": "152",
+   "FIELD2": " Ye"
+ },
+ {
+   "FIELD1": "153",
+   "FIELD2": " Pakokku"
+ },
+ {
+   "FIELD1": "154",
+   "FIELD2": "Aung Pan"
+ },
+ {
+   "FIELD1": "155",
+   "FIELD2": "Naypitaw"
+ },
+ {
+   "FIELD1": "156",
+   "FIELD2": "Thibaw"
+ },
+ {
+   "FIELD1": "157",
+   "FIELD2": "Thahtone"
+ },
+ {
+   "FIELD1": "158",
+   "FIELD2": "Tachileik"
+ },
+ {
+   "FIELD1": "159",
+   "FIELD2": "PyinOoLwin"
+ },
+ {
+   "FIELD1": "160",
+   "FIELD2": "Taunggyi"
+ },
+ {
+   "FIELD1": "161",
+   "FIELD2": "Pathein"
+ },
+ {
+   "FIELD1": "162",
+   "FIELD2": "Pantanaw"
+ },
+ {
+   "FIELD1": "163",
+   "FIELD2": "Nyaung Lay Pin"
+ },
+ {
+   "FIELD1": "164",
+   "FIELD2": "Naung Oo"
+ },
+ {
+   "FIELD1": "165",
+   "FIELD2": "Meikhtilar"
+ },
+ {
+   "FIELD1": "166",
+   "FIELD2": "Monwya"
+ },
+ {
+   "FIELD1": "167",
+   "FIELD2": "Bagp"
+ },
+ {
+   "FIELD1": "168",
+   "FIELD2": "Myaung Mya"
+ },
+ {
+   "FIELD1": "169",
+   "FIELD2": " Yangon"
+ },
+ {
+   "FIELD1": "170",
+   "FIELD2": "Yangon "
+ },
+ {
+   "FIELD1": "171",
+   "FIELD2": " Mandalay"
+ },
+ {
+   "FIELD1": "172",
+   "FIELD2": " Ayarwaddy "
+ },
+ {
+   "FIELD1": "173",
+   "FIELD2": " Ayeyarwaddy"
+ },
+ {
+   "FIELD1": "174",
+   "FIELD2": " Bago Region"
+ },
+ {
+   "FIELD1": "175",
+   "FIELD2": " Magwe"
+ },
+ {
+   "FIELD1": "176",
+   "FIELD2": " Magwe Division"
+ },
+ {
+   "FIELD1": "177",
+   "FIELD2": " Myitkyina Township"
+ },
+ {
+   "FIELD1": "178",
+   "FIELD2": " Rakhine State."
+ },
+ {
+   "FIELD1": "179",
+   "FIELD2": " Sagaing"
+ },
+ {
+   "FIELD1": "180",
+   "FIELD2": " Sagaing Region."
+ },
+ {
+   "FIELD1": "181",
+   "FIELD2": " Shan"
+ },
+ {
+   "FIELD1": "182",
+   "FIELD2": " Shan State"
+ },
+ {
+   "FIELD1": "183",
+   "FIELD2": " Tanintharyi Region"
+ },
+ {
+   "FIELD1": "184",
+   "FIELD2": " Yangon "
+ },
+ {
+   "FIELD1": "185",
+   "FIELD2": " Yangon Region"
+ },
+ {
+   "FIELD1": "186",
+   "FIELD2": "Ayarwaddy"
+ },
+ {
+   "FIELD1": "187",
+   "FIELD2": "Ayarwaddy Region."
+ },
+ {
+   "FIELD1": "188",
+   "FIELD2": "Ayeyarwadday Region"
+ },
+ {
+   "FIELD1": "189",
+   "FIELD2": "Ayeyarwaddy"
+ },
+ {
+   "FIELD1": "190",
+   "FIELD2": "Ayeyarwaddy "
+ },
+ {
+   "FIELD1": "191",
+   "FIELD2": "Ayeyarwady"
+ },
+ {
+   "FIELD1": "192",
+   "FIELD2": "Bogo Region"
+ },
+ {
+   "FIELD1": "193",
+   "FIELD2": "Chin"
+ },
+ {
+   "FIELD1": "194",
+   "FIELD2": "Kachin"
+ },
+ {
+   "FIELD1": "195",
+   "FIELD2": "Kachin State"
+ },
+ {
+   "FIELD1": "196",
+   "FIELD2": "Kayah"
+ },
+ {
+   "FIELD1": "197",
+   "FIELD2": "Kayah State"
+ },
+ {
+   "FIELD1": "198",
+   "FIELD2": "Kayin"
+ },
+ {
+   "FIELD1": "199",
+   "FIELD2": "Kayin State"
+ },
+ {
+   "FIELD1": "200",
+   "FIELD2": "Kyimyindine"
+ },
+ {
+   "FIELD1": "201",
+   "FIELD2": "Magway Region."
+ },
+ {
+   "FIELD1": "202",
+   "FIELD2": "Magwe"
+ },
+ {
+   "FIELD1": "203",
+   "FIELD2": "Kin Pon"
+ },
+ {
+   "FIELD1": "204",
+   "FIELD2": "NayPyiDaw"
+ }
+]

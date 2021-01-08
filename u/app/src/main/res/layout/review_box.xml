@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llreviewbox"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_marginBottom="@dimen/button_margin"
+    android:gravity="bottom"
+    android:orientation="horizontal"
+    android:weightSum="2">
+
+    <EditText
+        android:id="@+id/etNewComment"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/card_margin"
+        android:layout_marginStart="@dimen/card_margin"
+        android:layout_weight="1.7"
+        android:background="@drawable/sendbutton"
+        android:focusableInTouchMode="true"
+        android:hint="Leave your review!!"
+        android:padding="@dimen/button_margin" />
+
+    <ImageButton
+        android:id="@+id/btnSubmit"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/card_margin"
+        android:layout_marginLeft="@dimen/card_margin"
+        android:layout_marginRight="@dimen/card_margin"
+        android:layout_marginStart="@dimen/card_margin"
+        android:layout_weight="0.3"
+        android:background="@drawable/sendbutton"
+        android:src="@drawable/sendmessage" />
+
+</LinearLayout>

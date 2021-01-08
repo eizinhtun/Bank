@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="card_text_padding">5dp</dimen>
+    <dimen name="card_text_margin">8dp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="button_margin">8dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="card_interval_margin">50dp</dimen>
+    <dimen name="topMargin">8dp</dimen>
+    <dimen name="card_text_size">14sp</dimen>
+    <dimen name="text_size">17sp</dimen>
+    <dimen name="spinner_size">40dp</dimen>
+</resources>

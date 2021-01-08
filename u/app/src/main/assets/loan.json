@@ -1,0 +1,13 @@
+[
+	{
+		"Bank": "KBZ",
+		"Name": "Hire Purchase",
+		"Description": "<h7>Pay for goods in installations over a period of time with a required down payment of 30-50 percent.</h7> <h6>Products/Items eligible for Hire Purchase</h6><ul><li> Condominiums<li> Computers and electronics<li> Cell phones and other communication devices<li> Automobiles and motorbikes<li> Heavy machinery<li> Agricultural tractor and machinery<li> Gold and jewelry<li> Furniture<li>  Medical equipment</ul>Down Payment &nbsp  &nbsp    <b>   80-50% of product's total cost</b><br/>Service Charges &nbsp  &nbsp  <b>   1% of product’s total cost</b><br/>Rental Fees    &nbsp  &nbsp    <b>    9%(Year 1) 5%(Year 2) 5%(Year 3)</br>&nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp  5%(Year 4) 5%(Year 5)</b>"
+
+	},
+	{
+	"Bank": "KBZ",
+	"Name": "Overdraft",
+	"Description": "<h6>Applying for a loan</h6>A typical term of loan and overdraft is one (1) year<br>It is thereafter renewable on a yearly basis.Cards at our ATMs.<br><h6>Interest</h6>13% annual<br><h6>Interest</h6>Loan interest is paid on the total amount approved and overdraft interest is paid on the amount used.<br><h6>Payment period</h6>1 Year<br>In order to increase the payment period, you will need to reapply for the loan"
+	}
+]

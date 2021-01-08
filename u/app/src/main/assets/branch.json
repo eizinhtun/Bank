@@ -1,0 +1,2820 @@
+﻿[
+
+ {
+   "FIELD1": "YOMA",
+   "FIELD2": "Head Office",
+   "FIELD3": "No.192, Level 8, Office Tower 2,\nHAGL Myanmar Center Tower, Kabar Aye Pagoda Road,\nBahan Township, Yangon, Myanmar\n\n",
+   "FIELD4": "16.826548, 96.154906",
+   "FIELD5": "Bahan",
+   "FIELD6": "Yangon",
+   "FIELD7": "Tel: +95 1 9345 255, 9345 266,01 934 5255"
+ },
+ {
+   "FIELD1": "YOMA",
+   "FIELD2": "Strand Branch",
+   "FIELD3": "No.11/17, Bogalay Zay Rd\nBotahtaung Township\nYangon\n",
+   "FIELD4": "16.771365, 96.172499",
+   "FIELD5": "Botahtaung",
+   "FIELD6": "Yangon",
+   "FIELD7": "Tel: +95 1 373367, 373368, 373370"
+ },
+ {
+   "FIELD1": "YOMA",
+   "FIELD2": "Yangon Main Branch",
+   "FIELD3": "No.1, Kunchan St\nMingalartaungnyunt Township\nYangon",
+   "FIELD4": "16.781854, 96.159877",
+   "FIELD5": "Mingalartaungnyunt",
+   "FIELD6": "Yangon",
+   "FIELD7": "Tel: +95 1 242138, 246547"
+ },
+ {
+   "FIELD1": "YOMA",
+   "FIELD2": "Ahlone Branch",
+   "FIELD3": "Building No. 388-398, Room No. A1-A5, Ground Floor, Mingalar Sinminn Housing, Strand Rd, Ahlone Township, Yangon",
+   "FIELD4": "16.789362, 96.124050",
+   "FIELD5": "Ahlone",
+   "FIELD6": "Yangon",
+   "FIELD7": "Tel: +95 1 212436, 212435"
+ },
+ {
+   "FIELD1": "YOMA",
+   "FIELD2": "Bayintnaung Branch",
+   "FIELD3": "No. Nya 51, Yuzana St, Bayintnaung Pwe Yone Tan,Mayangone Township, Yangon",
+   "FIELD4": "16.863390, 96.106357",
+   "FIELD5": "Mayangone ",
+   "FIELD6": "Yangon",
+   "FIELD7": "Tel: +95 1 681018, 681011"
+ },
+ {
+   "FIELD1": "YOMA",
+   "FIELD2": "Botahtaung Branch",
+   "FIELD3": "No. 148/150/152, Botahtaung Pagoda Rd,Botahtaung Township, Yangon",
+   "FIELD4": "16.771375, 96.172531",
+   "FIELD5": "Botahtaung ",
+   "FIELD6": "Yangon",
+   "FIELD7": "Tel: +95 1 201072, 290251, 290216"
+ },
+ {
+   "FIELD1": "YOMA",
+   "FIELD2": "FMI Center Branch",
+   "FIELD3": "No. 397, Room (K/B)Upper Shwebonthar St Pabaedan Township, Yangon",
+   "FIELD4": "16.778727, 96.155966",
+   "FIELD5": "Pabaedan",
+   "FIELD6": "Yangon",
+   "FIELD7": "Tel: +95 1 252849, 243023"
+ },
+ {
+   "FIELD1": "YOMA",
+   "FIELD2": "Hlaing Tharyar Branch",
+   "FIELD3": "No. B1, FMI City, Hlaing Tharyar Township, Yangon",
+   "FIELD4": "16.856583, 96.085594",
+   "FIELD5": "Hlaing Tharyar",
+   "FIELD6": "Yangon",
+   "FIELD7": "\nTel: +95 1 680800, 681400"
+ },
+ {
+   "FIELD1": "YOMA",
+   "FIELD2": "Insein Branch",
+   "FIELD3": "No. 38 Lanthit St, Nantthargone Ward, Insein Township, Yangon",
+   "FIELD4": "16.890213, 96.110972",
+   "FIELD5": "Insein",
+   "FIELD6": "Yangon",
+   "FIELD7": "Tel: +95 1 640041, 640042"
+ },
+ {
+   "FIELD1": "YOMA",
+   "FIELD2": "Kamayut Branch",
+   "FIELD3": "No. (F/S -12), Ground Floor, Shwe Sabae Yeikmon Housing, 4th Ward, Bayintnaung Road, Kamayut Township, Yangon.",
+   "FIELD4": "16.891576, 96.121657",
+   "FIELD5": "Kamayut",
+   "FIELD6": "Yangon",
+   "FIELD7": "Tel: + 95 1 527366"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "(33) Street Branch",
+   "FIELD3": "No.(275), 33 Street, Between 84 x 85 Street, Chan Aye Thar Zan, Mandalay, Myanmar.",
+   "FIELD4": "21.972671, 96.076489",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 22 176, 64872, 71530, 65476"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "(Homl Street) Kyeemyindaing Branch",
+   "FIELD3": "No.(501/A), Lower Kyeemyindaing, Kayin National Ward, Kyeemyindaing, Yangon, Myanmar.",
+   "FIELD4": "16.796641, 96.126422",
+   "FIELD5": "Kyeemyindaing",
+   "FIELD6": "Yangon",
+   "FIELD7": "(01) 508 170,508171, 508 172, 508 173"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "16 Kwae Branch (South Okkalapa)",
+   "FIELD3": "No.(322/A), Yadanar Street, (11) Block, South Okkalapa, Yangon, Myanmar.",
+   "FIELD4": "16.834805, 96.180127",
+   "FIELD5": " South Okkalapa",
+   "FIELD6": "Yangon",
+   "FIELD7": "(01) 569 743, 562 672"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "23rd Street Branch",
+   "FIELD3": "No(334/336), Corner of Strand Road and 23rd Street, Latha Township, Yangon. Myanmar.",
+   "FIELD4": "16.772185, 96.152232",
+   "FIELD5": "Latha",
+   "FIELD6": "Yangon",
+   "FIELD7": " (95-1) 372 646, 372 655, 371 848,371 851, 377 027, 389 594 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "6 Kwae Branch (North Okkalapa)",
+   "FIELD3": "No.(223/B), Thudhamma Road, Nya Ward, North Okkalapa, Yangon, Myanmar.",
+   "FIELD4": "16.898256, 96.161279",
+   "FIELD5": "North Okkalapa",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 9 690 466,691 868, 691 769 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ahlone Branch (Sin Min Market)",
+   "FIELD3": "Building (SA-10), Aung Zaya Housing, Kanner Road, Thitaw Ward, Ahlone, Yangon, Myanmar.",
+   "FIELD4": "16.788424, 96.124030",
+   "FIELD5": "Ahlone",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 210 853, 214 725, 214 661, 226 443, 214 132 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Aung Lan Branch ",
+   "FIELD3": "No. (165), Pyay Road, Hta Yaw Kone Quarter, Aung Lan, Magway Division, Myanmar",
+   "FIELD4": "19.368459, 95.214233",
+   "FIELD5": " Aung Lan",
+   "FIELD6": " Aung Lan",
+   "FIELD7": " 069 - 201 512, 201 513,201 517, 201 518, 201 519 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Aung Mingalar Mini Branch ",
+   "FIELD3": "No.(789), Aung Mingalar Highway Complex, Thudamar Street, Mingalardon Township, Yangon, Myanmar. ",
+   "FIELD4": "16.933475, 96.159834",
+   "FIELD5": "Mingalardon",
+   "FIELD6": "Yangon",
+   "FIELD7": " 09 - 316 751 72,01 - 637 415 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Aungban (2) Branch",
+   "FIELD3": "No. (4/480), Pyitaungsu Street, (4) Block, Aungban,Shan State, Myanmar. ",
+   "FIELD4": "20.658036, 96.632159",
+   "FIELD5": "Kalaw",
+   "FIELD6": "Aungban",
+   "FIELD7": " 081 - 612 75, 612 77,612 73, 612 74 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Aungban Branch",
+   "FIELD3": "No. 108, Station Road, Nyaungpinthaung Ward, Aungban, Myanmar.",
+   "FIELD4": "20.653644, 96.630003",
+   "FIELD5": "Kalaw",
+   "FIELD6": "Aungban",
+   "FIELD7": " (95-81) 60 107, 60 485,60 484, 60 584 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "\nBago Branch ",
+   "FIELD3": "No-9, Min Road, North Zainganaing Qtr, Bago, Myanmar.",
+   "FIELD4": "17.334400, 96.480900",
+   "FIELD5": "Bago",
+   "FIELD6": "Bago",
+   "FIELD7": "(95-52) 22 373, 22 374, 22 375, 22 386, 22 372 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bayint Naung Branch (Thiri Mon Plaza)",
+   "FIELD3": "No. 30, Corner of Thiri Mon Road and Thiri Mon Plaza (7) Street, Thiri Mon Housing, Mayangone Township, Yangon, Myanmar.",
+   "FIELD4": "16.858522, 96.105181",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon",
+   "FIELD7": "01-680994, 680595, 681654, 682263, 682549,(95)01 682294, 680727, 682526"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bayintnaung Branch ",
+   "FIELD3": "No. Nya(83), Corner of Bayintnaung Road and Kankaw Street, Ward(1), Mayangone Township, Yangon, Myan",
+   "FIELD4": "16.864424, 96.106491",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon",
+   "FIELD7": " (95-1) 698 063, 681 522,\n(95-1) 681 588, 681 989 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bayintnaung Branch (Kyansitthar Street)",
+   "FIELD3": "No.(120), Corner of Kyansitthar Street and (13th) Street, 1 Ward, Mayangone Township, Yangon, Myanmar.",
+   "FIELD4": "16.860303, 96.109053",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon",
+   "FIELD7": "01-692651, 692652, 667843, 667846, 667850, 667856,652651, 652652, 667852, 667856"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bhamo Branch ",
+   "FIELD3": "No.(ThaSa/34), Bogyoke Street, Tharsi Ward, Bhamo, Kachin, Myanmar.",
+   "FIELD4": "24.257776, 97.227500",
+   "FIELD5": "Bhamo",
+   "FIELD6": "Bhamo",
+   "FIELD7": " (074) 51 319, 51 320,\n(074) 50 883, 50 893 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bilin Branch",
+   "FIELD3": "No.(111), Kyuntaw Street, Mahar Bandula Ward, Bilin, Mon, Myanmar.",
+   "FIELD4": "17.213780, 97.230808",
+   "FIELD5": "Bilin",
+   "FIELD6": "Bilin",
+   "FIELD7": " (057) 64 257,\n(057) 64 308, 64 439 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bogale Branch ",
+   "FIELD3": "No.(62), Botayza Street, (3) Ward, Bogale, Ayeyarwady Division, Myanmar",
+   "FIELD4": "16.293034,95.395490",
+   "FIELD5": "Bogale",
+   "FIELD6": "Bogale",
+   "FIELD7": " (045) 45 106, 45 420,\n(045) 45 200, 45 711 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bokpyin Branch",
+   "FIELD3": "No.(15), Tapinshwehti Street, Myoma Ward, Bokpyin Township, Tanintharyi Division, Myanmar.",
+   "FIELD4": "11.26558,98.76109",
+   "FIELD5": " Bokpyin",
+   "FIELD6": " Bokpyin",
+   "FIELD7": " 059 - 50050, 50051, 50054,\n059 - 50052, 50053 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Botahtaung Branch (Bogalay Zay)",
+   "FIELD3": "No.(459), Ground Floor, Merchant Road, Botahtaung, Yangon, Myanmar.",
+   "FIELD4": "16.771508, 96.165384",
+   "FIELD5": "Botahtaung",
+   "FIELD6": "Yangon",
+   "FIELD7": "(01) 370 371,370 233, 370 231, 370 229"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Botahtaung Pagoda Street Branch",
+   "FIELD3": "No.(191), Botahtaung Pagoda Street(Middle block), Pazundaung, Yangon, Myanmar.",
+   "FIELD4": "16.774891, 96.172561",
+   "FIELD5": "Pazundaung",
+   "FIELD6": "Yangon",
+   "FIELD7": "(01) 901 0516, 901 0517,901 0518, 901 0519"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Chauk Branch",
+   "FIELD3": "No. 93, Corner of Mahabandoola St and Myay Sar Yin St, Chauk Township, Magway Division",
+   "FIELD4": "20.894852,94.818832",
+   "FIELD5": "Chauk",
+   "FIELD6": "Chauk",
+   "FIELD7": " (061) 200343, 200345, 201001-05,\n(061) 201003-05 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Dagon(Shwedagon Pagoda Road) Branch",
+   "FIELD3": "No. 294, Rm(1), Shwedagon Pagoda Road, Dagon Township, Yangon",
+   "FIELD4": "16.78204,96.15352",
+   "FIELD5": "Dagon",
+   "FIELD6": "Yangon",
+   "FIELD7": " 01-371706/711, 01-384582,\n(95)01 371707/08/09 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Danubyu Branch",
+   "FIELD3": "No.(58), Maharzawta Street, (7)Ward, Danubyu, Myanmar. ",
+   "FIELD4": "17.258227, 95.592212",
+   "FIELD5": "Danubyu",
+   "FIELD6": "Danubyu",
+   "FIELD7": " (046) 25 072, 25 160,\n(046) 25 161, 25 237, 25 099, 25 295 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Dawbon Branch",
+   "FIELD3": "No.(47), Min Nandar Road, Nwe Aye Ward, Dawbon, Yangon, Myanmar.",
+   "FIELD4": "16.792674,96.193227",
+   "FIELD5": "Dawbon",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 9 190 561, 9 190 562,\n(01) 9 190 557, 9 190 558, 9 190 559 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Dawbon Branch (2)",
+   "FIELD3": "No.(242), Yamonnar Road, Zayarthiri Ward, Dawbon, Yangon, Myanmar.",
+   "FIELD4": "16.779624,96.191303",
+   "FIELD5": "Dawbon",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 9 190 595, 9 190 596,\n(01) 9 190 592, 9 190 593, 9 190 594 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Dawei Branch",
+   "FIELD3": "No. (54), Rzarni Road, Kanyone Ward, Dawei, Myanmar. ",
+   "FIELD4": "14.072989, 98.196018",
+   "FIELD5": "Dawei",
+   "FIELD6": "Dawei",
+   "FIELD7": " (059) 238 86 , 238 87,\n(059) 238 83 , 238 84 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Einme Branch",
+   "FIELD3": "No.(173/174-A), Anawyahtar Street, Einme, Ayeyarwaddy, Myanmar.",
+   "FIELD4": "16.898602, 95.178830",
+   "FIELD5": " Einme",
+   "FIELD6": " Einme",
+   "FIELD7": " (042) 85 760, 85 764,\n(042) 85 761, 85 762, 85 763 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Gangaw Branch",
+   "FIELD3": " No.(181), Toechae (1), East Gangaw, Municiple Ward, Gangaw, Magway Division, Myanmar.",
+   "FIELD4": "22.16972,94.12807",
+   "FIELD5": "Gangaw",
+   "FIELD6": "Gangaw",
+   "FIELD7": " 062 - 50 737, 50 739, 50 742, 50 743\n    062 - 50 738, 50 741, 50 740"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Gyobingauk Branch",
+   "FIELD3": "No.(301/A), Yangon-Pyay road, Satinegyone Ward, Gyobingauk, Bago, Myanmar.",
+   "FIELD4": "18.231609, 95.647406",
+   "FIELD5": " Gyobingauk",
+   "FIELD6": " Gyobingauk",
+   "FIELD7": " (053) 50 520,\n(053) 50 950, 50 555 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hakha Branch",
+   "FIELD3": "No.(22), Bogyoke Street, Pyaytawthar Ward, Hakha, Chin, Myanmar.",
+   "FIELD4": "22.643610, 93.611473",
+   "FIELD5": " Hakha",
+   "FIELD6": " Hakha",
+   "FIELD7": " (070) 22 522, 22 523,\n(070) 21 608, 21 619, 21 009 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hinthada Branch",
+   "FIELD3": "No. 1, Lamadaw Road, North Garden Ward, Hinthada, Myanmar. ",
+   "FIELD4": "17.648457, 95.458038",
+   "FIELD5": "Hinthada",
+   "FIELD6": "Hinthada",
+   "FIELD7": " (95-44) 21974, 21975, 22664,\n(95-44) 22662, 22663 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hlaingtharyar Branch (Nawaday Housing)",
+   "FIELD3": "No.(8/B), Right Side, (97) Street, (6) Ward, Hlaingtharyar Township, Yangon, Myanmar.",
+   "FIELD4": "16.86297,96.06515",
+   "FIELD5": "Hlaingtharyar ",
+   "FIELD6": "Yangon",
+   "FIELD7": " 01 - 685006,\n01 - 685023, 685006 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hlegu Branch",
+   "FIELD3": "No.(I/C), Corner of Myoma Baho Street and West Minn Street, Zaygyi Ward, Hlegu, Yangon, Myanmar.",
+   "FIELD4": "17.09414,96.21769",
+   "FIELD5": "Hlegu",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 629 990, 629 991,\n(01) 629 992, 629 993, 629 994 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hmawbi Branch",
+   "FIELD3": "No.(870), Pyay Street, (2) Ward, Hmawbi, Yangon, Myanmar.",
+   "FIELD4": "17.098,96.03809",
+   "FIELD5": "Hmawbi",
+   "FIELD6": "Yangon",
+   "FIELD7": " 01 - 62 0269,\n01 - 62 0276, 62 0294, 62 1075 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hseni Branch",
+   "FIELD3": "No. (1/216), Bogyoke Street, (1) Ward, Hseni Township, Northern Shan State.",
+   "FIELD4": "23.2987,97.9583",
+   "FIELD5": "Hseni",
+   "FIELD6": "Hseni",
+   "FIELD7": " 082 63168/ 63454/ 63455/ 63477/ 63292/ 63298,\n(082) 63455/ 63477/ 63454 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hsipaw Branch",
+   "FIELD3": "No.(13), Upaing No.(215/Ka), Lashio Road, Pantane North Ward, Hsipaw, Shan, Myanmar.",
+   "FIELD4": "22.615515,97.303922",
+   "FIELD5": "Hsipaw",
+   "FIELD6": "Hsipaw",
+   "FIELD7": " (082) 807 26, 807 27,\n(082) 807 28, 807 29, 807 30 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Junction Centre Branch (Nay Pyi Taw)",
+   "FIELD3": "Room No.(108), Level(1), Junction Centre (Nay Pyi Taw), Yarzathingaha Road, Yanaungpyay Ward, Dakhinathiri Township, Nay Pyi Taw, Myanmar.",
+   "FIELD4": "19.71366221,96.11088493",
+   "FIELD5": "Dakhinathiri",
+   "FIELD6": "Nay Pyi Taw",
+   "FIELD7": " (067) 422 652, 422 653,\n(067) 422 648, 422 649, 422 650 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kalaw Branch",
+   "FIELD3": "No.(4/7), (4)Ward, Pyay Htaung Su Road, Kalaw, Shan State (South), Myanmar",
+   "FIELD4": "20.636115, 96.567766",
+   "FIELD5": "Kalaw",
+   "FIELD6": "Kalaw",
+   "FIELD7": " (081) 50 782,\n(081) 50 405, 50 586, 50 631 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kalay Branch",
+   "FIELD3": "No. (30), District (5), Bogyoke street, Pinlon Ward, Kalay, Myanmar.",
+   "FIELD4": "23.191493, 94.047619",
+   "FIELD5": " Kalay",
+   "FIELD6": " Kalay",
+   "FIELD7": "073 - 227 98, 227 99, 228 00,227 93, 227 94, 227 95  "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kamaryut (Shwe Pone Nyat) Branch",
+   "FIELD3": "No.(21), Shwe Pone Nyat Housing, Bayintnaung Road, Kamaryut Township, Yangon, Myanamr.",
+   "FIELD4": "16.829589, 96.122176",
+   "FIELD5": "Kamaryut ",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 531 493,531 496, 531 494, 531 495 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kamaryut Branch",
+   "FIELD3": "No. (158), Insein Road, (2) Block, Kamaryut Township, Yangon, Myanmar.",
+   "FIELD4": "16.834924, 96.128526",
+   "FIELD5": "Kamaryut ",
+   "FIELD6": "Yangon",
+   "FIELD7": " 01 - 230 57 20,\n01 - 230 71 16, 230 57 17 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kamaryut Branch (Hledan Centre)",
+   "FIELD3": "Room No. (02/03/04), Hledan Centre First Floor, Kamayut Township, Yangon, Myanmar.",
+   "FIELD4": "16.826146,96.130270",
+   "FIELD5": "Kamaryut ",
+   "FIELD6": "Yangon",
+   "FIELD7": " 01- 230 4410, 230 4411, 230 4412,\n01- 230 4415, 230 4416 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Katha Branch",
+   "FIELD3": "No.(13), Aung Thapyay Street, (3) Ward, Katha, Sagaing, Myanmar.",
+   "FIELD4": "24.172029, 96.343155",
+   "FIELD5": "Katha",
+   "FIELD6": "Katha",
+   "FIELD7": " (075) 259 88, 259 95, 259 96,\n(075) 259 89, 259 92, 259 93 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kawhmu Branch",
+   "FIELD3": "No.(23), Bogyoke Road, Myoma Ward, Kawhmu, Myanmar.",
+   "FIELD4": "16.54620,96.062217",
+   "FIELD5": "Kawhmu",
+   "FIELD6": "Yangon",
+   "FIELD7": "01-264087, 264236,264239, 264240, 264246"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kawthoung Branch",
+   "FIELD3": "No.(20), Bogyoke Street, Padauk Shwewah Ward, Kawthoung, Tanintharyi, Myanmar.",
+   "FIELD4": "9.980306, 98.548224",
+   "FIELD5": "Kawthoung",
+   "FIELD6": "Kawthoung",
+   "FIELD7": " (059) 51 276,\n(059) 51 040, 51 654, 51 921 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Khaymar Thi Branch",
+   "FIELD3": "No.(283/A+B), Khaymar Thi Road, Gakyi Ward, North Okkalapa, Yangon, Myanmar.",
+   "FIELD4": "16.898747, 96.154896",
+   "FIELD5": " North Okkalapa",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 9 699 411,\n(01) 9 690 596, 692 093, 691 288 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kungyangon Branch",
+   "FIELD3": "No.(412), Bogyoke Street, Kangyimakyee Ward, Kungyangon, Yangon, Myanmar",
+   "FIELD4": "16.442297, 96.014010",
+   "FIELD5": " Kungyangon",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 265456,\n(01) 265673, 265678 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaiklat Branch",
+   "FIELD3": "No.(10), Between 2/3, U Sandar Street, No(2) Ward, Kyaiklat, Ayeyarwady, Myanmar.",
+   "FIELD4": "16.445717, 95.728118",
+   "FIELD5": " Kyaiklat",
+   "FIELD6": " Kyaiklat",
+   "FIELD7": " (045) 48 453, 48 454,\n(045) 48 464, 48 465, 48 455 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaikto Branch",
+   "FIELD3": "No.(18), Bogyoke Road, South Ward, Kyaikto, Mon, Myanmar",
+   "FIELD4": "17.308482, 97.008309",
+   "FIELD5": "Kyaikto",
+   "FIELD6": "Kyaikto",
+   "FIELD7": " (057) 2060 255,\n(057) 2060 094, 2060 092 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaing Tong Branch",
+   "FIELD3": "No. (165/A), Kyaing Ngan (1) Street, (2) Ward, Kyaing Tong, Myanmar. ",
+   "FIELD4": "21.291707, 99.608298",
+   "FIELD5": "Kyaing Tong",
+   "FIELD6": "Kyaing Tong",
+   "FIELD7": " (95-84) 23414,\n(95-84) 23523, 23525 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyangin Mini Branch",
+   "FIELD3": "No.(94), Corner of Sitye Street and Bogyoke Street, Ywarthit Ward, Kyangin, Ayeyarwady, Myanmar.",
+   "FIELD4": "18.338340, 95.246664",
+   "FIELD5": "Kyangin",
+   "FIELD6": "Kyangin",
+   "FIELD7": "(044) 40398, 40625"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaukpadaung Branch",
+   "FIELD3": "No.(2069/B), Yanpyayman Street, Sanpya Ward, Kyaukpadaung. ",
+   "FIELD4": "20.836148, 95.125395",
+   "FIELD5": "Kyaukpadaung",
+   "FIELD6": "Kyaukpadaung",
+   "FIELD7": " 061 - 52 208, 51 960, 52 073,\n061 - 52 013, 52 203, 52 210 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaukpyu Branch",
+   "FIELD3": "No.(17), Yonetat Street, Middle Ward, Kyaukpyu, Rakhine, Myanmar.",
+   "FIELD4": "19.428618, 93.550536",
+   "FIELD5": "Kyaukpyu",
+   "FIELD6": "Kyaukpyu",
+   "FIELD7": " (043) 46 667, 46 668,\n(043) 46 669, 46 670, 46 671 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaukse Branch",
+   "FIELD3": "No.(9), Yangon-Mandalay highway road, Pyaylonenaing Ward, Kyaukse, Myanmar. ",
+   "FIELD4": "21.610491, 96.134699",
+   "FIELD5": "Kyaukse",
+   "FIELD6": "Kyaukse",
+   "FIELD7": " 066 - 20 508 25,\n066 - 20 501 63, 20 509 90 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyauktada Branch",
+   "FIELD3": "No.(173), Maha Bandula Park Street, Kyauktada, Yangon, Myanmar.",
+   "FIELD4": "16.775750, 96.160287",
+   "FIELD5": "Kyauktada",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 375 547,\n(01) 375 549, 375 550 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyauktada Branch (Bo Aung Kyaw Street)",
+   "FIELD3": "Building (263/267), Ground Floor, Bo Aung Kyaw Street (Middle), (9) Block, Kyauktada, Yangon, Myanmar.",
+   "FIELD4": "16.775217,96.164252",
+   "FIELD5": "Kyauktada",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 370 240,\n(01) 370 365, 370 367, 370 353 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyonpyaw Branch",
+   "FIELD3": "No.(4), Innye Street, Aung San Ward, Kyonpyaw, Ayeyarwady Division",
+   "FIELD4": "17.299146, 95.197602",
+   "FIELD5": "Kyonpyaw",
+   "FIELD6": "Kyonpyaw",
+   "FIELD7": " 046 - 566 43, 566 44,\n046 - 566 45, 566 47 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kywe Se Kan Branch",
+   "FIELD3": "No-(Ga/9), Yangon-Mandalay Road, Chanmya Tharyar Ward, Pyigyitagon, Mandalay, Myanmar.",
+   "FIELD4": "21.928366, 96.086954",
+   "FIELD5": "Pyi Gyi Ta Gon",
+   "FIELD6": "Mandalay",
+   "FIELD7": " 02 - 593 15,\n02 - 593 16, 593 19 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Labutta Branch",
+   "FIELD3": "No. (193), Merchant Street, (6) Block, Labutta, Ayeyarwady Division, Myanmar",
+   "FIELD4": "16.146247,94.760880",
+   "FIELD5": " Labutta",
+   "FIELD6": " Labutta",
+   "FIELD7": " 042 - 807 10,\n042 - 807 11, 807 12, 807 13 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lanmadaw (6) Street Branch",
+   "FIELD3": "No.(602), 6th Street, Strand Road, Lanmadaw, Yangon.",
+   "FIELD4": "16.775132, 96.140368",
+   "FIELD5": "Lanmadaw",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 230 1676, 230 1675,\n(01) 230 1677, 230 1678 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lanmadaw Branch",
+   "FIELD3": "No-797, Mahabandoola Road, Lanmadaw Township, Yangon, Myanmar.",
+   "FIELD4": "16.774851, 96.144505",
+   "FIELD5": "Lanmadaw",
+   "FIELD6": "Yangon",
+   "FIELD7": " (95-1) 212 125, 222 982, 222 983,\n(95-1) 224 061, 229 200 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lanmadaw Thanzay Branch",
+   "FIELD3": "No.(135), Lanmadaw Street, Lanmadaw, Yangon, Myanmar.",
+   "FIELD4": "16.775912, 96.147601",
+   "FIELD5": "Lanmadaw",
+   "FIELD6": "Yangon",
+   "FIELD7": "(01) 250 100,250 619, 250 056"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lashio Branch",
+   "FIELD3": "No(34), Theinni street, Sankaung Yark, (2) Ward, District (10), Lashio, Myanmar",
+   "FIELD4": "22.938184, 97.750330",
+   "FIELD5": "Lashio",
+   "FIELD6": "Lashio",
+   "FIELD7": " 082 - 267 49, 267 50,\n082 - 267 46, 267 47, 267 48 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Latha Branch (Anawrahta Road)",
+   "FIELD3": "No.(99-B/C), Ground Floor, (Kyone Gyi), Between (19) Street and (20) Street, (7) Ward, Latha Township, Yangon, Myanmar.",
+   "FIELD4": "16.777056, 96.149668",
+   "FIELD5": "Latha",
+   "FIELD6": "Yangon",
+   "FIELD7": " 01 - 246913,\n01 - 248052, 248055, 248274 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Latha Street Branch",
+   "FIELD3": "No.(13/15), Latha Street, Latha Township, Yangon, Myanmar.",
+   "FIELD4": "16.77277,96.15022",
+   "FIELD5": "Latha",
+   "FIELD6": "Yangon",
+   "FIELD7": " 01 - 386 239,\n01 - 386 236, 386 237, 386 238 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Latt Pan Hla Branch",
+   "FIELD3": "No. 83, Mandalay-Mogok Main Road, Yone Pin Kone Ward, Latt Pan Hla Village, Sintku Township, Pyin Oo Lwin District, Mandalay Division, Myanmar.",
+   "FIELD4": "22.5584,96.06604",
+   "FIELD5": "Sintku ",
+   "FIELD6": "Sintku ",
+   "FIELD7": " 086 39369/ 39189/ 39066/ 39086/ 39023/ 39391,\n(086) 39066/ 39086/ 39023 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lewe Branch",
+   "FIELD3": "No.(5/451), Myothit (3) Street, 5 Ward, Naypyidaw (Lewe), Myanmar.",
+   "FIELD4": "19.642863, 96.113931",
+   "FIELD5": "Lewe",
+   "FIELD6": "Nay Pyi Taw",
+   "FIELD7": " (067) 30 971, 30 972, 30 973,\n(067) 30 969, 30 970 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Loikaw Branch",
+   "FIELD3": "Kandayawadi Market, Block(B), Thida Road, Zaypine Qr, Loikaw.",
+   "FIELD4": "19.674297, 97.210901",
+   "FIELD5": " Loikaw",
+   "FIELD6": " Loikaw",
+   "FIELD7": " 083 - 22 980, 083 - 22 439,\n083 - 22 212, 083 - 21 138 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Magway (Kaung Mon Centre) Mini Branch",
+   "FIELD3": "No.(76/B), Pyay Taw Thar Street, Pyay Taw Thar Ward, Magway, Myanmar.",
+   "FIELD4": "20.148668, 94.931069",
+   "FIELD5": "Magway",
+   "FIELD6": "Magway",
+   "FIELD7": " (063) 28577,\n(063) 28576 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Magway Branch",
+   "FIELD3": "No.(3), Corner of Pyaytawtar Street and Khattar Street, Yankyaw Ward, Magway, Myanamr.",
+   "FIELD4": "20.151972, 94.943364",
+   "FIELD5": "Magway",
+   "FIELD6": "Magway",
+   "FIELD7": " (063) 285 70, 285 79,\n(063) 285 73, 285 74, 285 75 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Manaw Hari Branch",
+   "FIELD3": "No (Za/5/25), (62) Street, Myothit (4) Ward, Mandalay.",
+   "FIELD4": "21.927344, 96.110532",
+   "FIELD5": "Chan Mya Thar Si",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 821 91, 821 92, 821 93,821 94, 821 95, 821 96"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (19) Street Branch",
+   "FIELD3": "No.(146), Corner of (81)Street and (19)Street, Maygagiyi Ward, Aung Myay Tharzan Township, Mandalay.",
+   "FIELD4": "21.993386, 96.083708",
+   "FIELD5": "Aung Myay Thar Zan",
+   "FIELD6": "Mandalay",
+   "FIELD7": " (02) 30 863, 30 864, 30 865,\n(02) 30 871, 30 872, 30 873 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (26) Street Branch",
+   "FIELD3": "No.(228), (26)Street, Between (91x92) street, Thirihaymar west ward, Chanayetharzan, Mandalay, Myanmar.",
+   "FIELD4": "21.983926,96.065743",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 671 84, 671 85, 671 86,671 81, 671 82, 671 83"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (35 St) Branch",
+   "FIELD3": "No. 97, 35th Street, Between 74 & 75 Street, Mahar Aung Myay Township, Mandalay Division.",
+   "FIELD4": "21.96862,96.09241",
+   "FIELD5": " Mahar Aung Myay",
+   "FIELD6": "Mandalay",
+   "FIELD7": " 02 62023, 62027, 62053, 62074, 62093, 23458,\n(02) 62023, 62027, 62053 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (78th Street Branch)",
+   "FIELD3": "No.E-1,2,3 78th Street, between (27,28) Street, Haymar Zala Ward, Chanayethazan Township, Manadalay,",
+   "FIELD4": "21.980902, 96.087192",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay",
+   "FIELD7": " (95-2) 699 01, 699 03, 699 05,\n(95-2) 699 02, 699 04, 699 06 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (86) Street Branch",
+   "FIELD3": "No.(258), (86)Street, Between (31x32)Street, PyayGyi Pyaw Bwal East Ward, Chan Aye Tharzan Township, Mandalay, Myanmar.",
+   "FIELD4": "21.97529,96.0728",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay",
+   "FIELD7": " 02 - 69131, 69132,\n02 - 69128, 69129, 69130 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (Pyi Gyi Mingalar) Branch",
+   "FIELD3": "No.(19), Pyi Gyi Mingalar Cargo Express Complex, Amayapura Township, Mandalay, Myanmar.",
+   "FIELD4": "21.86992,96.10748",
+   "FIELD5": " Amayapura",
+   "FIELD6": "Mandalay",
+   "FIELD7": " 02 - 515 5086,\n02 - 515 5087, 515 5088, 515 5089 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (Yatanar Mall) Branch",
+   "FIELD3": "Room No.(A05©+A06+A07+A08+A09), (3rd) Floor (Diamond Plaza), (78th) Street, Between 33 x 34 Street, Chanayethazan Township, Mandalay, Myanmar.",
+   "FIELD4": "21.97093,96.08729",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay",
+   "FIELD7": " 02 - 30835,\n02 - 39106, 39351, 30834 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (Zay Cho) Branch",
+   "FIELD3": "No-26/B, between (84-85) Street, Near Myodawkhanma (2) Clock Tower, Aungmyetharzan Township, Mandalay",
+   "FIELD4": "21.983735, 96.077150",
+   "FIELD5": "Aung Myay Thar Zan",
+   "FIELD6": "Mandalay",
+   "FIELD7": " (95-2) 66 894, 66 892,\n(95-2) 39 304, 66 891 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (Zay Cho)(84-Street) Mini Branch",
+   "FIELD3": "No.(107), 84 Street, Between 27x28 Street, Mandalay, Myanmar.",
+   "FIELD4": "21.981186, 96.077597",
+   "FIELD5": "Aung Myay Thar Zan",
+   "FIELD6": "Mandalay",
+   "FIELD7": " (02)60 966,\n(02)22407, 86 640 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay Branch (Theik Pan Street)",
+   "FIELD3": "No.(Ma-22-18), Corner of Theik Pan Street and (66) Street, Chan Mya Thar Zi Township, Mandalay, Myanmar.",
+   "FIELD4": "21.951848, 96.104655",
+   "FIELD5": "Chan Mya Thar Si",
+   "FIELD6": "Mandalay",
+   "FIELD7": " 02 - 62002, 62095, 62096,\n02 - 62049, 62037 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Maubin Branch",
+   "FIELD3": "No. (78), Pagoda Road, Zaypine Ward, Maubin, Myanmar.",
+   "FIELD4": "16.733092, 95.653705",
+   "FIELD5": "Maubin",
+   "FIELD6": "Maubin",
+   "FIELD7": "  045 - 30 225,\n045 - 31 196, 31 197 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mawlamyine Kyun Branch",
+   "FIELD3": "No.(17), Maha Bandula Street (Minn Lane), Myoma (6) Ward, Mawlamyine Kyun Township, Labutta, Ayeyarwaddy Division, Myanmar.",
+   "FIELD4": "16.3755,95.26672",
+   "FIELD5": " Labutta",
+   "FIELD6": " Labutta",
+   "FIELD7": " (042) 50 760, 50 757,\n(042) 50 758, 50 759, 50 7560 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mawlamying Branch",
+   "FIELD3": "No.151, Kannar Road, Phattan Ward, Mawlamying, Myanmar.",
+   "FIELD4": "16.496556, 97.618116",
+   "FIELD5": "Mawlamying",
+   "FIELD6": "Mawlamying",
+   "FIELD7": " (95-57) 27337, 27338, 27339,\n(95-57) 27335, 27336 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mayangone Branch (Kyaik Waing Pagoda Road)",
+   "FIELD3": "No.(26), Ground Floor, Corner of Kyaik Waing Pagoda Road and Min Kyaung Street, Mayangone, Yangon, Myanmar.",
+   "FIELD4": "16.866372, 96.126111",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 655 969,\n(01) 652 780, 667 237, 665 851 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Meikhtila Branch",
+   "FIELD3": "No-48, Yangon-Mandalay Street, Thiri Mingalar (A) Quarter, Near Clock Tower, Meikhtila, Myanmar.",
+   "FIELD4": "20.883820, 95.860766",
+   "FIELD5": "Meikhtila",
+   "FIELD6": "Meikhtila",
+   "FIELD7": " (95-64) 23 247, 23 742, 24 261\n(95-64) 23 382, 24 262 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Minbu Branch",
+   "FIELD3": "No.(1329), Minbu-Saku Road, Tamartan (4) Ward, Minbu Township, Magway, Myanmar.",
+   "FIELD4": "20.183829, 94.870399",
+   "FIELD5": "Minbu",
+   "FIELD6": "Minbu",
+   "FIELD7": "065 - 21582,21583, 21584, 21585, 21586"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mingaladon Branch (Khayae Pin Road)",
+   "FIELD3": "No.(41), Khayae Pin Road, (2/A) Sanpya Ward, Mingaladon Township, Yangon, Myanmar.",
+   "FIELD4": "16.9308077,96.1384918",
+   "FIELD5": "Mingaladon",
+   "FIELD6": "Yangon",
+   "FIELD7": " 01 - 631721, 637720, 637723,\n01 - 637718, 637719 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mingalartaungnyunt (Daw Thein Tin Street) Branch",
+   "FIELD3": "No.(28), Daw Thein Tin Street, Kantawkalay North Ward, Mingalartaungnyunt, Yangon, Myanmar.",
+   "FIELD4": "16.789165, 96.166116",
+   "FIELD5": "Mingalartaungnyunt",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 384 903,\n(01) 384 185, 384 967, 384 965 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mingalarzay Branch",
+   "FIELD3": "No.(133), Corner of Mill Road and Bominyaung Road, Yedwingon Ward, Mingalartaungnyunt Township, Yangon",
+   "FIELD4": "16.790809, 96.174995",
+   "FIELD5": "Mingalartaungnyunt",
+   "FIELD6": "Yangon",
+   "FIELD7": " (95-1) 9000 192, 9000 193,\n(95-1) 9000 183, 9000 184 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mo Gaung Branch",
+   "FIELD3": "No.(42), Kyaung Street, Zaygone Ward, Mo Gaung, Kachin, Myanmar.",
+   "FIELD4": "25.302978, 96.936840",
+   "FIELD5": "Mo Gaung",
+   "FIELD6": "Mo Gaung",
+   "FIELD7": " 074 - 40 394, 40 971, 40974,\n074 - 40 395, 40 396 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mogoke (Kyatpyin) Branch",
+   "FIELD3": "No.(72), Mandalay-Mogoke Road, 2/ Kathae North Quarter, Kathae village tract, Mogoke, Pyin Oo Lwin District, Mandalay, Myanmar.",
+   "FIELD4": "22.91068,96,42674",
+   "FIELD5": "Mogoke",
+   "FIELD6": "Mogoke",
+   "FIELD7": " 086 - 25 474, 25 475,\n086 - 25 471, 25 472, 25 473 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mogoke Branch ",
+   "FIELD3": "No. (125), Bogyoke Road, Myoma Block, Mogoke, Myanmar.",
+   "FIELD4": "22.920273, 96.501343",
+   "FIELD5": "Mogoke",
+   "FIELD6": "Mogoke",
+   "FIELD7": " 086 - 205 25, 211 60, 211 05,\n086 - 210 22, 205 54, 202 00 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Monywa Branch",
+   "FIELD3": "No-50, Butaryone Street, Sulegone Ward, Near Bogyoke Kyae Yoke, Monywa, Myanmar.",
+   "FIELD4": "22.116562, 95.133019",
+   "FIELD5": "Monywa",
+   "FIELD6": "Monywa",
+   "FIELD7": " (071) 261 83\n(071) 261 79, 261 80, 261 81 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mudon Branch",
+   "FIELD3": "No.(118), Mawlamyine - Thanbyuzayat Road, Myoma (1) Ward, Mudon, Mawlamyine, Mon, Myanmar.",
+   "FIELD4": "16.259588, 97.729459",
+   "FIELD5": "Mudon",
+   "FIELD6": "Mudon",
+   "FIELD7": " 057 - 70880, 70884, 70244,\n057 - 70881, 70882, 70883 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Muse Branch",
+   "FIELD3": "No. (Ta/202), Pyayhtaungsu Road, South Ward, Muse, Myanmar. ",
+   "FIELD4": "23.979212, 97.904701",
+   "FIELD5": " Muse",
+   "FIELD6": " Muse",
+   "FIELD7": " (082) 525 44 , 525 45,\n(082) 525 42 , 525 43 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myaing Bahin Branch",
+   "FIELD3": "No.(1047/A), Pakokku-Bahin Road, Myoma Ward, Bahin Village, Myaing, Magway, Myanmar.",
+   "FIELD4": "21.725882, 94.673569",
+   "FIELD5": "Myaing",
+   "FIELD6": "Myaing",
+   "FIELD7": "(09) 257 218 421, 257 218 422, 257 218 423, 794 848 911, 974 848 912"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myanaung Branch",
+   "FIELD3": "No.(3)Ward, Kyattane Middle Road, Myanaung, Ayeyarwady, Myanmar.",
+   "FIELD4": "18.288618, 95.318877",
+   "FIELD5": "Myanaung",
+   "FIELD6": "Myanaung",
+   "FIELD7": " (044) 50 308,\n(044) 50 667, 50 668, 50 353 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myanmar Plaza Branch",
+   "FIELD3": "No.(192)/ Room No.(624), Corner of Kabar Aye Pagoda Road and No.1 Industrial Road, Yangon, Myanmar.",
+   "FIELD4": "16.827484, 96.155768",
+   "FIELD5": "Bahan",
+   "FIELD6": "Yangon",
+   "FIELD7": " (09) 7311 6458, 09 7322 3426, 09 7318 0241,\n(09) 7321 9446 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myaungmya Branch",
+   "FIELD3": "No.(116), U Ba Cho Street, Shangone, (5)Ward, Myaungmya, Ayeyarwady Division, Myanmar.",
+   "FIELD4": "16.600783, 94.929217",
+   "FIELD5": "Myaungmya",
+   "FIELD6": "Myaungmya",
+   "FIELD7": " (042) 70 528, 70 529,\n(042) 70 530, 70 531 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myawaddy Branch ",
+   "FIELD3": "No. (8/51), Bayintnaung Street, 2 Ward, Myawaddy, Myanmar. ",
+   "FIELD4": "16.688956, 98.512031",
+   "FIELD5": "Myawaddy",
+   "FIELD6": "Myawaddy",
+   "FIELD7": " 058 - 51 307, 51 308,\n058 - 51 309, 51 310 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myeik (Kan Khaung) Branch",
+   "FIELD3": "No.(5), Sagawar Street, Kan Khaung Ward, Myeik, Tanintharyi Division, Myanmar.",
+   "FIELD4": "12.44083,98.60027",
+   "FIELD5": "Myeik",
+   "FIELD6": "Myeik",
+   "FIELD7": " 059 - 42016, 42782\n059 - 42440, 41705 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myeik Branch",
+   "FIELD3": "No.(4), (C)Street, Dawei Su Ward, Myeik, Tanintharyi, Myanmar.",
+   "FIELD4": "12.442181, 98.596394",
+   "FIELD5": "Myeik",
+   "FIELD6": "Myeik",
+   "FIELD7": " (059) 42 645,\n(059) 42 488, 42 171 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myin Thar (South Okkalapa) Branch",
+   "FIELD3": "No.(69/2), (14/2) Ward, Thanthumar Road, Myin Thar, South Okkalapa Township, Yangon, Myanmar.",
+   "FIELD4": "16.849722,96.190556",
+   "FIELD5": "South Okkalapa",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 561 550,\n(01) 563 373, 8 500 265 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myingyan Branch",
+   "FIELD3": "No.(5/412), Corner of Bogyoke Street and (6th) Street, (5)Ward, Myingyan, Mandalay, Myanmar.",
+   "FIELD4": "21.464167,95.388611",
+   "FIELD5": "Myingyan",
+   "FIELD6": "Myingyan",
+   "FIELD7": " (066) 21 684,\n(066) 22 147, 22 607, 22 311 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myinmu Branch ",
+   "FIELD3": "No.(2/1), Monywa-Mandalay Road, Marga Ward, Myinmu, Sagaing Division, Myanmar",
+   "FIELD4": "21.923527, 95.577517",
+   "FIELD5": "Myinmu",
+   "FIELD6": "Myinmu",
+   "FIELD7": " (071) 40 880,\n(071) 40 881, 40 882, 40 883 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myitthar Branch",
+   "FIELD3": "No. 18, Bogyoke Aung San Road, Shan Pwal Ward, Kyaukse District, Myit Thar Township, Mandalay Division.",
+   "FIELD4": "21.42541,96.13",
+   "FIELD5": "Myit Thar",
+   "FIELD6": "Myit Thar",
+   "FIELD7": "( 066) 60288, 60343, 60383, 60270, 60380, 60190, 60278\n(066) 60270, 60343, 60383 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Naung Cho Branch",
+   "FIELD3": "No.(30), Mandalay-Lashio Road, Zay Ward, Naung Cho Township, Shan State, Myanmar.",
+   "FIELD4": "22.330708, 96.802873",
+   "FIELD5": "Naung Cho",
+   "FIELD6": "Naung Cho",
+   "FIELD7": " 082 - 85510, 85509,\n082 - 85581, 85481, 85482 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Naypyitaw (Oattara Thiri) Branch",
+   "FIELD3": "No.(8), Corner of Mandalay Road and Hnin Si Road, Zawana Theikdi Ward, Naypyitaw.",
+   "FIELD4": "19.822587, 96.154887",
+   "FIELD5": "Zawana Theikdi",
+   "FIELD6": "Nay Pyi Taw",
+   "FIELD7": " (067) 417 848, 417 849, 417 850,\n(067) 417 851, 417 852 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ngapali Branch",
+   "FIELD3": "No. 340, Airport Road, Zee Phyu Kone Ward, Ngapali, Thandwe Township, Rakhine State.",
+   "FIELD4": "18.44899,94.31119",
+   "FIELD5": "Thandwe",
+   "FIELD6": "Thandwe",
+   "FIELD7": " 043 42257, 42269, 42082-87, 42348, 42094,\n(043) 42257, 42269 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "North Okkalapa (Thudhamma Road) Branch",
+   "FIELD3": "No.(673), Thudhamma Road, (F) Ward, North Okkalapa Township, Yangon, Myanmar.",
+   "FIELD4": "16.89825,96.1612",
+   "FIELD5": "North Okkalapa ",
+   "FIELD6": "Yangon",
+   "FIELD7": " 01 - 969 1419,\n01 - 969 1341, 969 1420, 969 1636 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nyaung Lay Bin (2) Branch",
+   "FIELD3": "No.(120/164), Phayargyi Road, Myoma (1) Ward, Naunglaybin Township, Bago, Myanmar.",
+   "FIELD4": "17.956018,96.723586",
+   "FIELD5": " Naunglaybin",
+   "FIELD6": "Nyaunglaybin",
+   "FIELD7": " 052-50026, 052-50361,\n052-50027, 052-50028 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nyaungdon Branch",
+   "FIELD3": " No. (74), Lanmadaw Street, (4) Ward, Nyaungdon, Myanmar.\n\n",
+   "FIELD4": "17.048185, 95.632017",
+   "FIELD5": " Nyaungdon",
+   "FIELD6": " Nyaungdon",
+   "FIELD7": " (046) 200 29, 200 30,\n(046) 200 28, 200 32 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nyaungshwe Branch",
+   "FIELD3": "No.(84), Corner of Phaung Daw Pyan Road and Strand Road, Plot (3) Win Yat, Nyaung Shwe, Myanmar.",
+   "FIELD4": "20.657656, 96.924887",
+   "FIELD5": "Nyaung Shwe",
+   "FIELD6": "Nyaung Shwe",
+   "FIELD7": " (081) 209103, 209104,\n(081) 209915, 209916 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nyaung-U Branch",
+   "FIELD3": " No.(80), Lanmadaw Street, Sonekone Ward, Nyaung-U, Mandalay.\n\n",
+   "FIELD4": "21.200770, 94.906889",
+   "FIELD5": "Nyaung U",
+   "FIELD6": "Nyaung U",
+   "FIELD7": " 061 - 612 12,\n061 - 612 10, 612 11, 608 67 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pabedan Branch (Junction City)",
+   "FIELD3": "Room No. (348/349), Corner of Bogyoke Road and Shwe Dagon Pagoda Road, Pabedan Township, Yangon, Myanmar.",
+   "FIELD4": "16.77936,96.154",
+   "FIELD5": "Pabedan",
+   "FIELD6": "Yangon",
+   "FIELD7": " 01 - 9253578,\n01 - 9253575, 9253576, 9253577 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pabedan Branch (Kone Zay Tan Street)",
+   "FIELD3": "Building No. (252/260), Ground Floor (C/D), Kone Zay Tan Street, Pabedan, Yangon, Myanmar.",
+   "FIELD4": "16.776206,96.154469",
+   "FIELD5": "Pabedan",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 370036,\n(01) 370012, 370013, 370015 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pakokku Branch ",
+   "FIELD3": "No. (4/A), Myoma Street, 8 Ward, Pakokku, Myanmar. ",
+   "FIELD4": "21.333673, 95.085125",
+   "FIELD5": "Pakokku",
+   "FIELD6": "Pakokku",
+   "FIELD7": " 062- 22479 , 22489,\n062- 23978, 23979 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Palauk Branch",
+   "FIELD3": "No.(703), Baho Street, (1) Ward, Palauk, Tanintharyi Division, Myanmar.",
+   "FIELD4": "13.270143, 98.624530",
+   "FIELD5": "Palauk",
+   "FIELD6": "Palauk",
+   "FIELD7": " 059 - 31148, 31149, 31152,\n059 - 31150, 31151 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Palaw Branch",
+   "FIELD3": "No.(12/B), Bogyoke Road, (4) Ward, Palaw, Tanintharyi Division, Myanmar.",
+   "FIELD4": "12.974483, 98.646887",
+   "FIELD5": "Palaw",
+   "FIELD6": "Palaw",
+   "FIELD7": " 059 - 30468,\n059 - 30473, 30474, 30467 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pathein Branch",
+   "FIELD3": "Corner of Merchant Road and Shwe Pagoda Road, No, (4) Ward, Pathein.",
+   "FIELD4": "16.780694, 94.732825",
+   "FIELD5": " Pathein",
+   "FIELD6": " Pathein",
+   "FIELD7": " (042) – 23617, 23618, 23619, 23623,\n(042) – 23620, 23621, 23622 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Paung Branch",
+   "FIELD3": "No.(203), Min Street, Paung Ward, Paung Township, Thaton District, Mon State, Myanmar.",
+   "FIELD4": "16.632181, 97.453809",
+   "FIELD5": " Paung",
+   "FIELD6": " Paung",
+   "FIELD7": " 057 - 47108\n057 - 47104, 47105, 47107 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pazundaung Branch",
+   "FIELD3": "Tower (A) Ground Floor, Room no-002, First floor (102), Leik Kan Housing, Lower Pazundaung Street",
+   "FIELD4": "16.780172, 96.174379",
+   "FIELD5": "Pazundaung",
+   "FIELD6": "Yangon",
+   "FIELD7": "951) 201 969, 9000 269, 9000 270, 9000 273, 9000,\n(951) 9000 271, 9000 272 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pazundaung Branch (Yae Kyaw)",
+   "FIELD3": "No.(63), Ground Floor, Yae Kyaw Street, (7)Ward, Pazundaung, Yangon, Myanmar.",
+   "FIELD4": "16.781366, 96.172665",
+   "FIELD5": "Pazundaung",
+   "FIELD6": "Yangon",
+   "FIELD7": " (01) 299 336,\n(01) 290 594, 290 483 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pha-an Branch",
+   "FIELD3": "No. (2/154), Thitsar Street, (2)Ward, Pha-an, Myanmar.",
+   "FIELD4": "16.882909, 97.641599",
+   "FIELD5": "Hpan An",
+   "FIELD6": "Hpan An",
+   "FIELD7": " (95-58) 22 288, 22 570,\n(95-58) 22 571, 22 572 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Phyar Pon Branch",
+   "FIELD3": "No (23), Corner of Pahtama Street and Natshinnaung Street, (4)Block, Phyar Pon.",
+   "FIELD4": "16.292972,95.680836",
+   "FIELD5": "Phyar Pon",
+   "FIELD6": "Phyar Pon",
+   "FIELD7": " (045) 415 38, 415 39, 415 40,\n(045)415 43, 415 44 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Phyu Branch",
+   "FIELD3": "No.(72/73), Bago Street North Lane, Myoma Ward, Phyu, Bago, Myanmar.",
+   "FIELD4": "18.488850, 96.436428",
+   "FIELD5": "Phyu",
+   "FIELD6": "Phyu",
+   "FIELD7": " (054) 40 847, 40 852, 40 853,\n(054) 40 848, 40 849, 40 850 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyawbwe Branch",
+   "FIELD3": "No. (194), Minyekyawswar Street, Myinbat Ward, Pyawbwe, Myanmar. ",
+   "FIELD4": "20.590170, 96.053746",
+   "FIELD5": "Pyawbwe",
+   "FIELD6": "Pyawbwe",
+   "FIELD7": " (064) 480 30 , 480 31,\n(064) 480 23 , 480 24 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyay (2) Branch",
+   "FIELD3": "No. 13-C, Bogyoke Street, Ywar Bae` East Ward, Pyay, Bago.",
+   "FIELD4": "18.82229,95.23157",
+   "FIELD5": "Pyay",
+   "FIELD6": "Pyay",
+   "FIELD7": " (053) 25290/ 24134/ 24589/ 26514/ 26215/ 25570/ 25571,\n(053) 25571/ 26215 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyay Branch",
+   "FIELD3": "No.(1441/ 1442), Corner of Yangon-Pyay Road and Shwe Thidan Street, Sandaw Ward, Pyay, Myanmar.",
+   "FIELD4": "18.819266, 95.215668",
+   "FIELD5": "Pyay",
+   "FIELD6": "Pyay",
+   "FIELD7": " (95-53) 25 644, 27 845, 27 844,\n(95-53) 24 753, 26 163, 27 846 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyay Road Branch (Chauk Khwel)",
+   "FIELD3": "No.(12), Pyay Road, Chauk Mile Khwel, Hlaing Street, Yangon, Myanmar.",
+   "FIELD4": "16.843034, 96.135264",
+   "FIELD5": "Pyay",
+   "FIELD6": "Pyay",
+   "FIELD7": " 01-507035, 01- 507041, 01-507042, 01-507063, 01-507072,\n01-507026, 01-507037 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyin Oo Lwin (2) Branch",
+   "FIELD3": "No. 30, Mandalay-Lashio Main Road, Nyan Taw Ward, Pyin Oo Lwin Township, Pyin Oo Lwin District, Mandalay Division.",
+   "FIELD4": "22.03456,96.48178",
+   "FIELD5": "Pyin Oo Lwin",
+   "FIELD6": "Pyin Oo Lwin",
+   "FIELD7": " 085 21359, 21783, 21294, 21132, 23126,\n(085) 23126, 21783, 21359 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyin Oo Lwin Branch",
+   "FIELD3": "No (135), Mandalay - Lashio Road, (3)Block, Pyin Oo Lwin, Mayanmar.",
+   "FIELD4": "22.029209, 96.465218",
+   "FIELD5": "Pyin Oo Lwin",
+   "FIELD6": "Pyin Oo Lwin",
+   "FIELD7": " (085) 28 405, 28 404,\n(085) 28 407,28 408, 28 409 "
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Aung Ban Branch",
+   "FIELD3": "No(73/135), Pintaya Road, No(3) Quarter, Aung Pan.",
+   "FIELD4": "20.659228, 96.633067",
+   "FIELD5": "Aung Pan",
+   "FIELD6": "Aung Pan",
+   "FIELD7": "T : 081-61255~259\nF : 081-61260,261"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Zabuthiri (Capital) Mini Branch",
+   "FIELD3": "Room No (111), Capital Shopping Mall, Zabuthiri Tsp, Nay Pyi Taw",
+   "FIELD4": "19.709822, 96.112568",
+   "FIELD5": "Zabuthiri ",
+   "FIELD6": "Naypitaw",
+   "FIELD7": "T: 067-422562\nF: 067-422563~4"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " ThiBaw Branch",
+   "FIELD3": "Block No.(13/Pa Tain Yat),U Paing No(120/Ka), Pa Tain North Quarter, Thibaw Tsp, Northern Shan State.",
+   "FIELD4": "22.616116, 97.300094",
+   "FIELD5": "Thibaw",
+   "FIELD6": "Thibaw",
+   "FIELD7": "T:082-80743, 80746, 80747, 80748, 80749\nF:082-80744,80745"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Tha Hton  Branch",
+   "FIELD3": "No. (170), Minn Road, Nan Khae Ward, Thahtone.",
+   "FIELD4": "16.919847, 97.365508",
+   "FIELD5": "Thahtone",
+   "FIELD6": "Thahtone",
+   "FIELD7": " T :057-41170~74\nF :057-41175~76"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Yangon(65), Tamwe Branch, 165 Road",
+   "FIELD3": "No(20),West Horse Race Course Road,Tamwe Tsp, Yangon Division",
+   "FIELD4": "16.812666, 96.170749",
+   "FIELD5": "Tamwe",
+   "FIELD6": "Yangon",
+   "FIELD7": "T:01-8604314,8604315,\n8604316,\n8604317,8604318\nF:01-8604307,8604308"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Taik Kyi Branch",
+   "FIELD3": " No(10), Pyay Road,Zayy Ward,Taik Kyi Tsp,Yangon Division",
+   "FIELD4": "17.314065, 95.963287",
+   "FIELD5": "Taik Kyi",
+   "FIELD6": "Yangon",
+   "FIELD7": "T:055-21160,21161,21162,21163,21164\nF:055-21167,211687"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Tachileik Branch",
+   "FIELD3": "No(10), Bogyoke Aungsan st,Talauk ward,Tachileik.",
+   "FIELD4": "20.447924, 99.880934",
+   "FIELD5": "Tachileik",
+   "FIELD6": "Tachileik",
+   "FIELD7": " T : 084 - 51386, 51389, 51823, 51877\nF : 084 – 52974, 52975"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " PyinOoLwin Branch",
+   "FIELD3": "No. 158-B/5, Mandalay-Lashio Road, 3th Ward, Pyin Oo Lwin.",
+   "FIELD4": "22.025655, 96.462400",
+   "FIELD5": "PyinOoLwin",
+   "FIELD6": "PyinOoLwin",
+   "FIELD7": "T : 085-28457~61\nF : 085-28462~63"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Naypyitaw (Thapyaykone Zay) Mini Branch",
+   "FIELD3": "No.(A/74), Bawgathiri, Pyinmana, Naypitaw.",
+   "FIELD4": "19.758516, 96.231281",
+   "FIELD5": "Pyinmana",
+   "FIELD6": "Naypitaw",
+   "FIELD7": " T: 067-27061\nF: 067-27062, 27063"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Pin Laung",
+   "FIELD3": " \n U Paing No-(143), Banfel Quarter, Pinlaung Township, Taunggyi District, Shan Division.",
+   "FIELD4": "20.108210, 96.784166",
+   "FIELD5": "Pinlaung",
+   "FIELD6": "Taunggyi",
+   "FIELD7": "T: 081-54562, 54563, 54564, 54565, 54566 ,\nF: 081- 54567, 54568"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Pathein Branch(2)",
+   "FIELD3": " No(11), Zay Chaung Road, No(4) ward, PaThein Tsp, Ayeyarwaddy Division. ",
+   "FIELD4": "16.782550, 94.730860",
+   "FIELD5": "PaThein",
+   "FIELD6": "Pathein",
+   "FIELD7": "T:042-23963, 23964, 23965, 23966, 23967,\nF:042-23968, 23969 "
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Pantanaw Branch",
+   "FIELD3": " No(112), Aungzayya Road, Middle Ward, Pantanaw, Ayeyarwady Division.",
+   "FIELD4": "16.982332, 95.465568",
+   "FIELD5": "Pantanaw",
+   "FIELD6": "Pantanaw",
+   "FIELD7": "T : 046-30535, 30536, 30537, 30538, 30539\nF : 046-30540, 30541"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Nyaung Lay Pin Branch",
+   "FIELD3": "U Paing No.(48-ka/kha) ,Block No(95-96), (Myoma-3/ Nyaung Lay Pin) Quarter, Nyaung Lay Pin Township, Bago District, Bago Division.",
+   "FIELD4": "17.955370, 96.722693",
+   "FIELD5": "Nyaung Lay Pin",
+   "FIELD6": "Nyaung Lay Pin",
+   "FIELD7": "T: 052-50053, 50071, 50072, 50756, 50755\nF:052-50758, 50757"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Nyaung Oo Branch",
+   "FIELD3": " No. 102, Ywa Thit, Lan Thit Street, Naung Oo, Mandalay Divison.",
+   "FIELD4": "21.199324, 94.905246",
+   "FIELD5": "Naung Oo",
+   "FIELD6": "Naung Oo",
+   "FIELD7": "T: 061-61213, 61214, 61215\nF: 061-60463, 60401"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Myeik Branch",
+   "FIELD3": "No(8), Seik Nge Ward, Seik Kan Office Road, Myeik.",
+   "FIELD4": "12.440122, 98.595943",
+   "FIELD5": "Myeik",
+   "FIELD6": "Myeik",
+   "FIELD7": "T : 059 - 42275~76, 42415~16, 42803\nF : 059 - 42075, 42077"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Myan Aung Branch",
+   "FIELD3": " No. 47, Nyazay Road, Naychi Ward, Myan Aung, Ayeyarwady Division.",
+   "FIELD4": "18.288426, 95.322045",
+   "FIELD5": "Myan Aung",
+   "FIELD6": "Myan Aung",
+   "FIELD7": "T : 044-50670, 506071, 50672, 506073, 50674\nF : 044-50676, 50677"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Mudon Branch",
+   "FIELD3": " No. 106, Bogyoke Road, BoTe Ward, Myoma 1, Mudon, Mon State.",
+   "FIELD4": "16.256389, 97.723013",
+   "FIELD5": "Mudon",
+   "FIELD6": "Mudon",
+   "FIELD7": "T: 057- 71050~52\nF: 057-71053~54"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Monywar Mini Branch(Chin Twin Yadanar Zay)",
+   "FIELD3": "Room No (1-24), Chin Twin Yandanar Zay , Monywa, Sagaing Division.",
+   "FIELD4": "22.109024, 95.135705",
+   "FIELD5": "Monywa",
+   "FIELD6": "Monywa",
+   "FIELD7": "T: 071-26231\nF: 071-26232~33"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Yangon(6)\nMingalar Taung Nyunt Branch",
+   "FIELD3": "No(53), Yae Twin Kone, 118St., Mingalartaungnyunt Township, Yangon.",
+   "FIELD4": "16.792013, 96.174160",
+   "FIELD5": "Mingalartaungnyunt",
+   "FIELD6": "Yangon",
+   "FIELD7": "T : 01-8619138~42\nF : 01-8619143~44"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " Yangon(8) Parami Branch",
+   "FIELD3": "No(105-D) ,Parami lan thit lan ma, (10) quarter, (7) mile, Mayangone Tsp, Yangon.",
+   "FIELD4": "16.850393, 96.154667",
+   "FIELD5": "Mayangone ",
+   "FIELD6": "Yangon",
+   "FIELD7": "T: 01-9669569, 9669570~73\nF: 01-9669578, 9669579"
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": " No.(11), 5 Street, 2 Ward, Myaung Mya.",
+   "FIELD3": "No(105-D) ,Parami lan thit lan ma, (10) quarter, (7) mile, Mayangone Tsp, Yangon.",
+   "FIELD4": "16.605234, 94.928914",
+   "FIELD5": "Mayangone",
+   "FIELD6": "Yangon",
+   "FIELD7": "T: 042-70538~ 42\nF: 042-70543~44"
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Kamaryut Baranch",
+   "FIELD3": "No. (519), Pyay Road, Kamaryut Township, Yangon.",
+   "FIELD4": "16.825069, 96.130917",
+   "FIELD5": "Kamaryut",
+   "FIELD6": "Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Lanmadaw Branch",
+   "FIELD3": "No-590, Kannar Street, Bet 7 St& Kin tan St, Lamadaw Towmship, Yangon.",
+   "FIELD4": "16.778688, 96.156092",
+   "FIELD5": " Lamadaw",
+   "FIELD6": "Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Mingalarzay",
+   "FIELD3": "No.(1), Room- (02/04), Ground Fl, Corner of Setyone St & Hninsi St, Thayargone Qr, Mingalartaungnyunt Tsp, Yangon.",
+   "FIELD4": "16.825067, 96.130921",
+   "FIELD5": "Mingalartaungnyunt",
+   "FIELD6": " Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Myaynigone",
+   "FIELD3": "No.290/A, Room-3+4, Ground Floor, Pyay Road, Myaynigone(North), Sanchaung Township, Yangon.",
+   "FIELD4": "16.806171, 96.136744",
+   "FIELD5": "Sanchaung ",
+   "FIELD6": " Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Phaunggyi",
+   "FIELD3": "Central Staffs University, (Lower Myanmar), Hlegu Township, Yangon Division.",
+   "FIELD4": "17.100246, 96.225142",
+   "FIELD5": "Hlegu",
+   "FIELD6": "Yangon ",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Shwe Bon Thar",
+   "FIELD3": "No-416/420, Shwebonethar Street, 8 Quarter, Pabedan Township, Yangon.",
+   "FIELD4": "16.773241, 96.158384",
+   "FIELD5": "Pabedan",
+   "FIELD6": "Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "South Oakkala Mini Branch",
+   "FIELD3": "No. (770/A), Thu Mingalar St; Near of Nandawon Market, South Okkalapa Tsp, Yangon.",
+   "FIELD4": "16.848593, 96.178446",
+   "FIELD5": "South Okkalapa",
+   "FIELD6": " Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Sule Branch",
+   "FIELD3": "No. (73/75), Sule Pagoda Road, Pabaedan Township, Yangon.",
+   "FIELD4": "16.773406, 96.158449",
+   "FIELD5": "Pabaedan",
+   "FIELD6": "Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "U Chit Maung Branch",
+   "FIELD3": "Building No S-7, S-8 ,U Chit Mg Road, U Chit Mg Condo, Tamwe Township, Yangon.",
+   "FIELD4": "16.815384, 96.168882",
+   "FIELD5": "Tamwe",
+   "FIELD6": "Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Mindama Branch",
+   "FIELD3": "The corner of Mindama Street and Taw Win Street, Ma Yan Gone Township, Yangon.",
+   "FIELD4": "16.815522, 96.168906",
+   "FIELD5": "Ma Yan Gone",
+   "FIELD6": "Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Yaw Min Gyi Branch",
+   "FIELD3": "No. 30 A, Yaw Min Gyi Street, Dagon Township, Yangon.",
+   "FIELD4": "16.807274, 96.144437",
+   "FIELD5": "Dagon",
+   "FIELD6": " Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "La Thar Branch",
+   "FIELD3": "No.376, Room No.8, Strand Street, La Thar Township, Yangon.",
+   "FIELD4": "16.806055, 96.147515",
+   "FIELD5": " La Thar",
+   "FIELD6": "Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "North Oakkalapa Branch",
+   "FIELD3": "No.1178, The corner of  Thu Da Mar Street and No 3 Street, North Oakkalapa Township, Yangon.",
+   "FIELD4": "16.873640, 96.157201",
+   "FIELD5": " North Oakkalapa",
+   "FIELD6": "Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Thingangyun  Branch",
+   "FIELD3": "No.259, Lay Daunt Kan Street, Thingangyun Township, Yangon.",
+   "FIELD4": "16.855670, 96.157262",
+   "FIELD5": "Thingangyun",
+   "FIELD6": " Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Thuwanna Branch",
+   "FIELD3": "No.165/6, Than Tu Mar Street, 24 Quarter, Thingangyun Township, Yangon.",
+   "FIELD4": "16.824550, 96.199915",
+   "FIELD5": "Thingangyun",
+   "FIELD6": "Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Junction City Branch",
+   "FIELD3": "Room 354 C, 3rd Floor of Junction City, Pabeden Township, Yangon.",
+   "FIELD4": "16.825077, 96.130920",
+   "FIELD5": "Pabeden",
+   "FIELD6": " Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Mandalay               Kyaukpadaung Branch",
+   "FIELD3": "No. (217/521), San Pya Quarter, Corner of YanPyaeMan Street & Kyaukpadaung-Magwe Road, Kyaukpadaung Township, Mandalay Division.",
+   "FIELD4": "20.835753, 95.125412",
+   "FIELD5": " Kyaukpadaung",
+   "FIELD6": "Mandalay",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Mandalay Branch I",
+   "FIELD3": "No. (57-A), 82 Street, Between (27 St; × 28 St;) Chanayetharzan Township, Mandalay.",
+   "FIELD4": "21.979935, 96.084373",
+   "FIELD5": "ChanAyeTharZan ",
+   "FIELD6": "Mandalay",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Mandalay Mini(1) Branch",
+   "FIELD3": "No.(H) 30th Street, Between (77) & (78), ChanAyeTharZan Township, Mandalay.",
+   "FIELD4": "21.976157, 96.099767",
+   "FIELD5": "ChanAyeTharZan ",
+   "FIELD6": "Mandalay",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Mandalay Mini(2)",
+   "FIELD3": "No. (69), 73 Street, Between 29 & 30 Street, ChanAyeTharZan Township, Mandalay",
+   "FIELD4": "21.977598, 96.095677",
+   "FIELD5": "ChanAyeTharZan ",
+   "FIELD6": "Mandalay",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Mandalay Mini(3)",
+   "FIELD3": "No. (104), 84 Street, Between 30 & 31, Mandalay.",
+   "FIELD4": "21.977225, 96.077400",
+   "FIELD5": "ChanAyeTharZan ",
+   "FIELD6": "Mandalay",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Mandalay Zay Cho Mini",
+   "FIELD3": "Zaycho Plaza, First Fl, Corner of 26th St & 85th St, Chanayetharzan Tsp, Mandalay.",
+   "FIELD4": "21.981769, 96.108117",
+   "FIELD5": " Chanayetharzan",
+   "FIELD6": " Mandalay",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Meikhtila Branch",
+   "FIELD3": "No. (197), Yangon-Mandalay Highway Road, Thiri Mingalar Quarter, Meikhtila Township.",
+   "FIELD4": "21.461049, 95.389269",
+   "FIELD5": "Meikhtila",
+   "FIELD6": "Mandalay",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Kyangin Branch",
+   "FIELD3": "No.(37),Bogyoke Street, Ywar Thit Quarter, Kyangin Township, Ayarwaddy Region.",
+   "FIELD4": "18.336958, 95.249117",
+   "FIELD5": "Kyangin",
+   "FIELD6": " Ayarwaddy ",
+   "FIELD7": "(044)40270~71,73"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. MyanAung Branch",
+   "FIELD3": "No.(1), Lat Pan Yat Middle Street, (5) Quarter. Myan Aung Township, Ayeyarwaddy Region.",
+   "FIELD4": "18.288312, 95.322636",
+   "FIELD5": "Myan Aung",
+   "FIELD6": " Ayeyarwaddy",
+   "FIELD7": "(044) 50664, 50665"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Pathein Branch 2",
+   "FIELD3": "No.(8), Zaychaung Road, (4)Quarter, Pathein Township, Ayeyarwaddy Region",
+   "FIELD4": "16.779884, 94.731428",
+   "FIELD5": "Pathein",
+   "FIELD6": " Ayeyarwaddy",
+   "FIELD7": " (042) 23880, 23881, 23882"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Bago Branch",
+   "FIELD3": "No.(237-238), Shwemawdaw Pogoda Road, Yone Gyi Quarter, Bago Township, Bago Region.",
+   "FIELD4": "17.336534, 96.485802",
+   "FIELD5": "Bago Township",
+   "FIELD6": " Bago Region",
+   "FIELD7": "(052) 2221431, 2221476, 2221483, 2221785, 222159121832"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Taungoo Branch",
+   "FIELD3": "No.(362), (19) Quarter, Yangon-Mandalay Road and Avenue Street, Taungoo Township, Bago Region.",
+   "FIELD4": "18.939052, 96.444180",
+   "FIELD5": "Taungoo Township",
+   "FIELD6": " Bago Region",
+   "FIELD7": "(054) 24051, 24052, 24053, 24054, 24055"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. AungLan Branch",
+   "FIELD3": "No.(275), Corner of (13)Street and Pyay Road, Tayawgone Quarter, Aunglan Township, Magwe Region.",
+   "FIELD4": "19.369871, 95.214158",
+   "FIELD5": "Aunglan",
+   "FIELD6": " Magwe",
+   "FIELD7": "(069)-201502, 201503, 201504"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Pakokku Branch",
+   "FIELD3": "No(6), Independent Street, (8) Quarter, Pakokku Township, Magwe Region.",
+   "FIELD4": "21.333548, 95.086918",
+   "FIELD5": "Pakokku Township",
+   "FIELD6": " Magwe Division",
+   "FIELD7": "(062) 21982~85.09-6571310"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Myitkyina Branch",
+   "FIELD3": "No.(18), Corner of Khayay Pin Street and ButerYone Street, Myoema Quarter, Myitkyina Township, Kachin State.",
+   "FIELD4": "25.384319,97.398934",
+   "FIELD5": " Myitkyina Township",
+   "FIELD6": " Myitkyina Township",
+   "FIELD7": "(074) 23955, 23958,23957"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Maungdaw Branch",
+   "FIELD3": "Myoe Ma East Quarter, Corner of Minbar Gyi Street and Bo Chin Pyan Street, Maung Daw Township, Rakhine State.",
+   "FIELD4": "20.824889, 92.361084",
+   "FIELD5": "Maung Daw Township",
+   "FIELD6": " Rakhine State.",
+   "FIELD7": "(043) 55402, 55403"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Sittwe Branch",
+   "FIELD3": "No.(10), Main Road, Yupa(South) Quarter, Sittwe Township, Rakhine State.",
+   "FIELD4": "20.145205, 92.900338",
+   "FIELD5": "Sittwe Township",
+   "FIELD6": " Rakhine State.",
+   "FIELD7": "(043) 22142~44,09-254097023,09-254097024"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": " Kanbawza Bank Limited. Tamu Branch",
+   "FIELD3": "No.(130),Bogyoke Road,Zaytan Quarter, Tamuu Township, Sagaing Region.",
+   "FIELD4": "24.214301, 94.307472",
+   "FIELD5": "Tamuu",
+   "FIELD6": " Sagaing",
+   "FIELD7": "(073) 40971, 40972, 40974, 40975"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Monywa Branch",
+   "FIELD3": "No.(20), Bogyokeaungsan Road, Sulaykone Quarter, Monywa Township, Sagaing Region.",
+   "FIELD4": "22.102259, 95.139392",
+   "FIELD5": " Monywa Township",
+   "FIELD6": " Sagaing Region.",
+   "FIELD7": "(071)-26161~56, 23681~83"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Kyaukme Branch",
+   "FIELD3": "No.(31), Oo Paing No.(103/104). Zay Yat, Thiri Mingalar Street, Kyauk Mae Township, Shan State(North).",
+   "FIELD4": "22.540391, 97.034284",
+   "FIELD5": "Kyauk Mae",
+   "FIELD6": " Shan",
+   "FIELD7": " (082) 40929, 40931, 40932"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": " Kanbawza Bank Limited. NamHsan Branch",
+   "FIELD3": "No.(3/10), Pyihtaungsu Road, (3)Quarter, Namhsan Township, Shan State(South)",
+   "FIELD4": "20.889752, 97.720669",
+   "FIELD5": "Namhsan",
+   "FIELD6": " Shan",
+   "FIELD7": " (081) 80824, 80825, 80826"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Kyaing Tong Branch",
+   "FIELD3": "No.(11/B), Zay Tan Gyi Street, (3) Quarter, Kyaingtong Township, Shan State.",
+   "FIELD4": "21.290815, 99.603253",
+   "FIELD5": "Kyaingtong Township",
+   "FIELD6": " Shan State",
+   "FIELD7": "(084) 21696, 21697"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Dawei Branch",
+   "FIELD3": "No.(14), Neikvan Street, Myot Twin Quarter, Dawei Township, Tanintharyi Region.",
+   "FIELD4": "14.075960, 98.189959",
+   "FIELD5": " Dawei Township",
+   "FIELD6": " Tanintharyi Region",
+   "FIELD7": "(059) 23467, 23468"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Thingangyun Branch 2",
+   "FIELD3": "(SHB-1),Building No(2,3,4),Yadanar Street, Ma Li Kha Housing, Thingangyun Township, Yangon City, Yangon Region.",
+   "FIELD4": "16.835153, 96.180879",
+   "FIELD5": "Thingangyun",
+   "FIELD6": " Yangon",
+   "FIELD7": " (01)8551458, 8551459, 8551460"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited.",
+   "FIELD3": "LayDaunKan Road,front of Junction Zawuna,Thingangyun Township, Yangon City, Yangon Region.",
+   "FIELD4": "16.827245, 96.187834",
+   "FIELD5": "Thingangyun",
+   "FIELD6": "Yangon",
+   "FIELD7": "01 573 457"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited.",
+   "FIELD3": "(South)ThanThuMar Road and  Front  of SuPaung Bus-Stop,Thingangyun Township, Yangon City, Yangon Region.",
+   "FIELD4": "16.818326, 96.198702",
+   "FIELD5": "Thingangyun",
+   "FIELD6": "Yangon",
+   "FIELD7": "01 233 3668"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited.",
+   "FIELD3": "Corner of (North)ThanThuMar Road and PyinMaMyaing-Su Paung Street,Thingangyun Township, Yangon City, Yangon Region.",
+   "FIELD4": "16.818673, 96.198729",
+   "FIELD5": "Thingangyun",
+   "FIELD6": "Yangon",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Sin Ma Lite Branch",
+   "FIELD3": "Building(A), Room(006), Yuzana Street, Yuzana Hiway Complex Housing, (6) Quarter, Kamayut Township, Yangon City, Yangon Region.",
+   "FIELD4": "16.832393, 96.129068",
+   "FIELD5": "Kamayut",
+   "FIELD6": " Yangon",
+   "FIELD7": "(01)2306002~07"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited.YGN 95-Lantha Street Branch",
+   "FIELD3": "No(131/133), Ground Floor, La Thar Street,(4) Block , Latha Township, Yangon City ,Yangon Region.",
+   "FIELD4": "16.775855,96.150349",
+   "FIELD5": "Latha",
+   "FIELD6": " Yangon",
+   "FIELD7": "(01)254280~81."
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": " Kanbawza Bank Limited. YGN 99-Maha Bandula Road Branch",
+   "FIELD3": "Building No(10/H), Room No(G-01~04), Podium(A), Corner of Maharbandula Street and (48) Street, (9)Block, Botahtaung Township, Yangon City, Yangon Region.",
+   "FIELD4": "16.783523,96.159618",
+   "FIELD5": "Botahtaung",
+   "FIELD6": " Yangon ",
+   "FIELD7": "(09)453200186(Cash)"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Hlaing Branch",
+   "FIELD3": "No.(41), Aye Yeik Mon Housing , Bayintnaung Road, Hlaing Township, Yangon City, Yangon Region.",
+   "FIELD4": "16.850400,96.128724",
+   "FIELD5": "Hlaing Township",
+   "FIELD6": " Yangon Region",
+   "FIELD7": "(01) 531089, 531090, 531091, 531092, 531094, 531098"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Botahtaung Branch",
+   "FIELD3": "No.(178), Bo Aung Kyaw Road, Botahtaung Township, Yangon City, Yangon Region.",
+   "FIELD4": "16.774730,96.164331",
+   "FIELD5": "Botahtaung Township",
+   "FIELD6": " Yangon Region",
+   "FIELD7": "(01) 385434, 385435"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Bogale Branch",
+   "FIELD3": "No.(28), (3)Quarter, Manawhari Street, Bogalay Township, Ayarwaddy Region.",
+   "FIELD4": "16.374762, 95.268365",
+   "FIELD5": "Bogalay",
+   "FIELD6": "Ayarwaddy",
+   "FIELD7": "(045) 45317, 45630"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Hinthada Branch",
+   "FIELD3": "No.(49), Corner of Nat Maw Street and Sin Akari Street, North Oo Yin Quarter, Hinthada Township, Ayarwaddy Region.",
+   "FIELD4": "17.648002, 95.462667",
+   "FIELD5": "Hinthada Township",
+   "FIELD6": "Ayarwaddy Region.",
+   "FIELD7": "(044) 21728,22742,22743"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Pathein Branch",
+   "FIELD3": "No.(232), Maharbandoola Street, (3) QUarter, Pathein Township, Ayeyarwadday Region.",
+   "FIELD4": "16.787914, 94.745189",
+   "FIELD5": "Pathein Township",
+   "FIELD6": "Ayeyarwadday Region",
+   "FIELD7": "(042) 25852, 25853, 25854"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Maubin Branch",
+   "FIELD3": "No.(38), Corner of Min Lan and (5) Street , (5)Quarter, (5-G)/Middle Pine Yat, Maubin Township, Ayeyarwaddy Region.",
+   "FIELD4": "16.733100, 95.652573",
+   "FIELD5": "Maubin",
+   "FIELD6": "Ayeyarwaddy",
+   "FIELD7": "(045) 31186, 31187, 31188,31189"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mawgyun Branch",
+   "FIELD3": "No.(178/Kha-2+3), Bo Tae Street, Myoema (6) Quarter, Mawlamyinegyun Township, Ayeyarwaddy Region.",
+   "FIELD4": "16.374805, 95.268376",
+   "FIELD5": "Mawlamyinegyun",
+   "FIELD6": "Ayeyarwaddy",
+   "FIELD7": "(042) 50762, 50763, 50764"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Kyaiklat Branch",
+   "FIELD3": "No. (106), U Sandar Street, (4) Quarter, Kyaiklat Township, Ayayarwaddy Region.",
+   "FIELD4": "16.446273, 95.722215",
+   "FIELD5": "Kyaiklat",
+   "FIELD6": "Ayeyarwaddy",
+   "FIELD7": "(045) 48504, 48505, 48506, 48588"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Myaung Mya Branch",
+   "FIELD3": "No. (14), Corner of 5 Street and U Ba Cho Road, Myaungmya Township, Ayeyarwaddy Region.",
+   "FIELD4": "16.605210, 94.928794",
+   "FIELD5": "Myaungmya",
+   "FIELD6": "Ayeyarwaddy",
+   "FIELD7": "(042) 71293, 70558,70559"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Shwe Pyi Thar Market Mini Bank 1",
+   "FIELD3": "No. (19-20), Upper Shwe Pyi Thar Market, Marchant Street, Pathein District, Ayeyarwaddy Region.",
+   "FIELD4": "16.779890, 94.731433",
+   "FIELD5": "Pathein",
+   "FIELD6": "Ayeyarwaddy",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Shwe Mu Daw Pagoda Mini Bank",
+   "FIELD3": "No. (14), Merchant Road, YaKaAh(4) Territory, Pathein Township, Pathein District, Ayeyarwaddy Region.",
+   "FIELD4": "16.780999, 94.732629",
+   "FIELD5": "Pathein",
+   "FIELD6": "Ayeyarwaddy",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": " Kanbawza Bank Limited. Zalun Branch",
+   "FIELD3": "No.(612), Ader Street, Nyaung Pin Zay Quarter, Zalon Township, Ayeyarwaddy Region. ",
+   "FIELD4": "17.472784, 95.550265",
+   "FIELD5": "Zalon",
+   "FIELD6": "Ayeyarwaddy ",
+   "FIELD7": "(044) 35623, 35624, 35625, 35626, 35627"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. PyaPon Branch",
+   "FIELD3": "No.(64/D-2), (5) Quarter,Ywar Lae Kyaung Yat, Bogyoke Aung San Road, Pyapon Township, Ayeyarwady Region.",
+   "FIELD4": "16.289796, 95.680678",
+   "FIELD5": "Pyapon",
+   "FIELD6": "Ayeyarwady",
+   "FIELD7": "(045) 40380, 40382"
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Hinthada Mini Bank",
+   "FIELD3": "Municipal Shop No. (7-8-9), U Wizaya Road, Padamyar Quarter, Hinthada Township, Hinthada District, Ayeyarwady Region.",
+   "FIELD4": "17.647993, 95.462673",
+   "FIELD5": "Hinthada",
+   "FIELD6": "Ayeyarwady",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Maubin Mini Bank",
+   "FIELD3": "No. (4), Pagoda Road, (4) Quarter, Maubin Township, Maubin District, Ayeyarwady Region.",
+   "FIELD4": "16.733048, 95.652532",
+   "FIELD5": "Maubin",
+   "FIELD6": "Ayeyarwady",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Hinthada Mini Bank(2)",
+   "FIELD3": "No. (4-5-6-8-9), Zay Yone No(E-4), Hinthada Township, Hinthada District, Ayeyarwady Region.",
+   "FIELD4": "17.647991, 95.462675",
+   "FIELD5": "Hinthada",
+   "FIELD6": "Ayeyarwady",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Bago Branch 2",
+   "FIELD3": "No.(354), Thanatpin Street, Shinsawpu Quarter, Bago Township, Bago Region(East).",
+   "FIELD4": "17.334953, 96.492149",
+   "FIELD5": "Shinsawpu",
+   "FIELD6": "Bago",
+   "FIELD7": "(052) 2201054, 2201055"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Bago Branch 3 ",
+   "FIELD3": "No.(9), Khaing Thitsar Street, Corner of Yangon-Mandalay Road, Big Quarter(2), Oak Thar Myo Thit, Bago Region.",
+   "FIELD4": "17.322787, 96.468409",
+   "FIELD5": "Oak Thar Myo Thit",
+   "FIELD6": "Bago",
+   "FIELD7": "(052) 201061, 201062, 201063, 201094, 201095"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": " Kanbawza Bank Limited. Bago 4 (Min Lan)Branch",
+   "FIELD3": "No.(130), Ground Floor, Min Lan Street, Zay Pie Quarter, Bago, Bago Region",
+   "FIELD4": "17.336535, 96.485798",
+   "FIELD5": "Zay Pie",
+   "FIELD6": "Bago",
+   "FIELD7": " (052)2223259,2201086, 2201087,2201339,2201343"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Bago 5 Branch",
+   "FIELD3": "No(5), Room(1+2), Naung Wine(18), Zay Pine Yat, Bago Region.",
+   "FIELD4": "17.336600, 96.485682",
+   "FIELD5": "Zay Pine Yat",
+   "FIELD6": "Bago",
+   "FIELD7": "(052)2201336,2221781, 2211602."
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Pyay Branch 2",
+   "FIELD3": "No.(150), Bogyoke Road, Ywarbae Quarter, Pyay Township, Bago Region.",
+   "FIELD4": "18.827862, 95.217855",
+   "FIELD5": "Pyay",
+   "FIELD6": "Bago",
+   "FIELD7": "(053)24265,24376, 24554,24847"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Daik U Branch",
+   "FIELD3": "No.(411/Kha), Myoe Win Road,No (5) Tantatar Quarter, Dike Oo Township, Bago Region.",
+   "FIELD4": "17.795573, 96.669689",
+   "FIELD5": " Dike Oo",
+   "FIELD6": "Bago",
+   "FIELD7": "(052) 40555, 40556, 40558, 40559 "
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Phyu Branch",
+   "FIELD3": "No.42(A,B), Yangon - Mandalay Road, Phyu Office (South), Zay Quarter, Phyu Township, Bago Region.",
+   "FIELD4": "18.476751,96.436717",
+   "FIELD5": "Phyu",
+   "FIELD6": "Bago",
+   "FIELD7": "(054) 40854~57"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "KBZ Bank Limited. NyaungLeBin Branch",
+   "FIELD3": "No.(22), Bogyoke Street, Myoe Mya (3) Quarter, Nyaunglebin Township, Bago Region.",
+   "FIELD4": "18.476751, 96.436717",
+   "FIELD5": "Nyaunglebin",
+   "FIELD6": "Bago",
+   "FIELD7": "(052) 50981, 50982, 50983, 50984"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Waw Branch",
+   "FIELD3": "No.(15), Min Street, Chanmyatharzi Quarter, Waw Township, Bago Region.",
+   "FIELD4": "17.473851, 96.672747",
+   "FIELD5": "Waw",
+   "FIELD6": "Bago",
+   "FIELD7": "(052) 75762, 75763, 75764"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Thonesaw Branch",
+   "FIELD3": "No. (234), Yangon-Pyay Road, Latpan Khone(West) Quarter, Thone Sae, Tharyarwady Township, Bago Region.",
+   "FIELD4": "17.629588, 95.786515",
+   "FIELD5": "Tharyarwady",
+   "FIELD6": "Bago",
+   "FIELD7": "(055) 30405"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Taungoo Branch 2",
+   "FIELD3": "No.(77),U Paing No(Ka/85) Zay Street, 15 Quarter, Taungoo Township, Bago Region.",
+   "FIELD4": "18.939050, 96.444179",
+   "FIELD5": "Taungoo",
+   "FIELD6": "Bago",
+   "FIELD7": "(054) 26184, 26185, 26186, 26191"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Taungoo Mini Bank (1)",
+   "FIELD3": "No. (16/123), Zay Street, (16) Quarter, Taungoo Township, Bago Region.",
+   "FIELD4": "18.941958, 96.438872",
+   "FIELD5": "Taungoo",
+   "FIELD6": "Bago",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Taungoo Mini Bank (2)",
+   "FIELD3": "No. (D-7)and(D-8), Thit Sar Street, (17) Quarter, Taungoo Township, Taungoo District, East Bago Region.",
+   "FIELD4": "18.939052, 96.444181",
+   "FIELD5": "Taungoo",
+   "FIELD6": "Bago",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Pyay Mini Branch(1)",
+   "FIELD3": "No. (169), Near Municipal Market, Corner of Panbedan Street and Shwe Phone Pwint Pagoda Street, Pyay District, Bago Region.",
+   "FIELD4": "18.827859, 95.217859",
+   "FIELD5": "Pyay",
+   "FIELD6": "Bago",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Pyay Mini Branch(2)",
+   "FIELD3": "No. (349), Lan Shay Street, San Taw Quarter, Pyay Township, Pyay District, Bago Region.",
+   "FIELD4": "18.822312, 95.231743",
+   "FIELD5": "Pyay",
+   "FIELD6": "Bago",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Oak Twin Mini Bank",
+   "FIELD3": "Yangon-Mandalay Old Road, Oak Twin Township, Taungoo District, Bago Region.",
+   "FIELD4": "18.941960, 96.438871",
+   "FIELD5": "Taungoo",
+   "FIELD6": "Bago",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Pyay Mini Branch (1)",
+   "FIELD3": "No. (3/108), Entrence of Myo Thit Road, Pyay Township, Pyay District, Bago Region.",
+   "FIELD4": "18.827858, 95.217857",
+   "FIELD5": "Pyay",
+   "FIELD6": "Bago",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Daik Oo Mini Bank",
+   "FIELD3": "No. (60), Min Road, Near Myoma Market, Merchant Quarter, Daik Oo Township, Bago Region.",
+   "FIELD4": "17.795575, 96.669691",
+   "FIELD5": "Daik Oo",
+   "FIELD6": "Bago",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Phyuu Mini Bank",
+   "FIELD3": "Bago Main Road, Phyuu Township, Bago Region.",
+   "FIELD4": "18.476751, 96.436716",
+   "FIELD5": "Phyuu",
+   "FIELD6": "Bago",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Bago Mini Bank",
+   "FIELD3": "No. (807), Kyun Thar Yar Quarter, Bago Region.",
+   "FIELD4": "17.334951, 96.492147",
+   "FIELD5": "Kyun Thar Yar",
+   "FIELD6": "Bago",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Bago Mini Bank (2)",
+   "FIELD3": "No. (103), Ground Floor, Min Street, Zay Quarter, Bago Region.",
+   "FIELD4": "17.322792, 96.468414",
+   "FIELD5": "Zay",
+   "FIELD6": "Bago",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Pyay Branch",
+   "FIELD3": "No.(201), Lanmadaw Street, Shweku Quarter, Pyay Township,Bogo Region.",
+   "FIELD4": "18.827860, 95.217854",
+   "FIELD5": "Pyay Township",
+   "FIELD6": "Bogo Region",
+   "FIELD7": "(053) 24834, 24836, 24839"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay -1 (80 Street) Branch",
+   "FIELD3": "No.(230), (80) Street, Between 31st Street and 32nd street, Kitsnamahi Quarter, Chanayetharzan Township, Mandalay Region.",
+   "FIELD4": "21.975098, 96.084173",
+   "FIELD5": "Chanayetharzan Township",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02)-30147, 34077"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Falam Branch",
+   "FIELD3": "No.(62), Vankau Street, Balai Quarter, Falam Township, Chin State.",
+   "FIELD4": "22.913066, 93.677403",
+   "FIELD5": "Falam",
+   "FIELD6": "Chin",
+   "FIELD7": "(070)40523~24, 40427"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mogaung Branch",
+   "FIELD3": "No. (Za/92-ka), Pyi Htaung Su Road, (4/Kyaung Yat) Zay Kone Quarter, Mogaung Township, Kachin State.",
+   "FIELD4": "25.302896, 96.937096",
+   "FIELD5": "Mogaung",
+   "FIELD6": "Kachin",
+   "FIELD7": "(074)40992~94, 40996~98"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Bamaw Branch 2",
+   "FIELD3": "Ahla(91), Ahleyat Quarter, Bamaw Township, Kachin State.",
+   "FIELD4": "24.257974, 97.227509",
+   "FIELD5": "Bamaw",
+   "FIELD6": "Kachin",
+   "FIELD7": "(074) 50090"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Phakant Branch 2",
+   "FIELD3": "No.(1/C-38), Main Road, MawShan Quarter, Sai Taung, Phakant Township, Kachin State.",
+   "FIELD4": "25.611997, 96.313510",
+   "FIELD5": "Phakant",
+   "FIELD6": "Kachin",
+   "FIELD7": "(074) 74071"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Municipal Market(1) Mini Branch 1",
+   "FIELD3": "No. (105, 106, 107, 108), Upper Municipal Market (1), Zay Yone (A), Myoma Quarter, Myitkyina Township, Kachin State.",
+   "FIELD4": "25.384317, 97.398934",
+   "FIELD5": "Myitkyina",
+   "FIELD6": "Kachin",
+   "FIELD7": "074 23 955"
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Myitkyina Mini Bank(2)",
+   "FIELD3": "No. (453/A), Beside of Pyi Htaung Hsu Road, Yuzana Quarter, Myitkyina Township, Kachin State.",
+   "FIELD4": "25.387961, 97.398600",
+   "FIELD5": "Myitkyina",
+   "FIELD6": "Kachin",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Pharkant Branch",
+   "FIELD3": "No.(13/E), No(1) Road, Ngapyawtaw Street, Hpakan Township, Kachin State.",
+   "FIELD4": "25.611997, 96.313510",
+   "FIELD5": "Hpakan Township",
+   "FIELD6": "Kachin State",
+   "FIELD7": "(074) 70914"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Bamaw Branch",
+   "FIELD3": "No.(32), Tharzi Quarter, Bamaw Township, Kachin State.",
+   "FIELD4": "24.257973, 97.227503",
+   "FIELD5": "Bamaw Township",
+   "FIELD6": "Kachin State",
+   "FIELD7": "(074) 50080, 50078"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Loikaw Branch 2",
+   "FIELD3": "No.(214), Lawpita Street, Lawdama Quarter, Loikaw Township, Kayah State.",
+   "FIELD4": "19.668122, 97.214452",
+   "FIELD5": "Loikaw",
+   "FIELD6": "Kayah",
+   "FIELD7": "(083)240042, 240043"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Loikaw Branch",
+   "FIELD3": "No.(10/B), Kandayawadi Road, Minsu Quarter, Zone(2), Loikaw Township, Kayah State.",
+   "FIELD4": "19.668122, 97.214452",
+   "FIELD5": " Loikaw Township",
+   "FIELD6": "Kayah State",
+   "FIELD7": "(083) 22890, 22891, 22892"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": " Kanbawza Bank Limited. Hpa An 2 Branch",
+   "FIELD3": "No.(23),BO Gyoke Street,Shwe Naung Pin,(5) Quarter, Hpa-an, Kayin State.",
+   "FIELD4": "16.918724, 97.366193",
+   "FIELD5": "Hpa-an",
+   "FIELD6": "Kayin",
+   "FIELD7": "(058)23447~49,23453~54"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Myawaddy 3 Branch",
+   "FIELD3": "No(345~348), Asia Road, (4)Block, Myawaddy, Kayin State.",
+   "FIELD4": "16.686816, 98.495022",
+   "FIELD5": "Myawaddy",
+   "FIELD6": "Kayin",
+   "FIELD7": " (058)51402,058-51404~07, 51410~11."
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Myawaddy Branch 2",
+   "FIELD3": "No-(86),Bayintnaung Street,(4)Quarter,Montea Township, Kayin State.",
+   "FIELD4": "16.688335, 98.509611",
+   "FIELD5": "Montea",
+   "FIELD6": "Kayin",
+   "FIELD7": "(058)51380, 51381, 51382"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Myawaddy Market Mini Bank",
+   "FIELD3": "U Paing No(9), Bayintnaung Main Road, (4) Quarter, Myawaddy Township, Kayin State.",
+   "FIELD4": "16.688589, 98.512315",
+   "FIELD5": "Myawaddy",
+   "FIELD6": "Kayin",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Myawaddy Branch",
+   "FIELD3": "No.(Ga/48), Bayintnaung Road, No.(3) Quarter, Myawady Township, Kayin State.",
+   "FIELD4": "16.686809, 98.495022",
+   "FIELD5": "Myawady Township",
+   "FIELD6": "Kayin State",
+   "FIELD7": "(058) 51151, 51152, 51153"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Kyimyindaing Branch",
+   "FIELD3": "No.(578), Lower Kyimyindine Road (Near Bagayar), PanHlaing Quarter, Kyimyindine Township, Yangon City, Yangon Region.",
+   "FIELD4": "16.799733, 96.126352",
+   "FIELD5": "Kyimyindine",
+   "FIELD6": "Kyimyindine",
+   "FIELD7": "(01) 508145, 508146, 508147, 508148, 508149, 508150"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. GanGaw Branch",
+   "FIELD3": "No.(13), Bogyoke Street, Sipintharyar Quarter, Gantgaw Township, Magway Region.",
+   "FIELD4": "22.170849, 94.126142",
+   "FIELD5": "Gantgaw",
+   "FIELD6": "Magway",
+   "FIELD7": " (062) 50729, 46530, 46531"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Salin Branch",
+   "FIELD3": "No.(55/59), Nayapatisithu Road, Zay Ma Quarter Salin Township, Magway Region.",
+   "FIELD4": "20.578745, 94.656209",
+   "FIELD5": "Zay Ma Quarter Salin",
+   "FIELD6": "Magway",
+   "FIELD7": "(063)42415, 42416, 42417"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Natmauk Branch",
+   "FIELD3": "No.(177), Magway Road, Zay Quarter, Nat Mauk Township, Magway Region.",
+   "FIELD4": "20.350361, 95.399244",
+   "FIELD5": "Nat Mauk",
+   "FIELD6": "Magway",
+   "FIELD7": "(063) 69701, 69702, 69703,69707"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. YayNanChaung Branch",
+   "FIELD3": "No. (126), No.(8) Yone Quarter, Bogyoke Street, Myoema Quarter (South), Yaynanchaung Township, Magway Region.",
+   "FIELD4": "20.460421, 94.872931",
+   "FIELD5": "Yaynanchaung",
+   "FIELD6": "Magway",
+   "FIELD7": "(060) 21739, 21740, 21741, 21742, 21743"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Magwe Branch 2",
+   "FIELD3": "No.(12), Corner of Bogyoke Street and BEHS(2) Street, Ywar Thit Pwe Kyo Quarter, Magway Township,Magway Region.",
+   "FIELD4": "20.151235, 94.922830",
+   "FIELD5": "Magway",
+   "FIELD6": "Magway",
+   "FIELD7": "(063) 28646, 28647"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Thayet Branch",
+   "FIELD3": "No.(176),Htarna Street, Shwe Bon Thar Quarter,Thayet Township,Magway Region.",
+   "FIELD4": "19.321469, 95.181765",
+   "FIELD5": "Thayet",
+   "FIELD6": "Magway",
+   "FIELD7": "(068) 21451, 21452, 21453, 21454, 21455"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Magway Myoma Market Mini Bank",
+   "FIELD3": "No. (1-2-3-4), Upper Zay Yone No(5), East Myoma Market, Magway District, Magway Region.",
+   "FIELD4": "19.321469, 95.181765",
+   "FIELD5": "East Myoma Market",
+   "FIELD6": "Magway",
+   "FIELD7": " "
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Magwe Branch",
+   "FIELD3": "No.(464-465), PyiTawThar Road, Yanmyoaung Quarter, Magway Township, Magway Region.",
+   "FIELD4": "20.150848, 94.939189",
+   "FIELD5": "Magway Township",
+   "FIELD6": "Magway Region.",
+   "FIELD7": "(063) 24057, 24058, 27719"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Min Bu Branch",
+   "FIELD3": "No.(15), (4) Quarter, MinBuu-Saku Road, MinBu Township, Magwe Region.",
+   "FIELD4": "20.184787, 94.870037",
+   "FIELD5": "MinBu",
+   "FIELD6": "Magwe",
+   "FIELD7": "(065) 21537, 21538"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. MDY14 BRANCH",
+   "FIELD3": "Building (16), (4)Floor, Pyigyi Mingalar Cargo Express Complex, Near Swaltaw Pagoda, Amayapura Township, Mandalay Region.",
+   "FIELD4": "21.923305, 96.085375",
+   "FIELD5": "Amayapura",
+   "FIELD6": "Mandalay",
+   "FIELD7": " (02)5155104, 5155105, 5155109"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay 15, 32 Street Branch",
+   "FIELD3": "No.(283)Street, Between 83 Street and 84 Street,Aung Nan Yeik Thar(East) Chanayetharzan Township, Mandalay Region. ",
+   "FIELD4": "21.985144, 96.077996",
+   "FIELD5": "Chanayetharzan",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 67061"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay 16, 85 Street Branch",
+   "FIELD3": "No.(113-Ka), Block(565), (85) Street, Between 32 Street and 33 Street, Aungnang Yeik Thar Quarter(West), Chanayetharzan Township, Mandalay Region.",
+   "FIELD4": "21.974234, 96.075616",
+   "FIELD5": "Chanayetharzan ",
+   "FIELD6": "Mandalay",
+   "FIELD7": " (02) 65365, 67177,21324"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Meikhtila Branch 4",
+   "FIELD3": "No.(7,8), Room(B), Aung Zaya Quarter, Meikhtila Township, Mandalay Region.",
+   "FIELD4": "20.888677, 95.868285",
+   "FIELD5": "Meikhtila",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(064)23726, 09-798777782, 09-798777783,\n09-798777784"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": " Kanbawza Bank Limited. Nahtogyi Branch",
+   "FIELD3": "No.(416/480), 4 Quarter, Nahtogyi Township, Mandalay Region.",
+   "FIELD4": "21.429469, 95.656936",
+   "FIELD5": "Nahtogyi",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(066) 80676, 80677"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Myittha Branch",
+   "FIELD3": "No.(4/ka-4/Kha),Bogyoke Street,Shan Pwel Quarter, Myitthar Yat, Mandalay Region.",
+   "FIELD4": "21.423542, 96.130686",
+   "FIELD5": "Myitthar",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(066) 60065, 60393, 60141"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": " Kanbawza Bank Limited. 73 Street (Mandalay) Branch",
+   "FIELD3": "No.(5),73 Street, Between 29 Street and 30 Street, A Kwyat No.(738),Patkonewinkyin Quarter, Chan Aye Tharzan Township, Mandalay Region. ",
+   "FIELD4": "21.977332, 96.095804",
+   "FIELD5": "Chan Aye Tharzan",
+   "FIELD6": "Mandalay",
+   "FIELD7": " (02) 60084, 60085, 60086"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Myauk Pyin Branch",
+   "FIELD3": "No.(92),80 Street, Corner of 11 Street and 12 Street, Ahmayahtarni Western Quarter, Aung Myay Thar Zan Township, Mandalay Region.",
+   "FIELD4": "22.004360, 96.085577",
+   "FIELD5": "Aung Myay Thar Zan",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02)75637, 75638, 75639, 39993"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Man Myo Thit MAN MYO THIT Branch",
+   "FIELD3": "No.(Ta-4/43),62 Street, Corner of Ngu Pyar Street and Thazin Street, Myothit 1 Quarter, Chanmyatharsi Township, Mandalay Region.",
+   "FIELD4": "21.992020, 96.113796",
+   "FIELD5": "Chanmyatharsi ",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02)62069,81653"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Bank Ltd.Mandalay 30 Branch",
+   "FIELD3": "No.(15-Kha), 73 Street, Between 37 Street and 38 Street, Sat Kyar Nwe Sin Quarter, Ma Har Aung Myay Township, Mandalay Region. ",
+   "FIELD4": "21.941636, 96.092412",
+   "FIELD5": "Ma Har Aung Myay",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02)62380, 62394, 62396"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": " Kanbawza Bank Limited. Mandalay 31 Branch",
+   "FIELD3": "No(35), Akwat No(256), (87)street, Between 30 Street and 31 Street, Pyigyipyawbwel East Block, Chanayetharzan Township, Mandalay Region.",
+   "FIELD4": "21.974229, 96.075612",
+   "FIELD5": "Chanayetharzan ",
+   "FIELD6": "Mandalay",
+   "FIELD7": " (02)67327"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": " Kanbawza Bank Limited. Meikhtilar 5 Branch",
+   "FIELD3": "No(19/8, Pyi Thar Yar), Between Pyi Thar Yar (2)St and (3)St, Beside Yangon-Mandalay Road, Pyi Thar Yar Quarter, Meikhtila Township, Mandalay Region",
+   "FIELD4": "20.877066, 95.859210",
+   "FIELD5": "Meikhtila ",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(064)2035211,2035468,2035469,2035483,2035484"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay 32 Branch",
+   "FIELD3": "No(3+4+11),Akywet No(169), Corner of(84*24), Pyigyikyattayay Bolck, Aung Myay Thar Zan Township,Manadaly Region.",
+   "FIELD4": "21.985144, 96.077997",
+   "FIELD5": "Aung Myay Thar Zan",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 69071~73"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay-33 Branch",
+   "FIELD3": "No(453), Corner of 33 street and 81 Street, Akwet No(556), East Aung Nan Yeik Thar Block, Chan Aye Thar Zan Township, Mandalay City, Mandalay Region.",
+   "FIELD4": "21.972353, 96.082328",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02)69712~14."
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay-34 Branch",
+   "FIELD3": "No(23), Akwet No(146), (19)Street, Between 8o Street and 81 Street, May Ga Thiri Block, Aung Myay Thar Zan Township, Mandalay City, Mandalay Region.",
+   "FIELD4": "21.993402, 96.084456",
+   "FIELD5": "Aung Myay Thar Zan",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02)60093,97,99,\n02-60109,60132~60135."
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay-35 Branch",
+   "FIELD3": "No(32), Akwet No(817), (62)Street, Between 31 Street and 32 Street, PyiGyiMyat Shin Block, Chan Aye Thar Zan Township, Mandalay City, Mandalay Region.",
+   "FIELD4": "21.972544, 96.112639",
+   "FIELD5": "Chan Aye Thar Zan",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02)69216~18."
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay-36 Branch",
+   "FIELD3": "No(1), Block (7), Mingalar Mandalay Project, (73) Street, Between Thazin Street and Ngu Shwe Wah Street,\nMyo Thit(1) Quarter, Chan Mya Thar Si Township, Mandalay Region.",
+   "FIELD4": "21.941953, 96.093147",
+   "FIELD5": " Chan Mya Thar Si",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 2000160, 2000161, 2000162, 2000163, 2000164"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. PyawBwe Branch",
+   "FIELD3": "No.(168), Maharbandoola Street, Myinbat Quarter, Pyawbwe Township, Mandalay Region.",
+   "FIELD4": "20.589681, 96.052382",
+   "FIELD5": "Pyawbwe",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(064) 48001, 48002, 48005"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay -7 Branch(80 Street)",
+   "FIELD3": "No.(462), 80 Street, Between 28 Street and 29 Street, Chanayetharzan East Quarter, Chanayetharzan Township,\nMandalay Region.",
+   "FIELD4": "21.975010, 96.084052",
+   "FIELD5": "Chanayetharzan",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 30741, 30742"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Nyaung Oo Branch",
+   "FIELD3": "N0.(13/C),Anaw Yahtar Road, (3) Quarter, Aungtheintdi Yat, NyaungOo Township, Mandalay Region.",
+   "FIELD4": "21.195421, 94.907181",
+   "FIELD5": "NyaungOo",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(061) 61065, 61089"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Yamethin Branch",
+   "FIELD3": "No.(102), Quarter No (28), Aung Mingalar Quarter, Yamethin Township, Mandalay Region.",
+   "FIELD4": "20.429485, 96.138858",
+   "FIELD5": "Yamethin",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(064) 40554, 40779, 40599"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay (28) Street Branch ",
+   "FIELD3": "No.(313), 28 Street, Between 83 Street and 84 Street, Chanayetharzan (Middle) Quarter, Chanayetharzan Township, Mandalay Region.",
+   "FIELD4": "21.980400, 96.078176",
+   "FIELD5": "Chanayetharzan",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 30759, 30760, 30761"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Amarapura Branch",
+   "FIELD3": "No.(117), Oae Taw Quarter, Yay twin nyi naung, Sagaing-Mandalay Road, Mandalay City, Mandalay Region.",
+   "FIELD4": "21.979567, 96.084203",
+   "FIELD5": "Mandalay",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 59836, 59482"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay Branch - 9 (26th Street)",
+   "FIELD3": "No.(799), U Paing (30-C). (26) Street, Between 62 Street and 63 Street, Pyaygyimyatshin Quarter, Chanayetharzan\nTownship, Mandalay Region.",
+   "FIELD4": "21.979555, 96.084203",
+   "FIELD5": "Chanayetharzan",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 66459, 73693"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay-10 (35th Street Branch)",
+   "FIELD3": "No.(313), 35 Street ,Between 82 Street and 83 Street, Mahaaungmyay Township, Mandalay Region. ",
+   "FIELD4": "21.979558, 96.084205",
+   "FIELD5": "Mahaaungmyay",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 30631, 30632"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay-11 (84th Street Branch)",
+   "FIELD3": "No.(603), (84)Street, Between (42) Streetand (45) Street, Shwephoneshein Quarter, Maha Aung Myay Township, Mandalay Region.",
+   "FIELD4": "22.004359, 96.085577",
+   "FIELD5": "Maha Aung Myay",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 76450, 76451, 76491"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Ltd. Meikhtila Branch 2",
+   "FIELD3": "No.(104), Tataroo Street, Pantaintann, (4) Quarter, Meiktila Township, Mandalay Region.",
+   "FIELD4": "20.877065, 95.859213",
+   "FIELD5": "Meiktila",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(064) 25891, 25892"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Ltd. Mandalay-12 (Manawhari Branch)",
+   "FIELD3": "No.(Ga-2/71), 62 Street, Between Manawhari Street and Seinpan Street, Chanmyatharzi Township, Mandalay Region. ",
+   "FIELD4": "20.877065, 95.859213",
+   "FIELD5": "Chanmyatharzi",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 82145, 82146"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Windwin Branch",
+   "FIELD3": "No.(37/68), Wundwin-Thaetaw Road, No.(3) Myoma Quarter, Wundwin Twonship, Mandalay Region.",
+   "FIELD4": "21.731556, 96.108424",
+   "FIELD5": "Wundwin",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(064) 50786, 50787, 50788, 0789,50790,50793"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay 17 Branch",
+   "FIELD3": "No.(1-Tha/1),Pyi Gyi Myat Mhan Quarter, Chanayethazan Township, Mandalay Region.",
+   "FIELD4": "21.981333, 96.106648",
+   "FIELD5": "Chanayethazan",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 67071, 67072, 67073"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mogoke-2 (Kyatpyin) Branch",
+   "FIELD3": "No.(Ma/265), Kyat Pyin Myoma Quarter, Mogoke Township, Mandalay Region.",
+   "FIELD4": "22.918937, 96.500239",
+   "FIELD5": "Mogoke",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(086)-25461, 25464"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mahlaing Branch",
+   "FIELD3": "No.(105),(B/Kha),Zay Myout Bat Lan,Quarter(4), MaHlaing Township, Mandalay Region.",
+   "FIELD4": "21.103400, 95.643845",
+   "FIELD5": "MaHlaing",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(064) 60647~48"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay 18 Branch",
+   "FIELD3": "No.(7), (62)nd Street, Between 37 Street and 38 Street, Maharmyine (2) Quarter, Maharaungmyay Township, Mandalay Region.",
+   "FIELD4": "21.981332, 96.106644",
+   "FIELD5": "Maharaungmyay",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02)33541"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay 19 (Theik Pan Lane) Branch",
+   "FIELD3": "No.(13-Ga), Between 66 Street and 67 Street, Maharmyaing Quarter, Maharaungmyay Township, Mandalay Region.",
+   "FIELD4": "21.981329, 96.106648",
+   "FIELD5": "Maharaungmyay",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02)77702, 77783"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay 20 (Saing Tan) Branch",
+   "FIELD3": " No. (19), 26 Street, Between 88 Street and 89 Street, Thirihaymar(East) Quarter, Chanayetharzan Township, Mandalay Region.",
+   "FIELD4": "21.981329, 96.106648",
+   "FIELD5": "Chanayetharzan",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 67078, 67079, 67080"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mandalay 62 Street Branch",
+   "FIELD3": "No. (3-kha), 62 Street, Between 19 Street and 20 Street, Ahnaketaw Quarter, Aungmyaytharsan Township, Mandalay Region.",
+   "FIELD4": "21.951969, 96.104238",
+   "FIELD5": "Aungmyaytharsan",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 61049, 61056, 61058, 61064, 61083"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Mingalar Mandalay Branch",
+   "FIELD3": "Room(2), Block(7), 73 Street, Between Thazin Street & Ngushwewar Street, ChanMyaTharzi Township,\nMandalay Region. ",
+   "FIELD4": "21.943198, 96.093286",
+   "FIELD5": "ChanMyaTharzi",
+   "FIELD6": "Mandalay",
+   "FIELD7": "09-250901645, 09-250901646,09-250901647"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Madaya Branch",
+   "FIELD3": "No. (DU-41), No. (288-Kha/2). NO-2 Myoethit, Corner of Bayintnaung Street and 25 Street, Mandalay Township, Mandalay Region.",
+   "FIELD4": "21.981333, 96.106645",
+   "FIELD5": "Mandalay",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(02) 79990, 79983, 79984, 79985"
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kanbawza Bank Limited. Pyinoolwin 3 Branch",
+   "FIELD3": "No. (249/D), West Nyantaw(12), Mandalay-Lashio Road,(2) Quarter, Pyin Oo Lwin Township, Mandalay Region.",
+   "FIELD4": "21.981333, 96.106645",
+   "FIELD5": "Pyin Oo Lwin",
+   "FIELD6": "Mandalay",
+   "FIELD7": "(085) 28450~53,28465, 28466"
+ }
+]

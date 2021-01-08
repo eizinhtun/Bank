@@ -1,0 +1,295 @@
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:scrollbars="vertical"
+    tools:context="com.upper.team1726.bankbox.fragment.LoanFragment.YomaLoanFragment">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loancalculate" />
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/card_margin"
+            android:layout_marginLeft="@dimen/card_margin"
+            android:layout_marginRight="@dimen/card_margin"
+            android:layout_marginTop="@dimen/text_margin"
+            android:background="@color/button_text">
+
+            <TextView
+                android:id="@+id/tvYomaTearm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:drawableRight="@drawable/downarrow"
+                android:text="Tearm Loans"
+                android:textSize="@dimen/card_text_size"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvYomaTearmInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:layout_marginRight="@dimen/text_margin"
+                android:layout_marginTop="@dimen/card_interval_margin"
+                android:visibility="gone" />
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/card_margin"
+            android:background="@color/button_text">
+
+            <TextView
+                android:id="@+id/tvYomaHire"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:drawableRight="@drawable/downarrow"
+                android:text="Hire Purchase"
+                android:textSize="@dimen/card_text_size"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tvYomaHireInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:layout_marginRight="@dimen/text_margin"
+                android:layout_marginTop="@dimen/card_interval_margin"
+                android:visibility="gone" />
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/card_margin"
+            android:background="@color/button_text">
+
+            <TextView
+                android:id="@+id/tvYomaOverDraft"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:drawableRight="@drawable/downarrow"
+                android:text="Overdraft"
+                android:textSize="@dimen/card_text_size"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tvYomaOverDraftInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:layout_marginRight="@dimen/text_margin"
+                android:layout_marginTop="@dimen/card_interval_margin"
+                android:visibility="gone" />
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/card_margin"
+            android:background="@color/button_text">
+
+            <TextView
+                android:id="@+id/tvYomaTemOver"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:drawableRight="@drawable/downarrow"
+                android:text="Temporary Overdraft"
+                android:textSize="@dimen/card_text_size"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tvYomaTemOverInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:layout_marginRight="@dimen/text_margin"
+                android:layout_marginTop="@dimen/card_interval_margin"
+                android:visibility="gone" />
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/card_margin"
+            android:background="@color/button_text">
+
+            <TextView
+                android:id="@+id/tvYomaLien"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:drawableRight="@drawable/downarrow"
+                android:text="Lien Loans"
+                android:textSize="@dimen/card_text_size"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tvYomaLienInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:layout_marginRight="@dimen/text_margin"
+                android:layout_marginTop="@dimen/card_interval_margin"
+                android:visibility="gone" />
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/card_margin"
+            android:background="@color/button_text">
+
+            <TextView
+                android:id="@+id/tvYomaShare"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:drawableRight="@drawable/downarrow"
+                android:text="Share Loans"
+                android:textSize="@dimen/card_text_size"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tvYomaShareInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:layout_marginRight="@dimen/text_margin"
+                android:layout_marginTop="@dimen/card_interval_margin"
+                android:visibility="gone" />
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/card_margin"
+            android:background="@color/button_text">
+
+            <TextView
+                android:id="@+id/tvYomaGold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:drawableRight="@drawable/downarrow"
+                android:text="Gold Loans"
+                android:textSize="@dimen/card_text_size"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tvYomaGoldInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:layout_marginRight="@dimen/text_margin"
+                android:layout_marginTop="@dimen/card_interval_margin"
+                android:visibility="gone" />
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/kbz_od_card_view"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/card_margin"
+            android:background="@color/button_text">
+
+            <TextView
+                android:id="@+id/tvYomaPledge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:drawableRight="@drawable/downarrow"
+                android:text="Pledge Loans"
+                android:textSize="@dimen/card_text_size"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tvYomaPledgeInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:layout_marginRight="@dimen/text_margin"
+                android:layout_marginTop="@dimen/card_interval_margin"
+                android:visibility="gone" />
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/card_margin"
+            android:background="@color/button_text">
+
+            <TextView
+                android:id="@+id/tvYomaHome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:drawableRight="@drawable/downarrow"
+                android:text="Home Loan"
+                android:textSize="@dimen/card_text_size"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tvYomaHomeInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/text_margin"
+                android:layout_marginLeft="@dimen/text_margin"
+                android:layout_marginRight="@dimen/text_margin"
+                android:layout_marginTop="@dimen/card_interval_margin"
+                android:visibility="gone" />
+
+        </android.support.v7.widget.CardView>
+
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableLayout
+        android:id="@+id/tb_loan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/tvLoanBank"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="32dp"
+                android:layout_weight="1"
+                android:text="Bank"
+                android:textColor="@color/textColor"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:id="@+id/spLoanBank"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@id/tvLoanBank"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="end"
+                android:layout_marginRight="32dp"
+                android:layout_weight="1" />
+        </TableRow>
+
+
+        <TableRow>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="16dp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/tvLoan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="32dp"
+                android:layout_weight="1"
+                android:text="LOAN"
+                android:textColor="@color/textColor"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:id="@+id/spLoan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@id/tvLoan"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="end"
+                android:layout_marginRight="32dp"
+                android:layout_weight="1" />
+        </TableRow>
+
+
+        <TableRow>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="16dp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/tvLoanAmount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="32dp"
+                android:layout_weight="1"
+                android:text="Amount"
+                android:textColor="@color/textColor"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/etLoanAmount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@id/tvLoanAmount"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="end"
+                android:layout_marginRight="32dp"
+                android:layout_weight="1"
+                android:background="@drawable/inputborder"
+                android:inputType="number" />
+        </TableRow>
+
+
+        <TableRow>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="16dp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/tvDuration"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="32dp"
+                android:layout_weight="1"
+                android:text="Duration"
+                android:textColor="@color/textColor"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:id="@+id/spLoanDuration"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@id/tvDuration"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="end"
+                android:layout_marginRight="32dp"
+                android:layout_weight="1" />
+        </TableRow>
+
+
+        <TableRow>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="16dp" />
+        </TableRow>
+
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/tvLoanInterest_one"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="32dp"
+                android:layout_weight="1"
+                android:text="Interest Rate"
+                android:textColor="@color/textColor"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvLoanInterest_two"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@id/tvLoanInterest_one"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="end"
+                android:layout_marginRight="32dp"
+                android:layout_weight="1" />
+        </TableRow>
+
+
+        <TableRow>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="16dp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/tvBlank"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="32dp"
+                android:layout_weight="1"
+                android:textColor="@color/textColor"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btnCalculate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@id/tvBlank"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="end"
+                android:layout_marginRight="32dp"
+                android:layout_weight="1"
+                android:text="Calculate" />
+        </TableRow>
+
+
+    </TableLayout>
+
+
+    <TableLayout
+        android:id="@+id/tb_loan_result"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tb_loan">
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_above="@id/tb_loan_result"
+            android:layout_below="@id/tb_loan" />
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/tvResult_one"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="32dp"
+                android:text="RESULT_ONE"
+                android:textColor="@color/textColor"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvResult_two"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@id/tvResult_one"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="end"
+                android:layout_marginRight="32dp"
+                android:layout_weight="1"
+                android:background="@drawable/inputborder" />
+
+
+        </TableRow>
+
+
+        <TableRow>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="16dp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/tvResult_three"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="32dp"
+                android:text="RESULT_TWO"
+                android:textColor="@color/textColor"
+                android:textStyle="bold"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/tvResult_four"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@id/tvResult_three"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="end"
+                android:layout_marginRight="32dp"
+                android:layout_weight="1"
+                android:background="@drawable/inputborder" />
+
+
+        </TableRow>
+
+
+        <TableRow>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="16dp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/tvResult_five"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="32dp"
+                android:text="RESULT_THREE"
+                android:textColor="@color/textColor"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvResult_six"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@id/tvResult_five"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="end"
+                android:layout_marginRight="32dp"
+                android:layout_weight="1"
+                android:background="@drawable/inputborder" />
+
+
+        </TableRow>
+
+
+    </TableLayout>
+
+</RelativeLayout>

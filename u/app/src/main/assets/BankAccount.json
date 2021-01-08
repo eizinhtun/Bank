@@ -1,0 +1,172 @@
+[
+	{
+		"Bank": "KBZ",
+		"Account": "Call Deposit Saving Account",
+		"Description": " <ul><li><b>Benefits of daily basic</b> <li>type: &nbsp <b>saving</b> <li>interest:&nbsp <b> 6% per year</b> <li>initial deposit:&nbsp<b> 100,000 MMK</b> <li><li>minimum balance: &nbsp<b>100,000 MMK</b></ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Account": "Saving Deposit Account",
+		"Description": " <ul><li><b>Interest can be withdrawn quaterly(four times a year)</b><li>If no interest is withdrawn during each quarter, the interest is added to your account<li>type:&nbsp<b> saving</b> <li>interest:&nbsp <b> 8.25% per year </b><li>initial deposit: &nbsp <b> 1000 MMK</b><li>minimum balance: &nbsp <b> 1000 MMK </b></ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Account": "Fixed Deposit Account",
+		"Description": " <ul><li><b>Suitable for individuals interested in long-term deposit</b><li> High interest rates depending on the length of the deposit<li>type:&nbsp<b> fixed</b><li>interest: &nbsp<b> 9%(1month) 9.25%(3months)<br> &nbsp &nbsp &nbsp &nbsp &nbsp  9.5%(6months) 9.75%(9months)</b><li>initial deposit: &nbsp <b>1000 MMK</b><li>minimum balance: &nbsp <b>1000 MMK</b></ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Account": "Children Saving Account",
+		"Description": " <ul><li><b>Perfect environment for your child to practise the habit of saving money</b><li>type: &nbsp<b> saving</b><li>interest:  &nbsp<b>8.25% per annual</b><li>initial deposit: &nbsp<b>1000 MMK</b><li>minimum balance:&nbsp<b> 1000 MMK</b></ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Account": "SuPwar Deposit Account",
+		"Description": "<ul><li><b>Suitable for individuals interested in long-term deposits</b><li>For Myanmar citizen only<li>type:&nbsp<b> saving</b><li>interest:&nbsp<b> 9.25%(1year) 9.5(2year) 10%(3year)</b></ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Account": "Current Acount",
+		"Description": "<ul><li><b>Local currency</b><li>Account holders will be issue with a chequebook<li>No interest<li>initial deposit: &nbsp<b>1000 MMK</b><li>minimal balance:&nbsp<b> 1000 MMK</b></ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Account": "Foreign Currency Account",
+		"Description": "<ul><li><b>Foreign currency</b><li>Eligible currencies:&nbsp<b> USD,EURO,SGD </b><li>No interest <li>initial deposit: &nbsp<b>100(USD,EURO,SGD)</b><li>minimum balance:&nbsp<b> 20(USD, EURO, SGD)</b></ul>"
+	},
+	{
+		"Bank": "AGD",
+		"Account": "Savings Account",
+		"Description": "<ul><li>interest rate:&nbsp<b> 8.6% per year </b> <li><b>Able to withdraw every 3 months</b><li>initial deposit: &nbsp<b>1,000 MMK</b><li>minimum balance:&nbsp<b> 1,000 MMK</b></ul>"
+	},
+	{
+		"Bank": "AGD",
+		"Account": "Fixed Deposit Account",
+		"Description": "<ul><li><b>interest rates:</b><ul><li>1 month:&nbsp<b> 9% per year </b><li>3 months:&nbsp<b> 9.25% per year </b><li>6 months:&nbsp<b> 9.5% per year </b><li>9 months:&nbsp<b> 9.75% per year </b><li>12 months:&nbsp<b> 10% per year </b></ul> <li>Able to withdraw as per respective months above <li>initial deposit: &nbsp<b>10,000 MMK</b></ul>"
+	},
+	{
+		"Bank": "AGD",
+		"Account": "Special Deposit Account",
+		"Description": "<ul><li>interest rate:&nbsp<b> 6% per year </b><li>Interest rate is accrued daily but withdrawable every month <li>initial deposit: &nbsp<b>10,000,000 MMK</b><li>minimum balance:&nbsp<b> 1,000 MMK</b></ul>"
+	},
+	{
+		"Bank": "AGD",
+		"Account": "Current Account",
+		"Description": "<ul><li>initial deposit: &nbsp<b>1,000 MMK</b><li>minimum balance:&nbsp<b> 1,000 MMK</b><li></ul>"
+	},
+	{
+		"Bank": "AGD",
+		"Account": "Foreign Currency Account",
+		"Description": "<ul><li><b>Foreign currency</b><li>Eligible currencies:&nbsp<b> USD/EURO/SGD </b> <li>initial deposit: &nbsp<b>100(USD/EURO/SGD)</b><li>maximum withdrawal amount :&nbsp<b> 10,000 USD</b></ul>"
+	},
+	{
+		"Bank": "CB",
+		"Account": "Smart Savings",
+		"Description": " <ul><li><b>Withdrawals can be made any time</b><li>type:&nbsp<b> saving</b> <li><b>interest:</b><ul><li>Under 10 Million&nbsp<b> 8.25% per year </b><li>Between 10 Million and 50 Million:&nbsp<b> 8.35% per year </b><li>Above 50 Million:&nbsp<b> 8.5% per year </b></ul><li>initial deposit: &nbsp <b> 1000 MMK</b><li>minimum balance: &nbsp <b> 1000 MMK </b></ul>"
+	},
+	{
+		"Bank": "CB",
+		"Account": "Traditional Savings Deposit Account (or) Passbook Savings",
+		"Description": " <ul><li>This account may be made by<b> cash deposit over the counter and check payment, payment order, fund transfer, collection and clearing system.</b><li>type:&nbsp<b> saving</b> <li>interest:&nbsp <b> 8.25% per year </b><li>initial deposit: &nbsp <b> 1000 MMK</b></ul>"
+	},
+	{
+		"Bank": "CB",
+		"Account": "Current Account",
+		"Description": " <ul><li><b>This account can be opened as individual, Joint or Company/ Association account</b><li>Bank Statements will be sent at the end of each month<li><li>initial deposit: &nbsp <b> 1000 MMK</b></ul>"
+	},
+	{
+		"Bank": "CB",
+		"Account": "CB Youth",
+		"Description": " <ul><li>CB bank provides CB Youth services to the students to encourage for saving their money in better way and to be practice in managing their money for their future<li>type:&nbsp<b> saving</b> <li>Interest UP to <b> 8.5%</b><li>Mobile Banking Services<li>eAlert<li>eStatement<li>Initial Deposit:&nbsp<b>2,000 MMK</b></ul>"
+	},
+	{
+		"Bank": "CB",
+		"Account": "eSavings",
+		"Description": "<b>Services of eSavings</b><ul><li> interest:&nbsp <b> 8.25% per year 8.5% for above 500 lakh</b><li>Easi Smart MPU Card<li>Mobile Banking Services<li>eStatement<li>eAlert<li>initial deposit: &nbsp <b> 1000 MMK</b></ul>"
+	},
+	{
+		"Bank": "CB",
+		"Account": "Fixed Deposit Account",
+		"Description": " <b>Interest rate:</b><ul><li>1 month:&nbsp<b> 9% per year </b><li>3 months:&nbsp<b> 9.25% per year </b><li>6 months:&nbsp<b> 9.5% per year </b><li>9 months:&nbsp<b> 9.75% per year </b><li>12 months and more:&nbsp<b> 10% per year </b></ul>"
+	},
+	{
+		"Bank": "CB",
+		"Account": "Minor Deposit Account",
+		"Description": " <ul><li><b>For children under 18</b><li>This account can be opened as savings account or fixed account <li>interest:&nbsp <b> 8.25% per year </b><li>initial deposit: &nbsp <b> 1000 MMK</b></ul>"
+	},
+	{
+		"Bank": "CB",
+		"Account": "Wedding Deposit Account",
+		"Description": " <ul><li><b>Newly weds, both man and wife, or either man or wife must come in person to the bank</b><li>Deposit must be made at least for a period of one year<li>interest:&nbsp <b> 10% per year </b><li>initial deposit: &nbsp <b> 1,000,000 MMK</b></ul>"
+	},
+	{
+		"Bank": "CB",
+		"Account": "Foreign Currency Account",
+		"Description": "<ul><li><b>Foreign currency</b><li>Eligible currencies:&nbsp<b> USD/EURO/SGD </b> <li>initial deposit: &nbsp<b>100(USD/EURO/SGD)</b></ul>"
+	},
+	{
+		"Bank": "CB",
+		"Account": "Foreigner's Account for Local Currency Deposit",
+		"Description": " <ul><li><b>Current Account can be opened for foreigner's account at CB Bank</b><li>initial deposit: &nbsp <b> 1000 MMK</b></ul>"
+	},
+	{
+		"Bank": "CB",
+		"Account": "Call Deposit",
+		"Description": " <ul><li><b>CB Bank's Call Deposit allows you to get your interest on your account's day-end balance</b><li>You will get the quarterly interest<li>interest:&nbsp <b> 6% per year </b></ul>"
+	},
+	{
+		"Bank": "AYA",
+		"Account": "AYA Current Account",
+		"Description": " <ul><li><b>A Cheque book is provided to customer to allow an easy access for payment</b><li>No interest<li>Minimum Balance: &nbsp <b> 1000 MMK</b></ul>"
+	},
+	{
+		"Bank": "AYA",
+		"Account": "AYA Foreign Currency Account",
+		"Description": " <ul><li><b>Foreign currency account is a non-interest bearing current account</b><li>Non – Interest<li>Minimum Balance <ul><li>USD 50 or equivalent for Non-individual<li>USD 10 or equivalent for individual</ul><li>Currencies:&nbsp<b> USD,EURO,SGD </b></ul>"
+	},
+	{
+		"Bank": "AYA",
+		"Account": "AYA Seafarer Saving Account",
+		"Description": " <ul><li><b>This account is designed specially for Myanmar seafarers.</b><li>The product package consists of a Demand Account in USD, a Savings account in Kyat and a AYA Debit card<li>Seafarers will be able to conveniently remit their payroll to their bank account.<li>Minimum Balance Requirement :&nbsp <b> USD 10 for USD Demand Account and MMK10,000 for MMK Saving Account</b></ul>"
+	},
+	{
+		"Bank": "AYA",
+		"Account": "AYA Saving Account",
+		"Description": " <ul><li><b>Saving account is an interest bearing account for individuals who want to save and earn interest on the excess cash.</b><li>interest:&nbsp <b> 8.25% per year </b><li>minimum balance: &nbsp <b> 1,000 MMK</b></ul>"
+	},
+	{
+		"Bank": "AYA",
+		"Account": "AYA Interest Maximizer Account",
+		"Description": " <ul><li><b>AYA Interest Maximizer Account is an interest bearing account with the chance of obtaining bonus and interest at the same time</b><li>he bonus is rewarded upon maintaining the minimum balance of <b>100,000MMK every month </b>and a minimum deposit of <b>10,000MMK every month</b>.<li>interest:<ul><li>Normal Interest <b>8.25% p.a </b><li>Bonus Interest <b>0.25% p.a</b></ul><li>minimum balance: &nbsp <b>1000 MMK </b></ul>"
+	},
+	{
+		"Bank": "AYA",
+		"Account": "AYA Loyal Account",
+		"Description": " <ul><li><b>AYA Loyal Account is an interest bearing account with the option of obtaining bonus interest</b><li>The bonus 0.5%p.a is rewarded upon maintaining the minimum balance of <b>500,000 MMK </b>in the account for the<b> last 3 months</b><li>interest:<ul><li>Normal Interest <b>8.25% p.a </b><li>Bonus Interest <b>0.25% p.a</b></ul><li>minimum balance: &nbsp <b>1000 MMK </b></ul>"
+	},
+	{
+		"Bank": "AYA",
+		"Account": "AYA Fixed Deposit",
+		"Description": " <ul><li><b>AYA Time Deposit is ideal for the individual who has excess cash for an extended period of time.</b><li>interest:<ul><li>1 Month Time Deposit:  <b>8.5% P.A </b><li>3 Months Time Deposit:   <b> 9.0% P.A</b><li>6 Months Time Deposit:   <b> 9.50% P.A</b><li>9 Months Time Deposit:   <b> 9.75% P.A</b><li>12 Months Time Deposit:   <b> 10% P.A</b></ul><li>minimum balance: &nbsp <b>10,000 MMK </b></ul>"
+	},
+	{
+		"Bank": "YOMA",
+		"Account": "Call Deposit Account",
+		"Description": " <ul><li><b>Interest will be calculated daily and can be withdrawn every month..</b><li>interest: &nbsp <b>6% per year</b><li>minimum balance: &nbsp <b>100,000 MMK </b></ul>"
+	},
+	{
+		"Bank": "YOMA",
+		"Account": "Current Account",
+		"Description": " <ul><li><b>Provide you with a cheque book and access to the Yoma Certified Cheque service.</b><li>A Yoma Bank Current Account makes you eligible to apply for loans.</ul>"
+	},
+	{
+		"Bank": "YOMA",
+		"Account": "Saving Deposit Account",
+		"Description": " <ul><li><b>To earn interest, just make your deposit before the 5th of each month and hold it until the end of the month.</b><li>interest: &nbsp 8.25% per year<li>Interest accrues daily<li>Interest is paid quarterly</ul>"
+	},
+	{
+		"Bank": "YOMA",
+		"Account": " Fixed Deposit Account",
+		"Description": " <ul><li>Fixed Deposit terms are available at 1, 3, 6, 9, or 12 months, and earn higher interest rates the longer the tenor<li>Apart from the interest earned, cash deposited can also be used as collateral for lien loans<li>interest:<ul><li>1 Month:  <b>9% P.A </b><li>3 Months:   <b> 9.25% P.A</b><li>6 Months Time Deposit:   <b> 9.5% P.A</b><li>9 Months Time Deposit:   <b> 9.75% P.A</b><li>12 Months Time Deposit:   <b> 10% P.A</b></ul></ul>"
+	}
+]

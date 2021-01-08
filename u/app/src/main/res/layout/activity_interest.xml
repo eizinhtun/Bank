@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".activity.InterestActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <!--  <android.support.v7.widget.Toolbar
+              android:id="@+id/toolbar"
+              android:layout_width="match_parent"
+              android:layout_height="?attr/actionBarSize"
+              android:background="?attr/colorPrimary"
+              app:layout_scrollFlags="scroll|enterAlways"
+              app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+              />-->
+        <android.support.v7.widget.Toolbar
+
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/card_margin"
+        android:paddingRight="@dimen/card_margin"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <GridLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/topMargin"
+            android:layout_weight="0.8"
+            android:columnCount="1"
+            android:rowCount="3">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusableInTouchMode="true"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/button_margin"
+                    android:text="Bank"
+                    android:textColor="@color/textColor"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/spInterestBank"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+
+                <!-- <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginBottom="@dimen/topMargin"
+                    android:background="@color/colorAccent" />-->
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/button_margin"
+                    android:layout_marginTop="@dimen/topMargin"
+                    android:text="Account Type"
+                    android:textColor="@color/textColor"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/spAccountType"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+
+                <!--<View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginBottom="@dimen/topMargin"
+                    android:background="@color/colorAccent" />-->
+
+
+                <!-- <android.support.design.widget.TextInputLayout
+                    android:id="@+id/text_input_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Amount">-->
+
+
+                <EditText
+                    android:id="@+id/etInterestAmount"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Amount"
+                    android:inputType="numberDecimal"
+                    android:maxLength="26"
+                    app:backgroundTint="@color/colorAccent" />
+                <!--  </android.support.design.widget.TextInputLayout>-->
+
+                <LinearLayout
+                    android:id="@+id/spLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/topMargin">
+
+                    <EditText
+                        android:id="@+id/etDuration"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/card_text_margin"
+                        android:hint="Number of days"
+                        android:inputType="number"
+                        android:maxLength="4"
+                        app:backgroundTint="@color/colorAccent" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </GridLayout>
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/card_text_margin"
+            android:text="Result"
+            android:textAlignment="center"
+            android:textColor="@color/textColor"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+
+        <GridLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="2"
+            android:columnCount="2"
+            android:rowCount="3">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/topMargin"
+                android:text="Rate"
+                android:textAlignment="center"
+                android:textColor="@color/textColor"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvRate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="128dp"
+                android:layout_marginTop="@dimen/topMargin"
+                android:text="0 %"
+                android:textAlignment="textEnd"
+                android:textColor="@color/resultColor"
+                android:textSize="@dimen/text_size" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/margin"
+                android:layout_marginLeft="@dimen/topMargin"
+                android:text="Interest"
+                android:textAlignment="center"
+                android:textColor="@color/textColor"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvInterest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginEnd="128dp"
+                android:layout_marginLeft="@dimen/topMargin"
+                android:layout_marginTop="@dimen/margin"
+                android:text="0 MMK"
+                android:textAlignment="textEnd"
+                android:textColor="@color/resultColor"
+                android:textSize="@dimen/text_size" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/topMargin"
+                android:layout_marginTop="@dimen/margin"
+                android:text="Closing Balance"
+                android:textAlignment="center"
+                android:textColor="@color/textColor"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvCloseBalance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="128dp"
+                android:layout_marginLeft="@dimen/topMargin"
+                android:layout_marginTop="@dimen/margin"
+                android:text="0 MMK"
+                android:textAlignment="textEnd"
+                android:textColor="@color/resultColor"
+                android:textSize="@dimen/text_size" />
+
+
+        </GridLayout>
+
+        <Button
+            android:id="@+id/btnInterestCalculate"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_gravity="end"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_weight="0.2"
+            android:background="@drawable/buttonborder"
+            android:text="Calculate"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>
+

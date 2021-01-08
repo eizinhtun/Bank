@@ -1,0 +1,1993 @@
+﻿[
+
+ {
+   "FIELD1": "CB",
+   "FIELD2": "(33) Street Branch",
+   "FIELD3": "No.(275), 33 Street, Between 84 x 85 Street, Chan Aye Thar Zan, Mandalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.972671, 96.076489",
+   "FIELD6": "Chan Aye Thar Zan",
+   "FIELD7": "Mandalay",
+   "FIELD8": "(02) 22 176, 64872, 71530, 65476"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "(Homl Street) Kyeemyindaing Branch",
+   "FIELD3": "No.(501/A), Lower Kyeemyindaing, Kayin National Ward, Kyeemyindaing, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.796641, 96.126422",
+   "FIELD6": "Kyeemyindaing",
+   "FIELD7": "Yangon",
+   "FIELD8": "(01) 508 170,508171, 508 172, 508 173"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "16 Kwae Branch (South Okkalapa)",
+   "FIELD3": "No.(322/A), Yadanar Street, (11) Block, South Okkalapa, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.834805, 96.180127",
+   "FIELD6": " South Okkalapa",
+   "FIELD7": "Yangon",
+   "FIELD8": "(01) 569 743, 562 672"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "23rd Street Branch",
+   "FIELD3": "No(334/336), Corner of Strand Road and 23rd Street, Latha Township, Yangon. Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.772185, 96.152232",
+   "FIELD6": "Latha",
+   "FIELD7": "Yangon",
+   "FIELD8": " (95-1) 372 646, 372 655, 371 848,371 851, 377 027, 389 594 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "6 Kwae Branch (North Okkalapa)",
+   "FIELD3": "No.(223/B), Thudhamma Road, Nya Ward, North Okkalapa, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.898256, 96.161279",
+   "FIELD6": "North Okkalapa",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 9 690 466,691 868, 691 769 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ahlone Branch (Sin Min Market)",
+   "FIELD3": "Building (SA-10), Aung Zaya Housing, Kanner Road, Thitaw Ward, Ahlone, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.788424, 96.124030",
+   "FIELD6": "Ahlone",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 210 853, 214 725, 214 661, 226 443, 214 132 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Aung Lan Branch ",
+   "FIELD3": "No. (165), Pyay Road, Hta Yaw Kone Quarter, Aung Lan, Magway Division, Myanmar",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "19.368459, 95.214233",
+   "FIELD6": " Aung Lan",
+   "FIELD7": " Aung Lan",
+   "FIELD8": " 069 - 201 512, 201 513,201 517, 201 518, 201 519 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Aung Mingalar Mini Branch ",
+   "FIELD3": "No.(789), Aung Mingalar Highway Complex, Thudamar Street, Mingalardon Township, Yangon, Myanmar. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.933475, 96.159834",
+   "FIELD6": "Mingalardon",
+   "FIELD7": "Yangon",
+   "FIELD8": " 09 - 316 751 72,01 - 637 415 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Aungban (2) Branch",
+   "FIELD3": "No. (4/480), Pyitaungsu Street, (4) Block, Aungban,Shan State, Myanmar. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.658036, 96.632159",
+   "FIELD6": "Kalaw",
+   "FIELD7": "Aungban",
+   "FIELD8": " 081 - 612 75, 612 77,612 73, 612 74 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Aungban Branch",
+   "FIELD3": "No. 108, Station Road, Nyaungpinthaung Ward, Aungban, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.653644, 96.630003",
+   "FIELD6": "Kalaw",
+   "FIELD7": "Aungban",
+   "FIELD8": " (95-81) 60 107, 60 485,60 484, 60 584 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "\nBago Branch ",
+   "FIELD3": "No-9, Min Road, North Zainganaing Qtr, Bago, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "17.334400, 96.480900",
+   "FIELD6": "Bago",
+   "FIELD7": "Bago",
+   "FIELD8": "(95-52) 22 373, 22 374, 22 375, 22 386, 22 372 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bayint Naung Branch (Thiri Mon Plaza)",
+   "FIELD3": "No. 30, Corner of Thiri Mon Road and Thiri Mon Plaza (7) Street, Thiri Mon Housing, Mayangone Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.858522, 96.105181",
+   "FIELD6": "Mayangone",
+   "FIELD7": "Yangon",
+   "FIELD8": "01-680994, 680595, 681654, 682263, 682549,(95)01 682294, 680727, 682526"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bayintnaung Branch ",
+   "FIELD3": "No. Nya(83), Corner of Bayintnaung Road and Kankaw Street, Ward(1), Mayangone Township, Yangon, Myan",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.864424, 96.106491",
+   "FIELD6": "Mayangone",
+   "FIELD7": "Yangon",
+   "FIELD8": " (95-1) 698 063, 681 522,\n(95-1) 681 588, 681 989 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bayintnaung Branch (Kyansitthar Street)",
+   "FIELD3": "No.(120), Corner of Kyansitthar Street and (13th) Street, 1 Ward, Mayangone Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.860303, 96.109053",
+   "FIELD6": "Mayangone",
+   "FIELD7": "Yangon",
+   "FIELD8": "01-692651, 692652, 667843, 667846, 667850, 667856,652651, 652652, 667852, 667856"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bhamo Branch ",
+   "FIELD3": "No.(ThaSa/34), Bogyoke Street, Tharsi Ward, Bhamo, Kachin, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "24.257776, 97.227500",
+   "FIELD6": "Bhamo",
+   "FIELD7": "Bhamo",
+   "FIELD8": " (074) 51 319, 51 320,\n(074) 50 883, 50 893 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bilin Branch",
+   "FIELD3": "No.(111), Kyuntaw Street, Mahar Bandula Ward, Bilin, Mon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "17.213780, 97.230808",
+   "FIELD6": "Bilin",
+   "FIELD7": "Bilin",
+   "FIELD8": " (057) 64 257,\n(057) 64 308, 64 439 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bogale Branch ",
+   "FIELD3": "No.(62), Botayza Street, (3) Ward, Bogale, Ayeyarwady Division, Myanmar",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.293034,95.395490",
+   "FIELD6": "Bogale",
+   "FIELD7": "Bogale",
+   "FIELD8": " (045) 45 106, 45 420,\n(045) 45 200, 45 711 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Bokpyin Branch",
+   "FIELD3": "No.(15), Tapinshwehti Street, Myoma Ward, Bokpyin Township, Tanintharyi Division, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "11.26558,98.76109",
+   "FIELD6": " Bokpyin",
+   "FIELD7": " Bokpyin",
+   "FIELD8": " 059 - 50050, 50051, 50054,\n059 - 50052, 50053 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Botahtaung Branch (Bogalay Zay)",
+   "FIELD3": "No.(459), Ground Floor, Merchant Road, Botahtaung, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.771508, 96.165384",
+   "FIELD6": "Botahtaung",
+   "FIELD7": "Yangon",
+   "FIELD8": "(01) 370 371,370 233, 370 231, 370 229"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Botahtaung Pagoda Street Branch",
+   "FIELD3": "No.(191), Botahtaung Pagoda Street(Middle block), Pazundaung, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.774891, 96.172561",
+   "FIELD6": "Pazundaung",
+   "FIELD7": "Yangon",
+   "FIELD8": "(01) 901 0516, 901 0517,901 0518, 901 0519"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Chauk Branch",
+   "FIELD3": "No. 93, Corner of Mahabandoola St and Myay Sar Yin St, Chauk Township, Magway Division",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.894852,94.818832",
+   "FIELD6": "Chauk",
+   "FIELD7": "Chauk",
+   "FIELD8": " (061) 200343, 200345, 201001-05,\n(061) 201003-05 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Dagon(Shwedagon Pagoda Road) Branch",
+   "FIELD3": "No. 294, Rm(1), Shwedagon Pagoda Road, Dagon Township, Yangon",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.78204,96.15352",
+   "FIELD6": "Dagon",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01-371706/711, 01-384582,\n(95)01 371707/08/09 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Danubyu Branch",
+   "FIELD3": "No.(58), Maharzawta Street, (7)Ward, Danubyu, Myanmar. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "17.258227, 95.592212",
+   "FIELD6": "Danubyu",
+   "FIELD7": "Danubyu",
+   "FIELD8": " (046) 25 072, 25 160,\n(046) 25 161, 25 237, 25 099, 25 295 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Dawbon Branch",
+   "FIELD3": "No.(47), Min Nandar Road, Nwe Aye Ward, Dawbon, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.792674,96.193227",
+   "FIELD6": "Dawbon",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 9 190 561, 9 190 562,\n(01) 9 190 557, 9 190 558, 9 190 559 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Dawbon Branch (2)",
+   "FIELD3": "No.(242), Yamonnar Road, Zayarthiri Ward, Dawbon, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.779624,96.191303",
+   "FIELD6": "Dawbon",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 9 190 595, 9 190 596,\n(01) 9 190 592, 9 190 593, 9 190 594 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Dawei Branch",
+   "FIELD3": "No. (54), Rzarni Road, Kanyone Ward, Dawei, Myanmar. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "14.072989, 98.196018",
+   "FIELD6": "Dawei",
+   "FIELD7": "Dawei",
+   "FIELD8": " (059) 238 86 , 238 87,\n(059) 238 83 , 238 84 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Einme Branch",
+   "FIELD3": "No.(173/174-A), Anawyahtar Street, Einme, Ayeyarwaddy, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.898602, 95.178830",
+   "FIELD6": " Einme",
+   "FIELD7": " Einme",
+   "FIELD8": " (042) 85 760, 85 764,\n(042) 85 761, 85 762, 85 763 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Gangaw Branch",
+   "FIELD3": " No.(181), Toechae (1), East Gangaw, Municiple Ward, Gangaw, Magway Division, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "22.16972,94.12807",
+   "FIELD6": "Gangaw",
+   "FIELD7": "Gangaw",
+   "FIELD8": " 062 - 50 737, 50 739, 50 742, 50 743\n    062 - 50 738, 50 741, 50 740"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Gyobingauk Branch",
+   "FIELD3": "No.(301/A), Yangon-Pyay road, Satinegyone Ward, Gyobingauk, Bago, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "18.231609, 95.647406",
+   "FIELD6": " Gyobingauk",
+   "FIELD7": " Gyobingauk",
+   "FIELD8": " (053) 50 520,\n(053) 50 950, 50 555 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hakha Branch",
+   "FIELD3": "No.(22), Bogyoke Street, Pyaytawthar Ward, Hakha, Chin, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "22.643610, 93.611473",
+   "FIELD6": " Hakha",
+   "FIELD7": " Hakha",
+   "FIELD8": " (070) 22 522, 22 523,\n(070) 21 608, 21 619, 21 009 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hinthada Branch",
+   "FIELD3": "No. 1, Lamadaw Road, North Garden Ward, Hinthada, Myanmar. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "17.648457, 95.458038",
+   "FIELD6": "Hinthada",
+   "FIELD7": "Hinthada",
+   "FIELD8": " (95-44) 21974, 21975, 22664,\n(95-44) 22662, 22663 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hlaingtharyar Branch (Nawaday Housing)",
+   "FIELD3": "No.(8/B), Right Side, (97) Street, (6) Ward, Hlaingtharyar Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.86297,96.06515",
+   "FIELD6": "Hlaingtharyar ",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01 - 685006,\n01 - 685023, 685006 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hlegu Branch",
+   "FIELD3": "No.(I/C), Corner of Myoma Baho Street and West Minn Street, Zaygyi Ward, Hlegu, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "17.09414,96.21769",
+   "FIELD6": "Hlegu",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 629 990, 629 991,\n(01) 629 992, 629 993, 629 994 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hmawbi Branch",
+   "FIELD3": "No.(870), Pyay Street, (2) Ward, Hmawbi, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "17.098,96.03809",
+   "FIELD6": "Hmawbi",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01 - 62 0269,\n01 - 62 0276, 62 0294, 62 1075 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hseni Branch",
+   "FIELD3": "No. (1/216), Bogyoke Street, (1) Ward, Hseni Township, Northern Shan State.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "23.2987,97.9583",
+   "FIELD6": "Hseni",
+   "FIELD7": "Hseni",
+   "FIELD8": " 082 63168/ 63454/ 63455/ 63477/ 63292/ 63298,\n(082) 63455/ 63477/ 63454 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Hsipaw Branch",
+   "FIELD3": "No.(13), Upaing No.(215/Ka), Lashio Road, Pantane North Ward, Hsipaw, Shan, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "22.615515,97.303922",
+   "FIELD6": "Hsipaw",
+   "FIELD7": "Hsipaw",
+   "FIELD8": " (082) 807 26, 807 27,\n(082) 807 28, 807 29, 807 30 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Junction Centre Branch (Nay Pyi Taw)",
+   "FIELD3": "Room No.(108), Level(1), Junction Centre (Nay Pyi Taw), Yarzathingaha Road, Yanaungpyay Ward, Dakhinathiri Township, Nay Pyi Taw, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "19.71366221,96.11088493",
+   "FIELD6": "Dakhinathiri",
+   "FIELD7": "Nay Pyi Taw",
+   "FIELD8": " (067) 422 652, 422 653,\n(067) 422 648, 422 649, 422 650 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kalaw Branch",
+   "FIELD3": "No.(4/7), (4)Ward, Pyay Htaung Su Road, Kalaw, Shan State (South), Myanmar",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.636115, 96.567766",
+   "FIELD6": "Kalaw",
+   "FIELD7": "Kalaw",
+   "FIELD8": " (081) 50 782,\n(081) 50 405, 50 586, 50 631 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kalay Branch",
+   "FIELD3": "No. (30), District (5), Bogyoke street, Pinlon Ward, Kalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "23.191493, 94.047619",
+   "FIELD6": " Kalay",
+   "FIELD7": " Kalay",
+   "FIELD8": "073 - 227 98, 227 99, 228 00,227 93, 227 94, 227 95  "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kamaryut (Shwe Pone Nyat) Branch",
+   "FIELD3": "No.(21), Shwe Pone Nyat Housing, Bayintnaung Road, Kamaryut Township, Yangon, Myanamr.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.829589, 96.122176",
+   "FIELD6": "Kamaryut ",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 531 493,531 496, 531 494, 531 495 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kamaryut Branch",
+   "FIELD3": "No. (158), Insein Road, (2) Block, Kamaryut Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.834924, 96.128526",
+   "FIELD6": "Kamaryut ",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01 - 230 57 20,\n01 - 230 71 16, 230 57 17 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kamaryut Branch (Hledan Centre)",
+   "FIELD3": "Room No. (02/03/04), Hledan Centre First Floor, Kamayut Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.826146,96.130270",
+   "FIELD6": "Kamaryut ",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01- 230 4410, 230 4411, 230 4412,\n01- 230 4415, 230 4416 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Katha Branch",
+   "FIELD3": "No.(13), Aung Thapyay Street, (3) Ward, Katha, Sagaing, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "24.172029, 96.343155",
+   "FIELD6": "Katha",
+   "FIELD7": "Katha",
+   "FIELD8": " (075) 259 88, 259 95, 259 96,\n(075) 259 89, 259 92, 259 93 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kawhmu Branch",
+   "FIELD3": "No.(23), Bogyoke Road, Myoma Ward, Kawhmu, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.54620,96.062217",
+   "FIELD6": "Kawhmu",
+   "FIELD7": "Yangon",
+   "FIELD8": "01-264087, 264236,264239, 264240, 264246"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kawthoung Branch",
+   "FIELD3": "No.(20), Bogyoke Street, Padauk Shwewah Ward, Kawthoung, Tanintharyi, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "9.980306, 98.548224",
+   "FIELD6": "Kawthoung",
+   "FIELD7": "Kawthoung",
+   "FIELD8": " (059) 51 276,\n(059) 51 040, 51 654, 51 921 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Khaymar Thi Branch",
+   "FIELD3": "No.(283/A+B), Khaymar Thi Road, Gakyi Ward, North Okkalapa, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.898747, 96.154896",
+   "FIELD6": " North Okkalapa",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 9 699 411,\n(01) 9 690 596, 692 093, 691 288 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kungyangon Branch",
+   "FIELD3": "No.(412), Bogyoke Street, Kangyimakyee Ward, Kungyangon, Yangon, Myanmar",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.442297, 96.014010",
+   "FIELD6": " Kungyangon",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 265456,\n(01) 265673, 265678 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaiklat Branch",
+   "FIELD3": "No.(10), Between 2/3, U Sandar Street, No(2) Ward, Kyaiklat, Ayeyarwady, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.445717, 95.728118",
+   "FIELD6": " Kyaiklat",
+   "FIELD7": " Kyaiklat",
+   "FIELD8": " (045) 48 453, 48 454,\n(045) 48 464, 48 465, 48 455 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaikto Branch",
+   "FIELD3": "No.(18), Bogyoke Road, South Ward, Kyaikto, Mon, Myanmar",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "17.308482, 97.008309",
+   "FIELD6": "Kyaikto",
+   "FIELD7": "Kyaikto",
+   "FIELD8": " (057) 2060 255,\n(057) 2060 094, 2060 092 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaing Tong Branch",
+   "FIELD3": "No. (165/A), Kyaing Ngan (1) Street, (2) Ward, Kyaing Tong, Myanmar. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.291707, 99.608298",
+   "FIELD6": "Kyaing Tong",
+   "FIELD7": "Kyaing Tong",
+   "FIELD8": " (95-84) 23414,\n(95-84) 23523, 23525 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyangin Mini Branch",
+   "FIELD3": "No.(94), Corner of Sitye Street and Bogyoke Street, Ywarthit Ward, Kyangin, Ayeyarwady, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "18.338340, 95.246664",
+   "FIELD6": "Kyangin",
+   "FIELD7": "Kyangin",
+   "FIELD8": "(044) 40398, 40625"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaukpadaung Branch",
+   "FIELD3": "No.(2069/B), Yanpyayman Street, Sanpya Ward, Kyaukpadaung. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.836148, 95.125395",
+   "FIELD6": "Kyaukpadaung",
+   "FIELD7": "Kyaukpadaung",
+   "FIELD8": " 061 - 52 208, 51 960, 52 073,\n061 - 52 013, 52 203, 52 210 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaukpyu Branch",
+   "FIELD3": "No.(17), Yonetat Street, Middle Ward, Kyaukpyu, Rakhine, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "19.428618, 93.550536",
+   "FIELD6": "Kyaukpyu",
+   "FIELD7": "Kyaukpyu",
+   "FIELD8": " (043) 46 667, 46 668,\n(043) 46 669, 46 670, 46 671 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyaukse Branch",
+   "FIELD3": "No.(9), Yangon-Mandalay highway road, Pyaylonenaing Ward, Kyaukse, Myanmar. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.610491, 96.134699",
+   "FIELD6": "Kyaukse",
+   "FIELD7": "Kyaukse",
+   "FIELD8": " 066 - 20 508 25,\n066 - 20 501 63, 20 509 90 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyauktada Branch",
+   "FIELD3": "No.(173), Maha Bandula Park Street, Kyauktada, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.775750, 96.160287",
+   "FIELD6": "Kyauktada",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 375 547,\n(01) 375 549, 375 550 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyauktada Branch (Bo Aung Kyaw Street)",
+   "FIELD3": "Building (263/267), Ground Floor, Bo Aung Kyaw Street (Middle), (9) Block, Kyauktada, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.775217,96.164252",
+   "FIELD6": "Kyauktada",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 370 240,\n(01) 370 365, 370 367, 370 353 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kyonpyaw Branch",
+   "FIELD3": "No.(4), Innye Street, Aung San Ward, Kyonpyaw, Ayeyarwady Division",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "17.299146, 95.197602",
+   "FIELD6": "Kyonpyaw",
+   "FIELD7": "Kyonpyaw",
+   "FIELD8": " 046 - 566 43, 566 44,\n046 - 566 45, 566 47 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Kywe Se Kan Branch",
+   "FIELD3": "No-(Ga/9), Yangon-Mandalay Road, Chanmya Tharyar Ward, Pyigyitagon, Mandalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.928366, 96.086954",
+   "FIELD6": "Pyi Gyi Ta Gon",
+   "FIELD7": "Mandalay",
+   "FIELD8": " 02 - 593 15,\n02 - 593 16, 593 19 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Labutta Branch",
+   "FIELD3": "No. (193), Merchant Street, (6) Block, Labutta, Ayeyarwady Division, Myanmar",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.146247,94.760880",
+   "FIELD6": " Labutta",
+   "FIELD7": " Labutta",
+   "FIELD8": " 042 - 807 10,\n042 - 807 11, 807 12, 807 13 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lanmadaw (6) Street Branch",
+   "FIELD3": "No.(602), 6th Street, Strand Road, Lanmadaw, Yangon.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.775132, 96.140368",
+   "FIELD6": "Lanmadaw",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 230 1676, 230 1675,\n(01) 230 1677, 230 1678 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lanmadaw Branch",
+   "FIELD3": "No-797, Mahabandoola Road, Lanmadaw Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.774851, 96.144505",
+   "FIELD6": "Lanmadaw",
+   "FIELD7": "Yangon",
+   "FIELD8": " (95-1) 212 125, 222 982, 222 983,\n(95-1) 224 061, 229 200 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lanmadaw Thanzay Branch",
+   "FIELD3": "No.(135), Lanmadaw Street, Lanmadaw, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.775912, 96.147601",
+   "FIELD6": "Lanmadaw",
+   "FIELD7": "Yangon",
+   "FIELD8": "(01) 250 100,250 619, 250 056"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lashio Branch",
+   "FIELD3": "No(34), Theinni street, Sankaung Yark, (2) Ward, District (10), Lashio, Myanmar",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "22.938184, 97.750330",
+   "FIELD6": "Lashio",
+   "FIELD7": "Lashio",
+   "FIELD8": " 082 - 267 49, 267 50,\n082 - 267 46, 267 47, 267 48 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Latha Branch (Anawrahta Road)",
+   "FIELD3": "No.(99-B/C), Ground Floor, (Kyone Gyi), Between (19) Street and (20) Street, (7) Ward, Latha Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.777056, 96.149668",
+   "FIELD6": "Latha",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01 - 246913,\n01 - 248052, 248055, 248274 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Latha Street Branch",
+   "FIELD3": "No.(13/15), Latha Street, Latha Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.77277,96.15022",
+   "FIELD6": "Latha",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01 - 386 239,\n01 - 386 236, 386 237, 386 238 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Latt Pan Hla Branch",
+   "FIELD3": "No. 83, Mandalay-Mogok Main Road, Yone Pin Kone Ward, Latt Pan Hla Village, Sintku Township, Pyin Oo Lwin District, Mandalay Division, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "22.5584,96.06604",
+   "FIELD6": "Sintku ",
+   "FIELD7": "Sintku ",
+   "FIELD8": " 086 39369/ 39189/ 39066/ 39086/ 39023/ 39391,\n(086) 39066/ 39086/ 39023 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Lewe Branch",
+   "FIELD3": "No.(5/451), Myothit (3) Street, 5 Ward, Naypyidaw (Lewe), Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "19.642863, 96.113931",
+   "FIELD6": "Lewe",
+   "FIELD7": "Nay Pyi Taw",
+   "FIELD8": " (067) 30 971, 30 972, 30 973,\n(067) 30 969, 30 970 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Loikaw Branch",
+   "FIELD3": "Kandayawadi Market, Block(B), Thida Road, Zaypine Qr, Loikaw.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "19.674297, 97.210901",
+   "FIELD6": " Loikaw",
+   "FIELD7": " Loikaw",
+   "FIELD8": " 083 - 22 980, 083 - 22 439,\n083 - 22 212, 083 - 21 138 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Magway (Kaung Mon Centre) Mini Branch",
+   "FIELD3": "No.(76/B), Pyay Taw Thar Street, Pyay Taw Thar Ward, Magway, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.148668, 94.931069",
+   "FIELD6": "Magway",
+   "FIELD7": "Magway",
+   "FIELD8": " (063) 28577,\n(063) 28576 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Magway Branch",
+   "FIELD3": "No.(3), Corner of Pyaytawtar Street and Khattar Street, Yankyaw Ward, Magway, Myanamr.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.151972, 94.943364",
+   "FIELD6": "Magway",
+   "FIELD7": "Magway",
+   "FIELD8": " (063) 285 70, 285 79,\n(063) 285 73, 285 74, 285 75 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Manaw Hari Branch",
+   "FIELD3": "No (Za/5/25), (62) Street, Myothit (4) Ward, Mandalay.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.927344, 96.110532",
+   "FIELD6": "Chan Mya Thar Si",
+   "FIELD7": "Mandalay",
+   "FIELD8": "(02) 821 91, 821 92, 821 93,821 94, 821 95, 821 96"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (19) Street Branch",
+   "FIELD3": "No.(146), Corner of (81)Street and (19)Street, Maygagiyi Ward, Aung Myay Tharzan Township, Mandalay.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.993386, 96.083708",
+   "FIELD6": "Aung Myay Thar Zan",
+   "FIELD7": "Mandalay",
+   "FIELD8": " (02) 30 863, 30 864, 30 865,\n(02) 30 871, 30 872, 30 873 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (26) Street Branch",
+   "FIELD3": "No.(228), (26)Street, Between (91x92) street, Thirihaymar west ward, Chanayetharzan, Mandalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.983926,96.065743",
+   "FIELD6": "Chan Aye Thar Zan",
+   "FIELD7": "Mandalay",
+   "FIELD8": "(02) 671 84, 671 85, 671 86,671 81, 671 82, 671 83"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (35 St) Branch",
+   "FIELD3": "No. 97, 35th Street, Between 74 & 75 Street, Mahar Aung Myay Township, Mandalay Division.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.96862,96.09241",
+   "FIELD6": " Mahar Aung Myay",
+   "FIELD7": "Mandalay",
+   "FIELD8": " 02 62023, 62027, 62053, 62074, 62093, 23458,\n(02) 62023, 62027, 62053 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (78th Street Branch)",
+   "FIELD3": "No.E-1,2,3 78th Street, between (27,28) Street, Haymar Zala Ward, Chanayethazan Township, Manadalay,",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.980902, 96.087192",
+   "FIELD6": "Chan Aye Thar Zan",
+   "FIELD7": "Mandalay",
+   "FIELD8": " (95-2) 699 01, 699 03, 699 05,\n(95-2) 699 02, 699 04, 699 06 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (86) Street Branch",
+   "FIELD3": "No.(258), (86)Street, Between (31x32)Street, PyayGyi Pyaw Bwal East Ward, Chan Aye Tharzan Township, Mandalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.97529,96.0728",
+   "FIELD6": "Chan Aye Thar Zan",
+   "FIELD7": "Mandalay",
+   "FIELD8": " 02 - 69131, 69132,\n02 - 69128, 69129, 69130 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (Pyi Gyi Mingalar) Branch",
+   "FIELD3": "No.(19), Pyi Gyi Mingalar Cargo Express Complex, Amayapura Township, Mandalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.86992,96.10748",
+   "FIELD6": " Amayapura",
+   "FIELD7": "Mandalay",
+   "FIELD8": " 02 - 515 5086,\n02 - 515 5087, 515 5088, 515 5089 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (Yatanar Mall) Branch",
+   "FIELD3": "Room No.(A05©+A06+A07+A08+A09), (3rd) Floor (Diamond Plaza), (78th) Street, Between 33 x 34 Street, Chanayethazan Township, Mandalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.97093,96.08729",
+   "FIELD6": "Chan Aye Thar Zan",
+   "FIELD7": "Mandalay",
+   "FIELD8": " 02 - 30835,\n02 - 39106, 39351, 30834 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (Zay Cho) Branch",
+   "FIELD3": "No-26/B, between (84-85) Street, Near Myodawkhanma (2) Clock Tower, Aungmyetharzan Township, Mandalay",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.983735, 96.077150",
+   "FIELD6": "Aung Myay Thar Zan",
+   "FIELD7": "Mandalay",
+   "FIELD8": " (95-2) 66 894, 66 892,\n(95-2) 39 304, 66 891 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay (Zay Cho)(84-Street) Mini Branch",
+   "FIELD3": "No.(107), 84 Street, Between 27x28 Street, Mandalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.981186, 96.077597",
+   "FIELD6": "Aung Myay Thar Zan",
+   "FIELD7": "Mandalay",
+   "FIELD8": " (02)60 966,\n(02)22407, 86 640 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mandalay Branch (Theik Pan Street)",
+   "FIELD3": "No.(Ma-22-18), Corner of Theik Pan Street and (66) Street, Chan Mya Thar Zi Township, Mandalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.951848, 96.104655",
+   "FIELD6": "Chan Mya Thar Si",
+   "FIELD7": "Mandalay",
+   "FIELD8": " 02 - 62002, 62095, 62096,\n02 - 62049, 62037 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Maubin Branch",
+   "FIELD3": "No. (78), Pagoda Road, Zaypine Ward, Maubin, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.733092, 95.653705",
+   "FIELD6": "Maubin",
+   "FIELD7": "Maubin",
+   "FIELD8": "  045 - 30 225,\n045 - 31 196, 31 197 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mawlamyine Kyun Branch",
+   "FIELD3": "No.(17), Maha Bandula Street (Minn Lane), Myoma (6) Ward, Mawlamyine Kyun Township, Labutta, Ayeyarwaddy Division, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.3755,95.26672",
+   "FIELD6": " Labutta",
+   "FIELD7": " Labutta",
+   "FIELD8": " (042) 50 760, 50 757,\n(042) 50 758, 50 759, 50 7560 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mawlamying Branch",
+   "FIELD3": "No.151, Kannar Road, Phattan Ward, Mawlamying, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.496556, 97.618116",
+   "FIELD6": "Mawlamying",
+   "FIELD7": "Mawlamying",
+   "FIELD8": " (95-57) 27337, 27338, 27339,\n(95-57) 27335, 27336 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mayangone Branch (Kyaik Waing Pagoda Road)",
+   "FIELD3": "No.(26), Ground Floor, Corner of Kyaik Waing Pagoda Road and Min Kyaung Street, Mayangone, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.866372, 96.126111",
+   "FIELD6": "Mayangone",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 655 969,\n(01) 652 780, 667 237, 665 851 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Meikhtila Branch",
+   "FIELD3": "No-48, Yangon-Mandalay Street, Thiri Mingalar (A) Quarter, Near Clock Tower, Meikhtila, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.883820, 95.860766",
+   "FIELD6": "Meikhtila",
+   "FIELD7": "Meikhtila",
+   "FIELD8": " (95-64) 23 247, 23 742, 24 261\n(95-64) 23 382, 24 262 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Minbu Branch",
+   "FIELD3": "No.(1329), Minbu-Saku Road, Tamartan (4) Ward, Minbu Township, Magway, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.183829, 94.870399",
+   "FIELD6": "Minbu",
+   "FIELD7": "Minbu",
+   "FIELD8": "065 - 21582,21583, 21584, 21585, 21586"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mingaladon Branch (Khayae Pin Road)",
+   "FIELD3": "No.(41), Khayae Pin Road, (2/A) Sanpya Ward, Mingaladon Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.9308077,96.1384918",
+   "FIELD6": "Mingaladon",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01 - 631721, 637720, 637723,\n01 - 637718, 637719 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mingalartaungnyunt (Daw Thein Tin Street) Branch",
+   "FIELD3": "No.(28), Daw Thein Tin Street, Kantawkalay North Ward, Mingalartaungnyunt, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.789165, 96.166116",
+   "FIELD6": "Mingalartaungnyunt",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 384 903,\n(01) 384 185, 384 967, 384 965 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mingalarzay Branch",
+   "FIELD3": "No.(133), Corner of Mill Road and Bominyaung Road, Yedwingon Ward, Mingalartaungnyunt Township, Yangon",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.790809, 96.174995",
+   "FIELD6": "Mingalartaungnyunt",
+   "FIELD7": "Yangon",
+   "FIELD8": " (95-1) 9000 192, 9000 193,\n(95-1) 9000 183, 9000 184 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mo Gaung Branch",
+   "FIELD3": "No.(42), Kyaung Street, Zaygone Ward, Mo Gaung, Kachin, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "25.302978, 96.936840",
+   "FIELD6": "Mo Gaung",
+   "FIELD7": "Mo Gaung",
+   "FIELD8": " 074 - 40 394, 40 971, 40974,\n074 - 40 395, 40 396 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mogoke (Kyatpyin) Branch",
+   "FIELD3": "No.(72), Mandalay-Mogoke Road, 2/ Kathae North Quarter, Kathae village tract, Mogoke, Pyin Oo Lwin District, Mandalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "22.91068,96,42674",
+   "FIELD6": "Mogoke",
+   "FIELD7": "Mogoke",
+   "FIELD8": " 086 - 25 474, 25 475,\n086 - 25 471, 25 472, 25 473 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mogoke Branch ",
+   "FIELD3": "No. (125), Bogyoke Road, Myoma Block, Mogoke, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "22.920273, 96.501343",
+   "FIELD6": "Mogoke",
+   "FIELD7": "Mogoke",
+   "FIELD8": " 086 - 205 25, 211 60, 211 05,\n086 - 210 22, 205 54, 202 00 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Monywa Branch",
+   "FIELD3": "No-50, Butaryone Street, Sulegone Ward, Near Bogyoke Kyae Yoke, Monywa, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "22.116562, 95.133019",
+   "FIELD6": "Monywa",
+   "FIELD7": "Monywa",
+   "FIELD8": " (071) 261 83\n(071) 261 79, 261 80, 261 81 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Mudon Branch",
+   "FIELD3": "No.(118), Mawlamyine - Thanbyuzayat Road, Myoma (1) Ward, Mudon, Mawlamyine, Mon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.259588, 97.729459",
+   "FIELD6": "Mudon",
+   "FIELD7": "Mudon",
+   "FIELD8": " 057 - 70880, 70884, 70244,\n057 - 70881, 70882, 70883 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Muse Branch",
+   "FIELD3": "No. (Ta/202), Pyayhtaungsu Road, South Ward, Muse, Myanmar. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "23.979212, 97.904701",
+   "FIELD6": " Muse",
+   "FIELD7": " Muse",
+   "FIELD8": " (082) 525 44 , 525 45,\n(082) 525 42 , 525 43 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myaing Bahin Branch",
+   "FIELD3": "No.(1047/A), Pakokku-Bahin Road, Myoma Ward, Bahin Village, Myaing, Magway, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.725882, 94.673569",
+   "FIELD6": "Myaing",
+   "FIELD7": "Myaing",
+   "FIELD8": "(09) 257 218 421, 257 218 422, 257 218 423, 794 848 911, 974 848 912"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myanaung Branch",
+   "FIELD3": "No.(3)Ward, Kyattane Middle Road, Myanaung, Ayeyarwady, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "18.288618, 95.318877",
+   "FIELD6": "Myanaung",
+   "FIELD7": "Myanaung",
+   "FIELD8": " (044) 50 308,\n(044) 50 667, 50 668, 50 353 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myanmar Plaza Branch",
+   "FIELD3": "No.(192)/ Room No.(624), Corner of Kabar Aye Pagoda Road and No.1 Industrial Road, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.827484, 96.155768",
+   "FIELD6": "Bahan",
+   "FIELD7": "Yangon",
+   "FIELD8": " (09) 7311 6458, 09 7322 3426, 09 7318 0241,\n(09) 7321 9446 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myaungmya Branch",
+   "FIELD3": "No.(116), U Ba Cho Street, Shangone, (5)Ward, Myaungmya, Ayeyarwady Division, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.600783, 94.929217",
+   "FIELD6": "Myaungmya",
+   "FIELD7": "Myaungmya",
+   "FIELD8": " (042) 70 528, 70 529,\n(042) 70 530, 70 531 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myawaddy Branch ",
+   "FIELD3": "No. (8/51), Bayintnaung Street, 2 Ward, Myawaddy, Myanmar. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.688956, 98.512031",
+   "FIELD6": "Myawaddy",
+   "FIELD7": "Myawaddy",
+   "FIELD8": " 058 - 51 307, 51 308,\n058 - 51 309, 51 310 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myeik (Kan Khaung) Branch",
+   "FIELD3": "No.(5), Sagawar Street, Kan Khaung Ward, Myeik, Tanintharyi Division, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "12.44083,98.60027",
+   "FIELD6": "Myeik",
+   "FIELD7": "Myeik",
+   "FIELD8": " 059 - 42016, 42782\n059 - 42440, 41705 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myeik Branch",
+   "FIELD3": "No.(4), (C)Street, Dawei Su Ward, Myeik, Tanintharyi, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "12.442181, 98.596394",
+   "FIELD6": "Myeik",
+   "FIELD7": "Myeik",
+   "FIELD8": " (059) 42 645,\n(059) 42 488, 42 171 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myin Thar (South Okkalapa) Branch",
+   "FIELD3": "No.(69/2), (14/2) Ward, Thanthumar Road, Myin Thar, South Okkalapa Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.849722,96.190556",
+   "FIELD6": "South Okkalapa",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 561 550,\n(01) 563 373, 8 500 265 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myingyan Branch",
+   "FIELD3": "No.(5/412), Corner of Bogyoke Street and (6th) Street, (5)Ward, Myingyan, Mandalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.464167,95.388611",
+   "FIELD6": "Myingyan",
+   "FIELD7": "Myingyan",
+   "FIELD8": " (066) 21 684,\n(066) 22 147, 22 607, 22 311 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myinmu Branch ",
+   "FIELD3": "No.(2/1), Monywa-Mandalay Road, Marga Ward, Myinmu, Sagaing Division, Myanmar",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.923527, 95.577517",
+   "FIELD6": "Myinmu",
+   "FIELD7": "Myinmu",
+   "FIELD8": " (071) 40 880,\n(071) 40 881, 40 882, 40 883 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Myitthar Branch",
+   "FIELD3": "No. 18, Bogyoke Aung San Road, Shan Pwal Ward, Kyaukse District, Myit Thar Township, Mandalay Division.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.42541,96.13",
+   "FIELD6": "Myit Thar",
+   "FIELD7": "Myit Thar",
+   "FIELD8": "( 066) 60288, 60343, 60383, 60270, 60380, 60190, 60278\n(066) 60270, 60343, 60383 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Naung Cho Branch",
+   "FIELD3": "No.(30), Mandalay-Lashio Road, Zay Ward, Naung Cho Township, Shan State, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "22.330708, 96.802873",
+   "FIELD6": "Naung Cho",
+   "FIELD7": "Naung Cho",
+   "FIELD8": " 082 - 85510, 85509,\n082 - 85581, 85481, 85482 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Naypyitaw (Oattara Thiri) Branch",
+   "FIELD3": "No.(8), Corner of Mandalay Road and Hnin Si Road, Zawana Theikdi Ward, Naypyitaw.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "19.822587, 96.154887",
+   "FIELD6": "Zawana Theikdi",
+   "FIELD7": "Nay Pyi Taw",
+   "FIELD8": " (067) 417 848, 417 849, 417 850,\n(067) 417 851, 417 852 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ngapali Branch",
+   "FIELD3": "No. 340, Airport Road, Zee Phyu Kone Ward, Ngapali, Thandwe Township, Rakhine State.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "18.44899,94.31119",
+   "FIELD6": "Thandwe",
+   "FIELD7": "Thandwe",
+   "FIELD8": " 043 42257, 42269, 42082-87, 42348, 42094,\n(043) 42257, 42269 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "North Okkalapa (Thudhamma Road) Branch",
+   "FIELD3": "No.(673), Thudhamma Road, (F) Ward, North Okkalapa Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.89825,96.1612",
+   "FIELD6": "North Okkalapa ",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01 - 969 1419,\n01 - 969 1341, 969 1420, 969 1636 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nyaung Lay Bin (2) Branch",
+   "FIELD3": "No.(120/164), Phayargyi Road, Myoma (1) Ward, Naunglaybin Township, Bago, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "17.956018,96.723586",
+   "FIELD6": " Naunglaybin",
+   "FIELD7": "Nyaunglaybin",
+   "FIELD8": " 052-50026, 052-50361,\n052-50027, 052-50028 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nyaungdon Branch",
+   "FIELD3": " No. (74), Lanmadaw Street, (4) Ward, Nyaungdon, Myanmar.\n\n",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "17.048185, 95.632017",
+   "FIELD6": " Nyaungdon",
+   "FIELD7": " Nyaungdon",
+   "FIELD8": " (046) 200 29, 200 30,\n(046) 200 28, 200 32 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nyaungshwe Branch",
+   "FIELD3": "No.(84), Corner of Phaung Daw Pyan Road and Strand Road, Plot (3) Win Yat, Nyaung Shwe, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.657656, 96.924887",
+   "FIELD6": "Nyaung Shwe",
+   "FIELD7": "Nyaung Shwe",
+   "FIELD8": " (081) 209103, 209104,\n(081) 209915, 209916 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Nyaung-U Branch",
+   "FIELD3": " No.(80), Lanmadaw Street, Sonekone Ward, Nyaung-U, Mandalay.\n\n",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.200770, 94.906889",
+   "FIELD6": "Nyaung U",
+   "FIELD7": "Nyaung U",
+   "FIELD8": " 061 - 612 12,\n061 - 612 10, 612 11, 608 67 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pabedan Branch (Junction City)",
+   "FIELD3": "Room No. (348/349), Corner of Bogyoke Road and Shwe Dagon Pagoda Road, Pabedan Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.77936,96.154",
+   "FIELD6": "Pabedan",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01 - 9253578,\n01 - 9253575, 9253576, 9253577 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pabedan Branch (Kone Zay Tan Street)",
+   "FIELD3": "Building No. (252/260), Ground Floor (C/D), Kone Zay Tan Street, Pabedan, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.776206,96.154469",
+   "FIELD6": "Pabedan",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 370036,\n(01) 370012, 370013, 370015 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pakokku Branch ",
+   "FIELD3": "No. (4/A), Myoma Street, 8 Ward, Pakokku, Myanmar. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.333673, 95.085125",
+   "FIELD6": "Pakokku",
+   "FIELD7": "Pakokku",
+   "FIELD8": " 062- 22479 , 22489,\n062- 23978, 23979 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Palauk Branch",
+   "FIELD3": "No.(703), Baho Street, (1) Ward, Palauk, Tanintharyi Division, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "13.270143, 98.624530",
+   "FIELD6": "Palauk",
+   "FIELD7": "Palauk",
+   "FIELD8": " 059 - 31148, 31149, 31152,\n059 - 31150, 31151 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Palaw Branch",
+   "FIELD3": "No.(12/B), Bogyoke Road, (4) Ward, Palaw, Tanintharyi Division, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "12.974483, 98.646887",
+   "FIELD6": "Palaw",
+   "FIELD7": "Palaw",
+   "FIELD8": " 059 - 30468,\n059 - 30473, 30474, 30467 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pathein Branch",
+   "FIELD3": "Corner of Merchant Road and Shwe Pagoda Road, No, (4) Ward, Pathein.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.780694, 94.732825",
+   "FIELD6": " Pathein",
+   "FIELD7": " Pathein",
+   "FIELD8": " (042) – 23617, 23618, 23619, 23623,\n(042) – 23620, 23621, 23622 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Paung Branch",
+   "FIELD3": "No.(203), Min Street, Paung Ward, Paung Township, Thaton District, Mon State, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.632181, 97.453809",
+   "FIELD6": " Paung",
+   "FIELD7": " Paung",
+   "FIELD8": " 057 - 47108\n057 - 47104, 47105, 47107 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pazundaung Branch",
+   "FIELD3": "Tower (A) Ground Floor, Room no-002, First floor (102), Leik Kan Housing, Lower Pazundaung Street",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.780172, 96.174379",
+   "FIELD6": "Pazundaung",
+   "FIELD7": "Yangon",
+   "FIELD8": "951) 201 969, 9000 269, 9000 270, 9000 273, 9000,\n(951) 9000 271, 9000 272 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pazundaung Branch (Yae Kyaw)",
+   "FIELD3": "No.(63), Ground Floor, Yae Kyaw Street, (7)Ward, Pazundaung, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.781366, 96.172665",
+   "FIELD6": "Pazundaung",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 299 336,\n(01) 290 594, 290 483 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pha-an Branch",
+   "FIELD3": "No. (2/154), Thitsar Street, (2)Ward, Pha-an, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.882909, 97.641599",
+   "FIELD6": "Hpan An",
+   "FIELD7": "Hpan An",
+   "FIELD8": " (95-58) 22 288, 22 570,\n(95-58) 22 571, 22 572 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Phyar Pon Branch",
+   "FIELD3": "No (23), Corner of Pahtama Street and Natshinnaung Street, (4)Block, Phyar Pon.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.292972,95.680836",
+   "FIELD6": "Phyar Pon",
+   "FIELD7": "Phyar Pon",
+   "FIELD8": " (045) 415 38, 415 39, 415 40,\n(045)415 43, 415 44 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Phyu Branch",
+   "FIELD3": "No.(72/73), Bago Street North Lane, Myoma Ward, Phyu, Bago, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "18.488850, 96.436428",
+   "FIELD6": "Phyu",
+   "FIELD7": "Phyu",
+   "FIELD8": " (054) 40 847, 40 852, 40 853,\n(054) 40 848, 40 849, 40 850 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyawbwe Branch",
+   "FIELD3": "No. (194), Minyekyawswar Street, Myinbat Ward, Pyawbwe, Myanmar. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.590170, 96.053746",
+   "FIELD6": "Pyawbwe",
+   "FIELD7": "Pyawbwe",
+   "FIELD8": " (064) 480 30 , 480 31,\n(064) 480 23 , 480 24 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyay (2) Branch",
+   "FIELD3": "No. 13-C, Bogyoke Street, Ywar Bae` East Ward, Pyay, Bago.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "18.82229,95.23157",
+   "FIELD6": "Pyay",
+   "FIELD7": "Pyay",
+   "FIELD8": " (053) 25290/ 24134/ 24589/ 26514/ 26215/ 25570/ 25571,\n(053) 25571/ 26215 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyay Branch",
+   "FIELD3": "No.(1441/ 1442), Corner of Yangon-Pyay Road and Shwe Thidan Street, Sandaw Ward, Pyay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "18.819266, 95.215668",
+   "FIELD6": "Pyay",
+   "FIELD7": "Pyay",
+   "FIELD8": " (95-53) 25 644, 27 845, 27 844,\n(95-53) 24 753, 26 163, 27 846 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyay Road Branch (Chauk Khwel)",
+   "FIELD3": "No.(12), Pyay Road, Chauk Mile Khwel, Hlaing Street, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.843034, 96.135264",
+   "FIELD6": "Pyay",
+   "FIELD7": "Pyay",
+   "FIELD8": " 01-507035, 01- 507041, 01-507042, 01-507063, 01-507072,\n01-507026, 01-507037 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyin Oo Lwin (2) Branch",
+   "FIELD3": "No. 30, Mandalay-Lashio Main Road, Nyan Taw Ward, Pyin Oo Lwin Township, Pyin Oo Lwin District, Mandalay Division.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "22.03456,96.48178",
+   "FIELD6": "Pyin Oo Lwin",
+   "FIELD7": "Pyin Oo Lwin",
+   "FIELD8": " 085 21359, 21783, 21294, 21132, 23126,\n(085) 23126, 21783, 21359 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyin Oo Lwin Branch",
+   "FIELD3": "No (135), Mandalay - Lashio Road, (3)Block, Pyin Oo Lwin, Mayanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "22.029209, 96.465218",
+   "FIELD6": "Pyin Oo Lwin",
+   "FIELD7": "Pyin Oo Lwin",
+   "FIELD8": " (085) 28 405, 28 404,\n(085) 28 407,28 408, 28 409 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Pyinmana Branch",
+   "FIELD3": "No-117, 6th Street, Mingala Ward, Pyinmana, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "19.739704, 96.207669",
+   "FIELD6": "Pyinmana ",
+   "FIELD7": "Pyinmana ",
+   "FIELD8": " (95-67) 222 02, 224 84, 227 57,\n(95-67) 240 66, 226 43, 216 88 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Sagaing Branch",
+   "FIELD3": "No.(60/A), Corner of Minnlan and Htuparyone pagoda Street, Minlan Block, Sagaing, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.880251, 95.984280",
+   "FIELD6": "Sagaing",
+   "FIELD7": "Sagaing",
+   "FIELD8": " (072) 229 34, 229 33, 229 35,\n(072) 229 32, 229 29 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Sakura Branch",
+   "FIELD3": "Room (0101), Ground Floor, Sakura Tower, Bogyoke Aung San Street, Kyauktada Township, Yangon.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.779177, 96.159509",
+   "FIELD6": "Kyauktada",
+   "FIELD7": "Yangon",
+   "FIELD8": "  01 - 255 957, 255 958, 255 959,\n01 - 255 960, 255 961 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Sanchaung (Shwe Laung Street) Branch",
+   "FIELD3": "No. 19, Corner of Shwe Laung Street & Baho Road, Lin Lun South Ward, Sanchaung Township, Yangon.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.80725,96.12991",
+   "FIELD6": "Sanchaung",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01-2304904 , 01-2304905 , 01-2304906 , 01-2304907,\n01-2304908 , 01-2304910 , 01-2304911 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Sanchaung Branch (Bagaya Street)",
+   "FIELD3": "No.(132/B), Ground Floor, Bagaya Street, Sanchaung, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.803738, 96.131120",
+   "FIELD6": "Sanchaung",
+   "FIELD7": "Yangon",
+   "FIELD8": "(01) 2 304 893, 2 304 894,\n(01) 2 304 895, 2 304 896, 2 304 897 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Saya San Branch (Saya San Plaza)",
+   "FIELD3": "No. (5/A), First Floor, New University Avenue Road,. Corner of Saya San Road, Bahan Township, Yangon",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.822011, 96.159831",
+   "FIELD6": "Bahan",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01 - 55 9006 , 55 9633,\n01 - 55 9144 , 55 9184 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "SEZ Branch (Thilawa Industrial Zone)",
+   "FIELD3": "Room-(101), Thilawa Development Street, Corner of Dagon-Thilawa Street, Thilawa Special Economic Zone, Thanlyin Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.675475,96.266307",
+   "FIELD6": "Thanlyin",
+   "FIELD7": "Yangon",
+   "FIELD8": "09 73023694, 09 73021881, 09 73124931, 09 73076904, 09 73078154"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Shwe Bo (2) Branch",
+   "FIELD3": "No. 17, Thakwuttaw Qtr, (6)ward, Aung Zaya Street, Shwe Bo Township, Sagaing Division.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "22.56189,95.69733",
+   "FIELD6": "Shwe Bo",
+   "FIELD7": "Shwe Bo",
+   "FIELD8": " 075 22748/ 49, 22845/ 46/ 47, 22723/ 24\n(075) 22845 / 46/ 47 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Shwe Bo Branch",
+   "FIELD3": "No, 11, Lanmadaw Street, (5) Ward, Shwe Bo, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "22.5662,95.69727",
+   "FIELD6": "Shwe Bo",
+   "FIELD7": "Shwe Bo",
+   "FIELD8": " (95-75) 21892,\n(95-75) 21086, 21380 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Shwe Bon Thar Street Branch",
+   "FIELD3": "No.(253/255), Ground Floor, Shwe Bon Thar Street, (4)Block, Pabedan, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.775932, 96.155993",
+   "FIELD6": "Pabedan",
+   "FIELD7": "Yangon",
+   "FIELD8": "(01) 252 026,\n(01) 252 032, 252 736, 252 682 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Shwegondaing Branch (Yay Tar Shay Street)",
+   "FIELD3": "No.(125), Room (1-2), Shwegondaing Street, Bahan, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.804639, 96.151040",
+   "FIELD6": "Bahan",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 554 721, 554 529,\n(01) 554 705, 554 729, 556 052 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Shwepyithar Branch",
+   "FIELD3": "No.(47), Corner of Bogyoke Street and Ngwe Yamone Street, (5/3) Ward, Shwepyithar, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.956710, 96.081881",
+   "FIELD6": "Shwepyithar",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 610 992,\n(01) 610 974, 610 975, 611 595 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Singu Branch",
+   "FIELD3": "No.(69), Ayeyar Aung Myay Street, (1) Ward, Singu, Pyin Oo Lwin, Mandalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "22.546635, 95.990219",
+   "FIELD6": "Singu",
+   "FIELD7": "Singu",
+   "FIELD8": " (086) 350 81,\n(086) 352 03, 351 25, 351 69 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Sintgaing Branch",
+   "FIELD3": "No. 89 Bo Tayza Street, Myoma (7)ward, Sintgaing Township, Kyaukse District, Mandalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.732951, 96.101827",
+   "FIELD6": "Sintgaing",
+   "FIELD7": "Sintkaing",
+   "FIELD8": " 066 40420/21/22/23/27/28, 40328, 40377,\n066 404327/404308 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Sittwe Branch ",
+   "FIELD3": "No. (Lama/35), Main Road, Rupa South Ward, Sittwe, Myanmar. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.144423, 92.896899",
+   "FIELD6": "Sittwe",
+   "FIELD7": "Sittwe",
+   "FIELD8": " 043 - 228 11 , 228 08,\n043 - 228 09, 228 10, 22812 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "South Okkalapa Branch",
+   "FIELD3": "No. (14), Waizayandar Road, (6) Block, South Okkalapa Township, Yangon, Myanmar. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.842723, 96.172699",
+   "FIELD6": "South Okkalapa",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01 - 8500 734, 8500 741, 8500 742\n01 - 8500 736, 8500 737, 8500 738 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Sule Square Branch",
+   "FIELD3": "No.(171/ 221), Sule Pagoda Road,No (1) Ward, Kyauktada Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.777561, 96.158682",
+   "FIELD6": "Kyauktada",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01 - 9255159, 9255163,\n01 - 9255160, 9255161, 9255162 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Tacheliek Branch",
+   "FIELD3": "No-84/A, Bogyoke Road, Wan Kaung Ward, Tacheliek.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.448937, 99.882489",
+   "FIELD6": "Tacheliek",
+   "FIELD7": "Tacheliek",
+   "FIELD8": " (084) – 52979, 52980, 52985, 52986,\n(084) – 52982, 52983, 52984 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Tada-U Branch",
+   "FIELD3": "No.(75), Mandalay Myothar Street, (2) Ward, Tada-U, Mandalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.821681, 95.973760",
+   "FIELD6": " Tada U",
+   "FIELD7": " Tada U",
+   "FIELD8": " (066) 44 048, 44 043,\n(066) 44 011, 44 369, 44 265 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Taikkyi Branch",
+   "FIELD3": "No.(191), Yangon-Pyay Road, Butar Ward, Taikkyi, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "17.311774, 95.965958",
+   "FIELD6": "Taikkyi",
+   "FIELD7": "Taikkyi",
+   "FIELD8": " (055) 21 184, 21 185, 20 095,\n(055) 21 180, 21 181, 21 186 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Tamwe (Aw Bar Street) Branch",
+   "FIELD3": "No.(339), Banyardala Street, Pyaryaykone Ward, Tamwe Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.800162, 96.175420",
+   "FIELD6": "Tamwe",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 8 604 460,\n(01) 8 604 457, 8 604 458, 8 604 459 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Tamwe Branch (East Horse Race Course Road)",
+   "FIELD3": "No. 276, Room (C-1,D1), East Horse Race Course Road, Tamwe Township, Yangon. ",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.82598,96.17154",
+   "FIELD6": "Tamwe",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01 860 4773-776 / 860 4778-780,\n(95) 01 860 4778-780 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Tatkon Branch",
+   "FIELD3": "No.(136), Lanmadaw Street, Myawaddy Ward, Naypyitaw (Tatkon), Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.127497, 96.209847",
+   "FIELD6": "Tatkon",
+   "FIELD7": "Tatkon",
+   "FIELD8": " (067) 80 71 121, 80 71 122,\n(067) 80 71 118, 80 71 119, 80 71 120 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Taungdwingyi Branch",
+   "FIELD3": "No. (139/A), Pyay Road, Shwekyarinn (2) Ward, Taungdwingyi, Magway Division, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.004598, 95.545327",
+   "FIELD6": "Taungdwingyi",
+   "FIELD7": "Taungdwingyi",
+   "FIELD8": " 063 - 20 511 37, 20 511 38, 20 511 39,\n063 - 20 511 32, 20 511 33 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Taunggyi (Ye Htwet Oo Street) Mini Branch",
+   "FIELD3": "No.(209), Ye Htwet Oo Street, Kanshae Ward, Taunggyi, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.78744,97.04498",
+   "FIELD6": " Taunggyi",
+   "FIELD7": " Taunggyi",
+   "FIELD8": "(081) 2121293, 21 22282"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Taunggyi Branch",
+   "FIELD3": "No.(129) Bogyoke Street, Myoma Ward, Taunggyi.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.779301, 97.036766",
+   "FIELD6": " Taunggyi",
+   "FIELD7": " Taunggyi",
+   "FIELD8": " (081) 202 012, 202 013, 202 014, 202 015,\n(081) 202 017, 202 018 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Taungngu Branch",
+   "FIELD3": "No-7, Konthegyi Road, (16) Block, Taungngu, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "18.939246, 96.439770",
+   "FIELD6": "Taungoo",
+   "FIELD7": "Taungoo",
+   "FIELD8": " (95-54)23 914, 23 915, 24 224,\n(95-54) 24 757, 24 630 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Taungoo (3) Branch",
+   "FIELD3": "No. 55, Yangon-Mandalay Main Road, Htee Ni Kone Ward, Taungoo Township, Bago Division.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "18.924114, 96.445470",
+   "FIELD6": "Taungoo",
+   "FIELD7": "Taungoo",
+   "FIELD8": " 054 24560, 24342, 24551, 24486, 24495, 24801, 24529, 24532,\n(054) 24551, 24486, 24801 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thain Phyu Branch",
+   "FIELD3": "No.(470), Thain Phyu Street, Phomyay Ward, Mingalartaungnyunt, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.786655, 96.167777",
+   "FIELD6": "Mingalartaungnyunt",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 382 667,\n(01) 382 607, 382 608 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thandwe Branch",
+   "FIELD3": "No.(11), Bayintnaung Road, (3) Ward, Thandwe, Rakhine, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "18.465946, 94.367055",
+   "FIELD6": "Thandwe",
+   "FIELD7": "Thandwe",
+   "FIELD8": " (043) 655 64, 655 65,\n(043) 655 66, 655 67, 655 68 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thanlyin Branch",
+   "FIELD3": "No.(22), Kyaik Khauk Pagoda Road, Aung Mingalar Ward, Thanlyin, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.769578, 96.251064",
+   "FIELD6": "Thanlyin",
+   "FIELD7": "Yangon",
+   "FIELD8": "(056) 23 304, 23 305, 23 306"
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thayarwady Branch",
+   "FIELD3": "No.(8), Yangon-Pyay Road, Kwat Thit Ward, Thayarwady, Bago, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "17.651550, 95.783360",
+   "FIELD6": "Thayarwady",
+   "FIELD7": "Thayarwady",
+   "FIELD8": " (055) 31 198,\n(055) 31 196, 31 197 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thayetchaung Branch",
+   "FIELD3": "No.(146/1), Dawei-Myeik Road, Myoma Ward, Thayetchaung Township, Dawei Distinct, Tanintharyi Division, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "13.863951, 98.263661",
+   "FIELD6": "Thayetchaung",
+   "FIELD7": "Thayetchaung",
+   "FIELD8": " 059 - 35256,\n059 - 35257, 35258, 35259 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thazi Branch",
+   "FIELD3": "No.(56), No(1) Thiri Mingalar Ward, Taunggyi-Meikhtila Road, Thazi, Mandalay, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.851183, 96.049447",
+   "FIELD6": "Thazi",
+   "FIELD7": "Thazi",
+   "FIELD8": " (064) 20 69 772, 20 69 773,\n(064) 20 69 774, 20 69 775, 20 69 776 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thein Gyi Zay Mini Branch",
+   "FIELD3": "Room No.(34, 35, 36), Block (4) Ground Floor, Thein Gyi Zay (C) Block, Pabedan, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.774416, 96.152824",
+   "FIELD6": " Pabedan",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 373214,\n(01) 383593 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thingangyun (Wai Za Yan Tar Road) Branch",
+   "FIELD3": "No.(9/A), Corner of Wai Za Yan Tar Road and Aung Thapyay Road, (Za) South Ward, Thingangkuun Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.828097, 96.184249",
+   "FIELD6": "Thingangyun",
+   "FIELD7": "Yangon",
+   "FIELD8": " 01-560051, 01-560056, 01-560057, 01-560058, 01-560089, 01-560090,\n01-560029, 01-560059 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thingangyun Branch",
+   "FIELD3": "M-4, Maykha Housing, No(124), Laydaungkan Road, 29/33 (A+B), Sa/Ka Quartar, Thingangyun Township, Yangon.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.836425, 96.198480",
+   "FIELD6": "Thingangyun",
+   "FIELD7": "Yangon",
+   "FIELD8": " (95-1) 8551 282,\n(95-1) 8551 280,8551 279,569 532 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thiri Yadanar (North Okkalapa) Branch",
+   "FIELD3": "No.(A 3/4), Thiri Yadanar Truck Terminal, Thudamar Street, Htawunba extend ward, North Okkalapa, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.925095, 96.156835",
+   "FIELD6": "North Okkalapa",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 691 029,\n(01) 692 486, 692 487, 692 488 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Thuwunna Branch",
+   "FIELD3": "No.(4/6), Thanthumar Street, Thingangkuun, Yangon.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.815476, 96.192382",
+   "FIELD6": "Thingangyun",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 561 787,\n(01) 572 660, 569 718 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Union Financial Centre Branch (Head Office)",
+   "FIELD3": "Union Of Financial Centre, Corner of Mahar Bandula Road and Thein Phyu Road, Botahtaung Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.774289, 96.167634",
+   "FIELD6": "Botahtaung",
+   "FIELD7": "Yangon",
+   "FIELD8": " (01) 860 323, 860 324, 860 325,\n(01) 861 0319, 861 0320, 861 0321, 861 0322 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Wakema Branch",
+   "FIELD3": "No.(61/Ka), Myue Yone Street, Saryaekone Ward, Wakema, Ayeyarwady, Myanmar",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.605172, 95.172343",
+   "FIELD6": "Wakema",
+   "FIELD7": "Wakema",
+   "FIELD8": " (042) 60 304, 60 523,\n(042) 60 419, 60 510 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Wizaya Branch",
+   "FIELD3": "No-226, Ground Floor, Corner of Damazadi rodad and U Wizaya roda, Bahan Township, Yangon, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "16.804496, 96.142919",
+   "FIELD6": "Bahan",
+   "FIELD7": "Yangon",
+   "FIELD8": " (95-1) 525212, 525213, 375712,\n(95-1) 243850, 375788 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ya Mae Thin Branch",
+   "FIELD3": "No. (La / 16), Lanmadaw Street, Aung Mingalar Ward, Ya Mae Thin, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.429875, 96.138710",
+   "FIELD6": "Ya Mae Thin",
+   "FIELD7": "Ya Mae Thin",
+   "FIELD8": " 064 - 40 532, 40 626, 40 772,\n064 - 40 768, 40 769 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Ye Branch",
+   "FIELD3": "No.(101), Bogyoke Street, Yangyi Aung Ward, Ye, Mon State, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "15.246141, 97.854926",
+   "FIELD6": "Ye",
+   "FIELD7": "Ye",
+   "FIELD8": " 057 - 50358, 50681, 50682,\n057 - 50370, 50373 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yenangyaung Branch",
+   "FIELD3": "No.(733), Lanmadaw Street, Ywarthit Ward, Yenangyaung, Magway, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "20.458800, 94.874674",
+   "FIELD6": "Yenangyaung",
+   "FIELD7": "Yenangyaung",
+   "FIELD8": " (060) 88 21 730, 88 21 731,\n(060) 88 21 728, 88 21 729 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Yesagyo Branch",
+   "FIELD3": "No.(15), Bogyoke Street, (2) Ward, Yesagyo Township, Pakokku, Magway Division, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "21.63018,95.24414",
+   "FIELD6": "Yesagyo",
+   "FIELD7": "Yesagyo",
+   "FIELD8": " 062 - 30156, 30967, 30968,\n062 - 30964, 30965, 30966 "
+ },
+ {
+   "FIELD1": "CB",
+   "FIELD2": "Zigon (Pyay Street) Mini Branch",
+   "FIELD3": "No.(Ma/80), (3)Ward, Yangon-Pyay Road, Zigon, Bago, Myanmar.",
+   "FIELD4": "9 AM to 3 PM",
+   "FIELD5": "18.329678, 95.625378",
+   "FIELD6": "Zigon",
+   "FIELD7": "Zigon",
+   "FIELD8": " (053) 34617,\n(053) 34616 "
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Yangon-International Airport (Arrival)",
+   "FIELD3": "Yangon-International Airport (Arrival)",
+   "FIELD4": "Monday to Sunday 6:00 AM to 12:00 AM",
+   "FIELD5": "16.902812,96.135451",
+   "FIELD6": "Yangon",
+   "FIELD7": "Yangon",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Yangon-International Airport (Departure)",
+   "FIELD3": "Yangon-International Airport (Departure)",
+   "FIELD4": "Monday to Sunday\n9:00 AM to 4:00 AM",
+   "FIELD5": "16.902812,96.135451",
+   "FIELD6": "Yangon",
+   "FIELD7": "Yangon",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Shwedagon Pagoda",
+   "FIELD3": "Shwedagon Pagoda",
+   "FIELD4": "Monday to Sunday           9:00 AM to 7:00 AM",
+   "FIELD5": "16.798310, 96.149616",
+   "FIELD6": "Yangon",
+   "FIELD7": "Yangon",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Kin Pon Camp",
+   "FIELD3": "Kin Pon Camp",
+   "FIELD4": "Monday to Sunday 9:30 AM to 3:00 AM",
+   "FIELD5": "17.397945, 97.078560",
+   "FIELD6": "Kin Pon",
+   "FIELD7": "Kin Pon",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Phaung Daw Oo Pagoda Heho Airport",
+   "FIELD3": "Phaung Daw Oo Pagoda Heho Airport",
+   "FIELD4": "Monday to Sunday 9:00 AM to 3:30 AM",
+   "FIELD5": "20.742875, 96.792832",
+   "FIELD6": "Heho",
+   "FIELD7": "Heho",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Mandalay-International Airport (Arrival)",
+   "FIELD3": "Mandalay-International Airport (Arrival)",
+   "FIELD4": "Monday to Sunday 9:00 AM to 4:00 AM",
+   "FIELD5": "21.705690, 95.970817",
+   "FIELD6": "Mandalay",
+   "FIELD7": "Mandalay",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Naypyidaw International Airport (Arrival+Depature)",
+   "FIELD3": "Naypyidaw International Airport (Arrival+Depature)",
+   "FIELD4": "Monday to Sunday 8:00 AM to 3:00 AM",
+   "FIELD5": "19.615351, 96.213011",
+   "FIELD6": "NayPyidaw",
+   "FIELD7": "NayPyiDaw",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Thandwe Airport",
+   "FIELD3": "Thandwe Airport",
+   "FIELD4": "Monday to Sunday  6:00 AM to 12:00 AM",
+   "FIELD5": "18.461156, 94.300165",
+   "FIELD6": "Thandwe",
+   "FIELD7": "Thandwe",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "KBZ",
+   "FIELD2": "Nyaung U Airport",
+   "FIELD3": "Nyaung U Airport",
+   "FIELD4": "Monday to Sunday 6:00 AM to 9:00 AM",
+   "FIELD5": "21.175523, 94.928705",
+   "FIELD6": "Nyaung U",
+   "FIELD7": "Nyaung U",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Yangon-International Airport (Arrival)",
+   "FIELD3": "Yangon-International Airport (Arrival)",
+   "FIELD4": "Monday to Sunday 6:00 AM to 12:00 AM",
+   "FIELD5": "16.902812,96.135451",
+   "FIELD6": "Yangon",
+   "FIELD7": "Yangon",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Yangon-International Airport (Departure)",
+   "FIELD3": "Yangon-International Airport (Departure)",
+   "FIELD4": "Monday to Sunday\n9:00 AM to 4:00 AM",
+   "FIELD5": "16.902812,96.135451",
+   "FIELD6": "Yangon",
+   "FIELD7": "Yangon",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Shwedagon Pagoda",
+   "FIELD3": "Shwedagon Pagoda",
+   "FIELD4": "Monday to Sunday           9:00 AM to 7:00 AM",
+   "FIELD5": "16.798310, 96.149616",
+   "FIELD6": "Yangon",
+   "FIELD7": "Yangon",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Mandalay-International Airport (Arrival)",
+   "FIELD3": "Mandalay-International Airport (Arrival)",
+   "FIELD4": "Monday to Sunday 9:00 AM to 4:00 AM",
+   "FIELD5": "21.705690, 95.970817",
+   "FIELD6": "Mandalay",
+   "FIELD7": "Mandalay",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "AGD",
+   "FIELD2": "Naypyidaw International Airport (Arrival+Depature)",
+   "FIELD3": "Naypyidaw International Airport (Arrival+Depature)",
+   "FIELD4": "Monday to Sunday 8:00 AM to 3:00 AM",
+   "FIELD5": "19.615351, 96.213011",
+   "FIELD6": "NayPyidaw",
+   "FIELD7": "NayPyiDaw",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Yangon-International Airport (Arrival)",
+   "FIELD3": "Yangon-International Airport (Arrival)",
+   "FIELD4": "Monday to Sunday 6:00 AM to 12:00 AM",
+   "FIELD5": "16.902812,96.135451",
+   "FIELD6": "Yangon",
+   "FIELD7": "Yangon",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Yangon-International Airport (Departure)",
+   "FIELD3": "Yangon-International Airport (Departure)",
+   "FIELD4": "Monday to Sunday\n9:00 AM to 4:00 AM",
+   "FIELD5": "16.902812,96.135451",
+   "FIELD6": "Yangon",
+   "FIELD7": "Yangon",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Shwedagon Pagoda",
+   "FIELD3": "Shwedagon Pagoda",
+   "FIELD4": "Monday to Sunday           9:00 AM to 7:00 AM",
+   "FIELD5": "16.798310, 96.149616",
+   "FIELD6": "Yangon",
+   "FIELD7": "Yangon",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Mandalay-International Airport (Arrival)",
+   "FIELD3": "Mandalay-International Airport (Arrival)",
+   "FIELD4": "Monday to Sunday 9:00 AM to 4:00 AM",
+   "FIELD5": "21.705690, 95.970817",
+   "FIELD6": "Mandalay",
+   "FIELD7": "Mandalay",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "AYA",
+   "FIELD2": "Naypyidaw International Airport (Arrival+Depature)",
+   "FIELD3": "Naypyidaw International Airport (Arrival+Depature)",
+   "FIELD4": "Monday to Sunday 8:00 AM to 3:00 AM",
+   "FIELD5": "19.615351, 96.213011",
+   "FIELD6": "NayPyidaw",
+   "FIELD7": "NayPyiDaw",
+   "FIELD8": ""
+ }
+]

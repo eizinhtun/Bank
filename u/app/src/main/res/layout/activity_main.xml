@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+    <ImageView
+        android:id="@+id/logoImg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:adjustViewBounds="true"
+        android:fitsSystemWindows="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/homescreennew" />
+
+    <!-- <TextView
+         android:layout_width="match_parent"
+         android:layout_height="32dp"
+         android:layout_alignParentTop="true"
+         android:layout_marginTop="150dp"
+         android:text="Choose bank that suits your lifestyle"
+         android:textAlignment="center"
+         android:textColor="@color/colorPrimaryDark"
+         android:textStyle="italic" />-->
+
+    <View
+        android:id="@+id/spacingView"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/logoImg" />
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spacingView"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/card_margin"
+        android:paddingRight="@dimen/card_margin"
+        android:weightSum="100">
+
+        <Button
+            android:id="@+id/btn_bank"
+            style="@android:style/Widget.Button"
+            android:layout_width="match_parent"
+            android:layout_height="99dp"
+            android:layout_marginTop="3dp"
+            android:layout_weight="50"
+            android:background="@drawable/home_buttton"
+            android:drawableTop="@drawable/bank"
+            android:paddingTop="5dp"
+            android:text="Bank"
+            android:textColor="@color/button_text" />
+
+        <View
+            android:layout_width="5dp"
+            android:layout_height="90dp" />
+
+        <Button
+            android:id="@+id/btn_location"
+            style="@android:style/Widget.Button"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_weight="50"
+            android:background="@drawable/home_buttton"
+            android:drawableTop="@drawable/location"
+            android:paddingTop="5dp"
+            android:text="Nearest Location"
+            android:textColor="@color/button_text" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/spacingView1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/linear" />
+
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/spacingView1"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/card_margin"
+        android:paddingRight="@dimen/card_margin"
+        android:weightSum="100">
+
+
+        <Button
+            android:id="@+id/btn_loan"
+            style="@android:style/Widget.Button"
+            android:layout_width="match_parent"
+            android:layout_height="99dp"
+            android:layout_marginTop="3dp"
+            android:layout_weight="50"
+            android:background="@drawable/home_buttton"
+            android:drawableTop="@drawable/loan"
+            android:paddingTop="5dp"
+            android:text="Loan"
+            android:textColor="@color/button_text" />
+
+
+        <View
+            android:layout_width="5dp"
+            android:layout_height="90dp" />
+
+        <Button
+            android:id="@+id/btn_account"
+            style="@android:style/Widget.Button"
+            android:layout_width="match_parent"
+            android:layout_height="99dp"
+            android:layout_marginTop="3dp"
+            android:layout_weight="50"
+            android:background="@drawable/home_buttton"
+            android:drawableTop="@drawable/notebook"
+            android:paddingTop="5dp"
+            android:text="Account"
+            android:textColor="@color/button_text" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/spacingView2"
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@id/linear1" />
+
+    <LinearLayout
+        android:id="@+id/linear2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spacingView2"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/card_margin"
+        android:paddingRight="@dimen/card_margin"
+        android:weightSum="100">
+
+
+        <Button
+            android:id="@+id/btn_currency_exchange"
+            style="@android:style/Widget.Button"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_weight="50"
+            android:background="@drawable/home_buttton"
+            android:drawableTop="@drawable/currency_exchange"
+            android:paddingTop="5dp"
+            android:text="Currency Exchange"
+            android:textColor="@color/button_text" />
+
+        <View
+            android:layout_width="5dp"
+            android:layout_height="90dp" />
+
+        <Button
+            android:id="@+id/btn_review"
+            style="@android:style/Widget.Button"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_weight="50"
+            android:background="@drawable/home_buttton"
+            android:drawableTop="@drawable/review"
+            android:paddingTop="14dp"
+            android:text="Review"
+            android:textColor="@color/button_text" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/spacingView3"
+        android:layout_width="match_parent"
+        android:layout_height="16dp"
+        android:layout_below="@id/linear2" />
+
+    <TextView
+        android:id="@+id/tvAboutHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spacingView3"
+        android:layout_marginTop="@dimen/margin"
+        android:text="About"
+        android:textAlignment="center"
+        android:textSize="16dp"
+        android:textStyle="italic" />
+</RelativeLayout>
+

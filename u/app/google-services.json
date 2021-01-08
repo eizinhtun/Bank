@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "773922503412",
+    "firebase_url": "https://review-18a43.firebaseio.com",
+    "project_id": "review-18a43",
+    "storage_bucket": "review-18a43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773922503412:android:a59c95ad2593fc69",
+        "android_client_info": {
+          "package_name": "com.upper.team1726.bankbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773922503412-86u48it3if8nru4viclnv9hotl31pr1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upper.team1726.bankbox",
+            "certificate_hash": "3d5cc62597fbdb4c5f6dca5a8d51c7f7e978b88a"
+          }
+        },
+        {
+          "client_id": "773922503412-c1tiifphl2kk7l309mo8pfl91ouptu2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPJIsUmWplTMevmHzJLr3VThHgSmnQ9Ho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773922503412-c1tiifphl2kk7l309mo8pfl91ouptu2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,98 @@
+[
+	{
+		"Bank": "AGD",
+		"Service": "Remittance Charges to AGD Bank’s Branches",
+		"Description": "<ul><li>The charges are defined as <b>0.05% of remitted amount plus 500 kyats </b>for the<b> using of online or fax </b>. <li>The <b>minimum remittance</b> charges shall be <b>100 kyats.</b></ul>"
+	},
+	{
+		"Bank": "AGD",
+		"Service": "Remittance Charges to Non-AGD banks",
+		"Description": "&nbsp &nbsp    The charges are<b> 0.05% (or) 0.10% (or) 0.15% </b>of remitted amount based on the other banks defined charges<b> plus 500 kyats for the using of online or fax.</b><br>&nbsp &nbsp     The minimum remittance charges shall be defined by the other banks."
+	},
+	{
+		"Bank": "CB",
+		"Service": "Account to Account Transfer",
+		"Description": "<ul><li> Anyone can<b> transfer Myanmar </b> currency (MMK, Kyats) for transfer.<li><b>Same Branch - Without Fee </b><li>This transfer can send between CB bank branches and other linked Banks for domestic transfer.<li>It needs to provide<b> name, ID number and transfer account number of both sender and receiver as complete. </b></ul>"
+	},
+	{
+		"Bank": "CB",
+		"Service": "Transfer Rate",
+		"Description": "<ul><li>At present service rate is defined <b>MMK 0.05 for transfer MMK 100 </b>and <b>added MMK 500 to any statement for Fax using. </b><li>Transfer rate is defined <b>at least MMK 150.</b> No limit on transfer amount.<li>We should get special transfer rate for Special restricted area as occasionally.<li><b>Minimum transfer fee is MMK 150 </b>, transfer amount is unlimited.<li>The charges will be collected for special regions from time to time.</ul>"
+	},
+	{
+		"Bank": "CB",
+		"Service": "Remittance Fee Rate",
+		"Description": "<ul><li>At present <b>remittance rate is defined MMK 0.05 for remittance MMK 100 </b>and <b>added MMK 500 to any statement for Fax using. </b><li>The remittance rate is defined <b> at least MMK 150.</b><li> According to negotiation between the branches, the remittance amount can be transferred. <li>There is no limit on remittance amount.<li>Should get special remittance rate for Special restricted area as occasionally.</ul>"
+	},
+	{
+		"Bank": "CB",
+		"Service": "International Funds Transfer via SWIFT ",
+		"Description": "<ul><li>SWIFT BIC Code: CPOBMMMY<li>Charges: &nbsp Commission <b>0.125% + Charge MMK 2,000</b></ul>"
+	},
+	{
+		"Bank": "AYA",
+		"Service": "Remittance Fee Rate",
+		"Description": " &nbsp &nbsp A telegraphic transfer is the quickest means whereby the beneficiary generally receives payment within 24 hrs of dispatch in local or foreign currency."
+	},
+	{
+		"Bank": "AYA",
+		"Service": "AYA International Money Transfer Service",
+		"Description": "The safe and reliable way of sending your hard earned money to your loved ones in Myanmar from abroad. Transfer from sender in foreign countries to beneficiaries in Myanmar through agency relationships (Banks and Non-banks) with AYA Bank.<ul>MALAYSIA<li>International Money Express (IME)<li>Maybank Money Express (MME)<li>Akbar Money Transfer Service (Qremit)<li>CIMB Speedsend</ul><ul>SINGAPORE<li>AYA – DBS Bill Payment Service<li>International Money Express (IME) </ul><ul>BRUNEI<li>International Money Express (IME)</ul><ul>THAILAND<li>Bangkok Bank Worker’s Remittance</ul><ul>WORLDWIDE<li>Western Union </ul>"
+	},
+	{
+		"Bank": "AYA",
+		"Service": "AYA SWIFT Telegraphic Transfer",
+		"Description": " &nbsp &nbsp A very fast, safe and reliable way of transferring money between two persons or entities anywhere in the world through use of AYA’s wide correspondent relationships and the SWIFT network.<ul>Outward SWIFT Telegraphic Transfer<li>Sending money to beneficiaries outside Myanmar from your account with AYA Bank</ul><ul>Inward SWIFT Telegraphic Transfer<li>Receiving funds to your account in Myanmar from senders outside Myanmar</ul>"
+	},
+	{
+		"Bank": "AYA",
+		"Service": "AYA Payment Order",
+		"Description": "<ul><li>Payment order is a form of payment settlement to individual, company and associations. <li>It can be purchased at any AYA branches. <li>Payment order is designed as a normal payment order to pay a particular amount for a third party that is not a Bank.</ul><ul>Benefit<li>Legality of P.O service<li>Available to use at every AYA branches<li>Guarantee payment to beneficiary officially<li>Transparent and clear channels for dispute handling"
+	},
+	{
+		"Bank": "YOMA",
+		"Service": "Remittance",
+		"Description": "<ul><li>Unlimited amount of transfer in each transaction<li><b>500 kyats fee</b> per transaction<li><b>0.005% transaction fee</b> on remittances regardless of the amount<li>Easily accessible through more than 50 branches in 24 cities</ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Service": "International Remittance",
+		"Description": "&nbsp &nbsp To facilitate fast and secure transfer of funds, Kanbawza bank (KBZ) offers international remittance service to students going abroad for the study, patients going abroad for medical treatment/check-up, foreigners and those working overseas. "
+	},
+	{
+		"Bank": "KBZ",
+		"Service": "Commercial Remittance (Inward Remittance)",
+		"Description": "Commercial Remittance is Account-to-Account transfer of money from other countries to Myanmar via SWIFT."
+	},
+	{
+		"Bank": "KBZ",
+		"Service": "Worker Remittance (Inward Remittance)",
+		"Description": "<ul><li>Worker Remittance is the transfer of money from migrant citizen.<.li>The beneficiary can withdraw in<b> Myanmar Kyats (MMK) only. </b><li>The worker remittance charge is <b>cheaper than commercial remittance.</b><li> There are five agents to remit through worker remittance.<ul><li>MME (Malayan Banking Berhad)<li>M Trade (Merchant Trade)<li>Bangkok Bank PCL<li>Siam Commercial Bank PCL and<li>Krung Thai PCL</ul></ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Service": "Western Union (Inward Remittance)",
+		"Description": "<ul><li>The Western Union Company is an American financial services and communications company.<li> They allow transferring money online to friends and family around the world via Western Union.<li> Customer will be able to withdraw money with provided MTCN1234567890 (Money Transfer Control Number).</ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Service": "Inward Remittance Service Charges",
+		"Description": "<ul><li><b>$10</b> per transaction for USD account ($10 equivalent)<li>Per Transaction for other currency accounts - <b>10,000 MMK </b> (Per Transaction for Myanmar Kyat account)</ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Service": "Outward Remittance",
+		"Description": "&nbsp &nbsp Outward Remittance is the transfer of money from one country to another via SWIFT. Remittance charges vary for each destination. (M Trade (Merchant Trade)<ul><li>Bangkok Bank PCL<li>Siam Commercial Bank PCL and<li>Krung Thai PCL</ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Service": "Outward Remittance Service Charges",
+		"Description": "<ul><li>if outward Remittance <b>< 20,000 USD</b>, service charge  is <b>$ 25</b><li>if outward Remittance<b> > 20,000 USD </b>, service charge  is <b> 0.125% </b> on amount<li>Swift Charges -<b> $2 </b><li>other charges (Amendment, Cancellation & Query (Tracer) ) -<b> $10 + Swift $2</b></ul>"
+	},
+	{
+		"Bank": "KBZ",
+		"Service": "Local Remittance",
+		"Description": "<ul>Sending Remittance<li>Can transfer money from all KBZ Branches.</ul><ul>Withdrawal<li>The account holder can make withdrawals to the branch where the fund is being transferred.</ul><ul>Required Documents<li>To withdraw money, the person must be 18 years old and visit personally.<li>Must bring original National Registration Card (NRC) to the branch where the fund is being transferred.</ul>"
+	}
+
+]

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.AboutUs">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/ScrollView01"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/viewBg"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="32dp"
+            android:paddingLeft="@dimen/margin"
+            android:paddingRight="@dimen/margin"
+            android:paddingTop="32dp">
+
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/imageButton"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="@dimen/card_margin"
+                        android:src="@drawable/quickbanklogo" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/topMargin"
+                        android:text="Quick Bank"
+                        android:textAlignment="center"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:textSize="16dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/card_text_padding"
+                        android:text="version 1.0"
+                        android:textAlignment="center" />
+
+
+                    <TextView
+                        android:id="@+id/tvAbout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="@dimen/card_text_padding"
+                        android:padding="@dimen/card_text_padding"
+                        android:text="Quick Bank application is a collection of banks in Myanmar.You can find branches,ATMs and money exchange around you on map.If you don't want to go online, you can just search the address filtered by townships.You can also know what banks provide what kind of services .Can also calculate and compare the interest rates of the banks.And also compare currency exchange rates.Can also review the banks.Overall this application will help you to find the branches and banks near you and also help you in deciding which banks and services  is most appropriate for you " />
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/tvDevelop"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="@dimen/card_text_padding"
+                        android:layout_marginTop="@dimen/card_text_padding"
+                        android:padding="@dimen/card_margin"
+                        android:text="Developed By:"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="@dimen/card_text_padding"
+                        android:padding="@dimen/card_margin"
+                        android:text="Team 17/26 (Samsung Tech Institute)"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="@dimen/card_text_padding"
+                        android:padding="@dimen/card_margin"
+                        android:text="-Ei Zin Htun" />
+
+                    <TextView
+                        android:id="@+id/tvEiLink"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="@dimen/card_text_padding"
+                        android:padding="@dimen/card_margin"
+                        android:text=" (eizinzinlin@gmail.com)"
+                        android:textColor="@color/linkColor" />
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="@dimen/card_text_padding"
+                        android:padding="@dimen/card_margin"
+                        android:text="-Yi Yi Htun" />
+
+                    <TextView
+                        android:id="@+id/tvYiLink"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="@dimen/card_text_padding"
+                        android:padding="@dimen/card_margin"
+                        android:text=" (yiyi.smilelay@gmail.com)"
+                        android:textColor="@color/linkColor" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="@dimen/card_text_padding"
+                        android:padding="@dimen/card_margin"
+                        android:text="-May Htet Htet Hlaing" />
+
+                    <TextView
+                        android:id="@+id/tvMayLink"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_margin"
+                        android:layout_marginBottom="@dimen/card_text_padding"
+                        android:text=" (mayhtethlaingmh318@gmail.com)"
+                        android:textColor="@color/linkColor" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="@dimen/card_text_padding"
+                        android:padding="@dimen/card_margin"
+                        android:text="UTYCC (University of Technology-Yatanarpon Cyber City)"
+                        android:textStyle="italic" />
+
+
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+</android.support.design.widget.CoordinatorLayout>
